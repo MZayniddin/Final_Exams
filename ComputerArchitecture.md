@@ -1,4 +1,4 @@
-# “Computer Architecture” “Information Systems Engineering” “ISE-51U/ISE-52U/ISE-53U” 
+# Computer Architecture - Information Systems Engineering ISE-51U/ISE-52U/ISE-53U 
 
 ```diff
 
