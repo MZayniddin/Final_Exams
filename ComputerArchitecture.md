@@ -282,8 +282,9 @@ a) RAM (Random Access Memory)
 89. Kompyuter Qurilma ta'minotidagi uzilishlarning turlarini belgilang.
 - dasturiy uskunaviy
 
- 90. Protsessor katta hajmli dastur bilan ishlayotgan bo'lsa va uzilishni vaqtincha e'tiborga olmasa bu qanday uzilish deb nomlanadi?
-+ Agar protsessor katta hajmli dastur bilan ishlayotgan bo'lsa va uzilishni vaqtincha e'tiborga olmasa, bu uzilish "hang" deb nomlanadi.
+90. Protsessor katta hajmli dastur bilan ishlayotgan bo‘lsa va uzilishni vaqtincha e’tiborga olmasa bu qanday uzilish deb nomlanadi?
+
+-   maskasiz uzilish
 
 91. Maskasiz uzilish qoidasiga ko'ra uzilish sodir bo'lgandan keyin xizmat ko'rsatish qancha vaqtdan keyin to'xtatiladi? 
 + Maskasiz uzilish qoidasiga ko'ra, uzilish sodir bo'lgandan keyin xizmat ko'rsatish to'xtatilish vaqti uzilish turi va xususiyatlariga qarab o'zgaradi. Agar uzilish kichikroq va osonroq bo'lsa, xizmat ko'rsatish to'xtatilish vaqti kam bo'ladi.
@@ -566,11 +567,12 @@ Markaziy protsessor biror-bir dastur yoki ma'lumotga murojaat qilganidan so'ng a
 173. Ikkiliq sanoq sistemasidagi 110112 – 100102 sonlarining ayirmasini toping. 
 110112 - 100102 = 1012
 
-174. Ikkilik sanoq sistemasidagi 101112 × 112 sonlarining ko'paytmasini toping. 
-101112 × 112 = 10000002	
+174. Ikkilik sanoq sistemasidagi 101112 × 112 sonlarining ko‘paytmasini toping. 
+
++   101112 × 112 = 10001012	
 
 175. Ikkilik sanoq sistemasidagi 110012 × 1012 sonlarining ko'paytmasini hisoblang. 
-+ 11111012
++   11111012
 
 
 176. Quyidagi keltirilgan kompyuter komponentlaridan qaysi biri markaziy protsessorni tashqi olam qurilmalari va ma'lumotlari bilan bog'lash uchun xizmat qiladi? 
@@ -761,7 +763,8 @@ Ma'lumotlarni chop qilish (Output).
 
 252. Ko'rsatmalarni amalga oshirishda qiymatni qayerga joylashtirishni hal qilish uchun ishlatiladigan qism nima deb nomlanadi? 
 
-253. Necha addressli qo'llanmalarda ikkitadan qiymat bo'ladi? 
+253. Necha addressli qo‘llanmalarda ikkitadan qiymat bo‘ladi? 
+-   xotira rejimi
 
 254. Necha addressli qo'llanmada amal kodi, belgilangan joy, qiymat 1, qiymat 2, va keyingi instruksiya manzili mavjud bo'ladi? 
 
@@ -877,6 +880,8 @@ Ma'lumotlarni chop qilish (Output).
 
 305. Ko'rsatgich qiymatlarini o'zida saqlab turadigan registrlar qanday nomlanadi? 
 
++   address registrlari
+
 306. Quyidagilardan qaysi biri address registrlarining vazifasi emas? 
 
 307. Amalga oshirilgan operatsiyalarning bajarilgan yoki bajarilmaganligi statusini ko'rsatuvchi registrlar qanday nomlanadi? 
@@ -946,6 +951,8 @@ Ma'lumotlarni chop qilish (Output).
 336. Agar bir qancha funksiyalar bir vaqtni o'zida amalga oshiriladigan bo'lsa bu konveyerlash qanday nomlanadi? 
 
 337. Quyida berilgan konveyerlash turlaridan qaysi biri faqat oldindan belgilab qo'yilgan vazifani bajaradi? 
+
++   statik vazifani 
 
 338. Doim bir xil funksiyani davomli amalga oshiradigan konveyerlash turi qanday nomlanadi? 
 
