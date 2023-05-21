@@ -2,7 +2,7 @@
 
 ```diff
 
-1.	Shaxsiy kompyuterlar hajmiga va foydalanilish imkoniyatlaridan kelib chiqib nechta turga bo‘linadi? 
+1. Shaxsiy kompyuterlar hajmiga va foydalanilish imkoniyatlaridan kelib chiqib nechta turga bo‘linadi? 
 +   2 turga
 
 2. Smartphonelar, tablet kompyuterlar, va laptoplar kompyuterlarning qaysi turiga kiradi? 
@@ -15,13 +15,13 @@
 
 + O'rnatilgan kompyuterlar turli sohalarda qo'llaniladi, lekin eng keng tarqalganlari avtomobil sanoati, tibbiy texnologiya, sanoat boshqaruvi va boshqaruvi, maishiy elektronika, telekommunikatsiya va aviatsiya sanoatidir. O'rnatilgan kompyuterlarning asosiy qo'llanilishi jarayonlarni avtomatlashtirish va real vaqt rejimida tizimlarni boshqarishdir.
 
-5.	Ma’lum bir tadbirkorlik yoki umumiy foydalanish uchun mo‘ljallangan kompyuterlar turi qanday nomlanadi? 
+5. Ma’lum bir tadbirkorlik yoki umumiy foydalanish uchun mo‘ljallangan kompyuterlar turi qanday nomlanadi? 
 +   Shaxsiy kompyuter (kompyuter).
 
- 6.	Ma’lumotlar bazasi va turli xil dasturlarni o‘zida jamlab xizmatlar ko‘rsatadigan zamonaviy kompyuter serverlarini boshqarish uchun ishlatiladigan bulutli hisoblash sifatida qaraladigan soha nomi nima deb nomlanadi? 
+6. Ma’lumotlar bazasi va turli xil dasturlarni o‘zida jamlab xizmatlar ko‘rsatadigan zamonaviy kompyuter serverlarini boshqarish uchun ishlatiladigan bulutli hisoblash sifatida qaraladigan soha nomi nima deb nomlanadi? 
 +   Bulutli xizmatlar (Cloud Computing)
 
- Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi? 
+Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi? 
 +   Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar "superkompyuterlar" yoki "klastersiz kompyuterlar" deb nomlanadi
 
 7.	Kompyuterni tashkil etadigan asosiy ta’minot turlari to‘g‘ri ko‘rsatilgan javobni belgilang.
