@@ -11,7 +11,7 @@
 3. Ma’lum bir vazifa yoki vazifalar jamlanmasini amalga oshirish uchun mo‘ljallangan va o‘zida qisman kompyuter funksiyalarini jamlagan kompyuter turi qanday nomlanadi?
 +   maxsus kompyuter.
 
- 4.	O‘rnatilgan(embedded) kompyuterlar qaysi sohada eng ko‘p qo‘llanadi va qaysi sohaning asosi hisoblanadi?
+4. O‘rnatilgan(embedded) kompyuterlar qaysi sohada eng ko‘p qo‘llanadi va qaysi sohaning asosi hisoblanadi?
 
 + O'rnatilgan kompyuterlar turli sohalarda qo'llaniladi, lekin eng keng tarqalganlari avtomobil sanoati, tibbiy texnologiya, sanoat boshqaruvi va boshqaruvi, maishiy elektronika, telekommunikatsiya va aviatsiya sanoatidir. O'rnatilgan kompyuterlarning asosiy qo'llanilishi jarayonlarni avtomatlashtirish va real vaqt rejimida tizimlarni boshqarishdir.
 
@@ -24,7 +24,7 @@
 Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi? 
 +   Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar "superkompyuterlar" yoki "klastersiz kompyuterlar" deb nomlanadi
 
-7.	Kompyuterni tashkil etadigan asosiy ta’minot turlari to‘g‘ri ko‘rsatilgan javobni belgilang.
+7. Kompyuterni tashkil etadigan asosiy ta’minot turlari to‘g‘ri ko‘rsatilgan javobni belgilang.
 +  Asosiy ta'minot turlari quyidagilardir:
 + 1. Protsessor (CPU)
 + 2. Operativ xotira (RAM)
@@ -34,7 +34,7 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 + 6. Tizim bloki (Power supply unit)
 + 7. Kutilmagan qurilmalar (Peripherals)
 
- 9. Monitor, klaviatura, sichqoncha, tizimli blok va boshqa kompyuter jihozlari kompyuterning qaysi ta’minotini tashkil etadi? 
+9. Monitor, klaviatura, sichqoncha, tizimli blok va boshqa kompyuter jihozlari kompyuterning qaysi ta’minotini tashkil etadi? 
 +   kompyuterning ta'minotini tashkil etadi.
 
 10. Kompyuterlarning ishlab turishi uchun yoziladigan dasturlarning yig‘indisidan iborat dasturlar jamlanmasi nima deb nomalanadi? 
@@ -192,40 +192,39 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 + 1100.0100
 
 61. 9.12510 sonini ikkilik sanoq tizimida ifodalang.
-+ 1001.001
++   1001.001
 
 62. 18.62510 sonini ikkilik sanoq tizimida ifodalang. 
-+ 10010.101
++   10010.101
 
 63. 19.37510 sonini ikkilik sanoq tizimida ifodalang.
-+ 10011.011
++   10011.011
 
 64. 7.7510 ni ikkilik sanoq tizimida ifodalang.
-+ 111.110011
++   111.110011
 
 65. A8C16 ni o‘nlik sanoq tizimida ifodalang. 
-+ A8C16 soni o‘nlik sanoq tizimida 2684 ga teng bo'ladi.
++   A8C16 soni o‘nlik sanoq tizimida 2684 ga teng bo'ladi.
 
 66. 41E16 ni o‘nlik sanoq tizimida tasvirlang.
-+ 41E16 soni o‘nlik sanoq tizimida 1054 ga teng bo'ladi.
++   41E16 soni o‘nlik sanoq tizimida 1054 ga teng bo'ladi.
 
 67. BA16 sonni ikkilik sanoq tizimidagi sonda tasvirlang.
-+ BA16 soni ikkilik sanoq tizimida 10111010 ga teng bo'ladi.
++   BA16 soni ikkilik sanoq tizimida 10111010 ga teng bo'ladi.
 
 68. 4E16 sonni ikkilik sanoq tizimidagi sonda ifodalang. 
-+ 4E16 soni ikkilik sanoq tizimida 100111000₂ ga teng bo'ladi.
++   4E16 soni ikkilik sanoq tizimida 100111000₂ ga teng bo'ladi.
 
 69. 218910 sanoq tizimidagi sonni 8 lik sanoq tizimida ifodalang. 
-+ 218910 soni 8 lik sanoq tizimida A8C0C sifatida ifodalang.
++   218910 soni 8 lik sanoq tizimida A8C0C sifatida ifodalang.
 
-70. 111<sub>2</sub> + 101<sub>2</sub> yig‘indini hisoblang. 
-+A8C0C soni 8 lik sanoq tizimida 8*16^5 + 12*16^4 + 12*16^3 + 0*16^2 + 12*16^1 + 12*16^0 = 696332 sifatida ifodalangan.
-+1112 + 1012 = 12 + 10 = 22
+70. 111₂ + 101₂ yig‘indini hisoblang. 
++   1100
 
 71. 3110 o‘nlik sanoq sistemasida berilgan sonni ikkilik sanoq sistemasida ifodalang.
 + Bu sonni ikkilik sanoq sistemasiga o‘tkazish uchun, uning har bir raqamini to‘rtliklarga ajratish va har bir to‘rtlikni ikki xonali son sifatida ifodalash kerak. Bunda, 3 raqami uchun 0011, 1 raqami uchun 0001 va 0 raqami uchun 0000 yoziladi. Shunday qilib, 3110 soni ikkilik sanoq sistemasida 1100011112 sifatida ifodalangan.
 
- 72. Quyidagilardan qaysi biri markaziy protsessorning asosiy komponenti emas?
+72. Quyidagilardan qaysi biri markaziy protsessorning asosiy komponenti emas?
 a) RAM
 b) Hard disk
 c) CPU
