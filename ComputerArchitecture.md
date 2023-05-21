@@ -1,4 +1,4 @@
-“Computer Architecture” “Information Systems Engineering” “ISE-51U/ISE-52U/ISE-53U” 
+# “Computer Architecture” “Information Systems Engineering” “ISE-51U/ISE-52U/ISE-53U” 
 
 ```diff
 
@@ -6,7 +6,7 @@
 +   2 turga
 
 2. Smartphonelar, tablet kompyuterlar, va laptoplar kompyuterlarning qaysi turiga kiradi? 
-+   shaxsiy kompyuterlardir, mobil kompyuterlar,
++   shaxsiy kompyuterlardir, mobil kompyuterlar
 
 3. Ma’lum bir vazifa yoki vazifalar jamlanmasini amalga oshirish uchun mo‘ljallangan va o‘zida qisman kompyuter funksiyalarini jamlagan kompyuter turi qanday nomlanadi?
 +   maxsus kompyuter.
@@ -74,9 +74,11 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 +   Kompyuterning  komponenti protsessor (CPU) hisoblanadi.
 
 22. Kompyuterdagi video, grafika, foto va o‘yinlarni monitorga chiqarish vazifasini bajaradigan, shu o‘yinlarni osonroq boshqarishga yordam beradigan uskuna nomi nima deb ataladi? 
+
 +   Bu uskuna "video karta" yoki "grafika karta" deb ataladi.
 23. Hisoblash texnikasining rivojlanish tarixi nechta davrni o‘z ichiga oladi? 
 +   4ta davr
+
 24. Quyidagi hisoblash usullaridan qaysi biri mexanik hisoblash mashinalarigacha bo‘lgan davrda ishlatilgan?
 +   Chipta va mikroprotsessorlar yordamida ishlashga qodir elektron hisoblash mashinalari
 
@@ -216,7 +218,7 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 69. 218910 sanoq tizimidagi sonni 8 lik sanoq tizimida ifodalang. 
 + 218910 soni 8 lik sanoq tizimida A8C0C sifatida ifodalang.
 
-70. 1112 + 1012 yig‘indini hisoblang. 
+70. 111<sub>2</sub> + 101<sub>2</sub> yig‘indini hisoblang. 
 +A8C0C soni 8 lik sanoq tizimida 8*16^5 + 12*16^4 + 12*16^3 + 0*16^2 + 12*16^1 + 12*16^0 = 696332 sifatida ifodalangan.
 +1112 + 1012 = 12 + 10 = 22
 
@@ -364,7 +366,7 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 +Xotira ierarxiyasida ma'lumotni o'qish/yozish so'rovi va uning amalga oshishi o'rtasidagi vaqt oraligi "kirish vaqti" yoki "latensiya" deb nomlanadi
 
 108. Xotira ierarxiyasida joylashgan xotira turlarida kirish vaqti qay tarzda oshib boradi? 
-+ Xotira ierarxiyasida joylashgan xotira turlarida kirish vaqti, xotira turiga va xotiradagi ma'lumotni topish uchun kerak bo'lgan qurilmalar va ularga qo'shilgan interfeyslariga qarab o'zgaradi.
+-   pastdan yuqoriga
 
 109. Quyidagilardan qaysi biri xotira ierarxiyasida ishlash samaradorligini oshishiga yordam berdi?
 + SSD (Solid State Drive) xotirasi, xotira ierarxiyasida ishlash samaradorligini oshirishga yordam beradi.
@@ -628,7 +630,7 @@ Interfeys (Interface) har xil turdagi tashqi qurilmalar va ulardan kelayotgan ma
 2 gigabayt (GB) 2048 megabayt (MB) ga teng.
 
 192. 2 terabayt(TB) necha gigabaytga(GB)ga teng? 
-2 terabayt (TB) 2048 gigabayt (GB) ga teng.
++   2048 gigabayt(GB)
 
 193. Kiritish/chiqarish modulidagi har xil tashqi qurilmalar ma’lumot tashishi haqida berilgan fikrlardan qaysi biri to‘g‘ri? 
 Har xil tashqi qurilmalar ma’lumot tashishi haqida berilgan fikrlardan to‘g‘ri bo‘lmagan hech qaysi.
@@ -820,6 +822,7 @@ Ma’lumotlarni chop qilish (Output).
 284. CPUda ichki xotira sifatida foydalaniladigan qismlar qanday nomlanadi? 
 
 285. Ma’lumot va ko‘rsatmalarni protsessorga, protsessordan tashqi qurilmalarga tashishni boshqaruvchi CPU qismi qanday nomlanadi? 
+-   registrlar
 
 286. Quyidagilardan qaysi biri protsessor, xotira va K/Ch modullari o‘rtasida ma’lumot va ko‘rsatma tashuvchi qism sifatida foydalaniladi? 
 
