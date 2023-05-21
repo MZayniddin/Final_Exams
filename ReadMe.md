@@ -2,10 +2,10 @@
 ```diff
 - 1.	Shaxsiy kompyuterlar hajmiga va foydalanilish imkoniyatlaridan kelib chiqib nechta turga bo‘linadi? 2 turga
 
-2.	Smartphonelar, tablet kompyuterlar, va laptoplar kompyuterlarning qaysi turiga kiradi? 
+2. Smartphonelar, tablet kompyuterlar, va laptoplar kompyuterlarning qaysi turiga kiradi? 
 shaxsiy kompyuterlardir, mobil kompyuterlar,
 
-3.	Ma’lum bir vazifa yoki vazifalar jamlanmasini amalga oshirish uchun mo‘ljallangan va o‘zida qisman kompyuter funksiyalarini jamlagan kompyuter turi qanday nomlanadi?
+3. Ma’lum bir vazifa yoki vazifalar jamlanmasini amalga oshirish uchun mo‘ljallangan va o‘zida qisman kompyuter funksiyalarini jamlagan kompyuter turi qanday nomlanadi?
 maxsus kompyuter.
 4.	O‘rnatilgan(embedded) kompyuterlar qaysi sohada eng ko‘p qo‘llanadi va qaysi sohaning asosi hisoblanadi?
 
@@ -28,7 +28,7 @@ Asosiy ta'minot turlari quyidagilardir:
 5. Grafik karta (Video card)
 6. Tizim bloki (Power supply unit)
 7. Kutilmagan qurilmalar (Peripherals)
- 9. Monitor, klaviatura, sichqoncha, tizimli blok va boshqa kompyuter jihozlari kompyuterning qaysi ta’minotini tashkil etadi? 
++ 9. Monitor, klaviatura, sichqoncha, tizimli blok va boshqa kompyuter jihozlari kompyuterning qaysi ta’minotini tashkil etadi? 
 kompyuterning ta'minotini tashkil etadi.
 10. Kompyuterlarning ishlab turishi uchun yoziladigan dasturlarning yig‘indisidan iborat dasturlar jamlanmasi nima deb nomalanadi? 
 Operatsion tizim (Operating system)
