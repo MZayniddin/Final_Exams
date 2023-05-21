@@ -47,7 +47,7 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 +   Bu buyruqlar ketma-ketligi "kompyuter dasturi" (computer program) yoki "kompyuter operatsion tizimi" (computer operating system) deyiladi
 
 13. Kompyuter o'chirilishi bilan quyidagi xotira turlaridan qaysi birida ma'lumot o'chib ketadi? 
-+   RAM xotirasi.
++   tezkor xotira
 
 14. Quyidagilardan qaysi biri kompyuter funksional qismlari o'rtasida ma'lumotlar almashishni ta'minlab beradi? 
 +   markaziy bog'lanish
@@ -205,8 +205,8 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 65. A8C16 ni o'nlik sanoq tizimida ifodalang. 
 +   A8C16 soni o'nlik sanoq tizimida 2684 ga teng bo'ladi.
 
-66. 41E16 ni o'nlik sanoq tizimida tasvirlang.
-+   41E16 soni o'nlik sanoq tizimida 1054 ga teng bo'ladi.
+66. 41E₁₆ ni o'nlik sanoq tizimida tasvirlang.
++   1054 ga teng bo'ladi
 
 67. BA16 sonni ikkilik sanoq tizimidagi sonda tasvirlang.
 +   BA16 soni ikkilik sanoq tizimida 10111010 ga teng bo'ladi.
@@ -277,10 +277,10 @@ a) RAM (Random Access Memory)
 +2. Harvard arxitekturasi:
 
 88. Agar protsessor monitor, klaviaturadan uzilish signalini qabul qilib olsa bu qanday uzilish turi hisoblanadi? 
-+ Agar protsessor monitor, klaviaturadan uzilish signalini qabul qilsa, bu uzilish turi "input/output (I/O) interrupt" deb atalad
++   qurilmadagi uzilish
 
 89. Kompyuter Qurilma ta'minotidagi uzilishlarning turlarini belgilang.
-- dasturiy uskunaviy
+-   dasturiy uskunaviy
 
 90. Protsessor katta hajmli dastur bilan ishlayotgan bo‘lsa va uzilishni vaqtincha e’tiborga olmasa bu qanday uzilish deb nomlanadi?
 
@@ -536,7 +536,8 @@ Markaziy protsessor biror-bir dastur yoki ma'lumotga murojaat qilganidan so'ng a
 163. 61.12510 o'nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang. 
 +   111101.001
 
-164. 62.62510 o'nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang. 
+164. 62.625₁₀ o'nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang.
++   111110.101
 
 62.62510 o'nlik sanoq sistemasidagi son ikkilik sanoq sistemasida 100110.1012 tasvirlanadi.
 
@@ -739,7 +740,8 @@ Ma'lumotlarni chop qilish (Output).
 
 241. Quyida berilgan instruksiyalardan qaysi birining vazifasi registrlardan ma'lumotni olib xotiraga jo'natish? 
 
-242. Quyida berilgan instruksiyalardan qaysi birining vazifasi ma'lumotni bir registr yacheykasidan ikkinchisiga ko'chirishga ishlatiladi? 
+242. Quyida berilgan instruksiyalardan qaysi birining vazifasi ma'lumotni bir registr yacheykasidan ikkinchisiga ko'chirishga ishlatiladi?
+-   protsessorga tashqi muhitdan ma'lumot kirishi
 
 243. Quyida berilgan instruksiyalardan qaysi biri klaviatura, sichqoncha, mikrofon qurilmalaridan kelayotgan ma'lumotlar bilan ishlaydi? 
 
@@ -781,11 +783,12 @@ Ma'lumotlarni chop qilish (Output).
 260. Quyidagilardan qaysi biri manzillash rejimlari turi hisoblanmaydi? 261. Quyidagilardan qaysi biri manzillash rejimlari turi hisoblanmaydi? 
 
 262. Quyida berilgan manzillash rejimlarining qaysi birida amal va qiymat birgalikda ketma-ket tashqi qurilmadan CPUga, CPUdan xotiraga va xotiradan CPUga qaytariladi? 
-- manzilni o'zgartirish rejimi
+-   manzilni o'zgartirish rejimi
 
 263. Accumulator arxitekturasi qaysi manzillash rejimiga misol bo'ladi? 
 
 264. Qaysi manzillash rejimida qiymat registrda joylashadi va qiymat joylashgan registr addresi ko'rsatmada joylashgan bo'ladi? 
+-   to'g'ridan-to'gri rejim
 
 265. Qisqaroq ko'rsatmalarga ega ekanligi, tezroq ko'rsatmalarni bajarish va qiymatlarga tezroq yetib borish kabi foydali tomonlariga ega manzillash rejimi qanday nomlanadi? 
 
@@ -954,7 +957,8 @@ Ma'lumotlarni chop qilish (Output).
 
 +   statik vazifani 
 
-338. Doim bir xil funksiyani davomli amalga oshiradigan konveyerlash turi qanday nomlanadi? 
+338. Doim bir xil funksiyani davomli amalga oshiradigan konveyerlash turi qanday nomlanadi?
++   statik konveyerlash
 
 339. Quyida berilgan konveyerlash turlaridan qaysi birida bir qancha funksiyalar parallel ravishda amalga oshiriladi? 
 
