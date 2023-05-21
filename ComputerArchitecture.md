@@ -49,7 +49,7 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 13. Kompyuter o'chirilishi bilan quyidagi xotira turlaridan qaysi birida ma'lumot o'chib ketadi? 
 +   RAM xotirasi.
 
-14. Quyidagilardan qaysi biri kompyuter funksional qismlari o‘rtasida ma’lumotlar almashishni ta’minlab beradi? 
+14. Quyidagilardan qaysi biri kompyuter funksional qismlari o'rtasida ma'lumotlar almashishni ta'minlab beradi? 
 +   markaziy bog'lanish
 
 15. Quyidagilardan qaysi biri kompyuterga ma'lumot kirituvchi qurilmaga misol bo'ladi?
@@ -61,7 +61,7 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 17. Quyidagilardan qaysi biri kompyuterga ma'lumot kirituvchi manbalardan biri?
 +   Klaviatura.
 
-18. Quyidagilardan qaysi biri kompyuterdan ma’lumot chiqaruvchi qurilmaga misol bo‘la oladi? 
+18. Quyidagilardan qaysi biri kompyuterdan ma'lumot chiqaruvchi qurilmaga misol bo'la oladi? 
 +   Mikrafon
 
 19. Kiritish chiqarish portlarining asosiy vazifasi nima? 
@@ -76,11 +76,11 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 22. Kompyuterdagi video, grafika, foto va o'yinlarni monitorga chiqarish vazifasini bajaradigan, shu o'yinlarni osonroq boshqarishga yordam beradigan uskuna nomi nima deb ataladi? 
 
 +   Bu uskuna "video karta" yoki "grafika karta" deb ataladi.
-23. Hisoblash texnikasining rivojlanish tarixi nechta davrni o‘z ichiga oladi? 
+23. Hisoblash texnikasining rivojlanish tarixi nechta davrni o'z ichiga oladi? 
 
 +   4ta davr
 
-24. Quyidagi hisoblash usullaridan qaysi biri mexanik hisoblash mashinalarigacha bo‘lgan davrda ishlatilgan?
+24. Quyidagi hisoblash usullaridan qaysi biri mexanik hisoblash mashinalarigacha bo'lgan davrda ishlatilgan?
 
 -   Vilgelm shikkard hisoblash texnikasi
 +   Chipta va mikroprotsessorlar yordamida ishlashga qodir elektron hisoblash mashinalari
@@ -123,7 +123,7 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 
 36. Ikkinchi jahon urishida artilleriya raketalarini uchish trayektoriyasini hisoblash uchun ilmiy laboratoriya sifatida foydalanilgan kompyuter nomi nima deb nomlanadi? 
 
-+   Besm-1
+-   Besm-1
 
 37. 1952-yilda New Jersiyda yaratilgan birinchi elektronik kompyuterning nomi nima edi? 
 
@@ -153,13 +153,13 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 +   Simulatsiya tili
 
 
-46. Quyidagi kompyuter buyruqlaridan qaysi biri ma’lumotlarni ko‘chirib yozish buyrug‘ini ifodalamaydi? 
+46. Quyidagi kompyuter buyruqlaridan qaysi biri ma’lumotlarni ko'chirib yozish buyrug'ini ifodalamaydi? 
 +  print("Hello, world!") 
 
 47. Quyidagi kompyuter buyruqlaridan qaysi biri ikkita operandalar ustida amallar bajarish uchun ishlatilmaydi? 
 + goto
 
-48. Quyidagi buyruqlardan qaysi biri bitta operanda ustida amallar bajarish buyrug‘i hisoblanadi?	
+48. Quyidagi buyruqlardan qaysi biri bitta operanda ustida amallar bajarish buyrug'i hisoblanadi?	
 + goto buyrug'i bir operanda ustida amallar bajarish buyrug'i hisoblanadi.
 
 49. Quyidagilardan qaysi biri kompyuterning taqqoslash va shartli o'tish buyrug'i hisoblanadi? 
@@ -186,7 +186,7 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 56. 2510 sonni ikkilik sanoq tizimida ifodalang. 
 + 2510 soni ikkilik sanoq tizimida 11001
 
-57. 1010112 ni o‘nlik sanoq tizimidagi sonda ifodalang.
+57. 1010112 ni o'nlik sanoq tizimidagi sonda ifodalang.
 + 1010112 = 4310
 
 58. 1101112 ni o'nlik sanoq tizimidagi sonda ifodalang. 
@@ -225,7 +225,7 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 69. 218910 sanoq tizimidagi sonni 8 lik sanoq tizimida ifodalang. 
 +   218910 soni 8 lik sanoq tizimida A8C0C sifatida ifodalang.
 
-70. 111₂ + 101₂ yig‘indini hisoblang. 
+70. 111₂ + 101₂ yig'indini hisoblang. 
 +   1100
 
 71. 3110 o'nlik sanoq sistemasida berilgan sonni ikkilik sanoq sistemasida ifodalang.
@@ -241,11 +241,11 @@ a) RAM (Random Access Memory)
 74. Markaziy protsessorning hozirda bajarilayotgan yoki dekodlangan ko'rsatmani o'zida saqlaydigan qismi qanday ataladi? 
 + RAM (Random Access Memory) ataladi.
 
-75. Markaziy protsessorning o‘qish va yozish uchun xotira manzilini belgilaydigan qismi qanday nomlanadi? 
-+ Markaziy protsessorning o‘qish va yozish uchun xotira manzilini belgilaydigan qismi RAM (Random Access Memory) deb nomlanadi.
+75. Markaziy protsessorning o'qish va yozish uchun xotira manzilini belgilaydigan qismi qanday nomlanadi? 
++ Markaziy protsessorning o'qish va yozish uchun xotira manzilini belgilaydigan qismi RAM (Random Access Memory) deb nomlanadi.
 
-76. Markaziy protsessorning xotiraga yoziladigan va xotiradan o‘qiladigan ma’lumotlarni o‘zida saqlab turadigan qismi qanday nomlanadi? 
-+ Bu qismi Hard Disk (Disk haqida ma'lumot) deb nomlaydilar.
+76. Markaziy protsessorning xotiraga yoziladigan va xotiradan o'qiladigan ma’lumotlarni o'zida saqlab turadigan qismi qanday nomlanadi? 
++   xotira buffer registri
 
 77. Markaziy protsessorda joylashgan kiritish/chiqarish buffer registrining asosiy vazifasi to'g'ri berilgan qatorni toping. 
 +Markaziy protsessorda joylashgan kiritish/chiqarish buffer registrining asosiy vazifasi, kiritish va chiqarish amallarini bajarish orqali, kiritilgan ma'lumotlarni saqlash va ularga kirish va chiqishni boshqarishdir. Bu registr kiritish va chiqarish amallarini bajarish uchun xotirani o'tkazib beradi va bu jarayonni boshqarish uchun kerakli signalni yuboradi. Asosiy vazifasi, kiritilgan ma'lumotlarni saqlash va ularga kirish va chiqishni boshqarishdir.
@@ -263,7 +263,7 @@ a) RAM (Random Access Memory)
 + o'rsatmalar siklilari ikkinchi qadami shartni tekshirishdir. Bunda "for" ko'rsatmalar sikli uchun shartni tekshirish qismi, ya'ni "for (int i = 0; i < n; i++)" qismidagi "i < n" sharti, "while" ko'rsatmalar sikli uchun esa "while (shart)" qismidagi "shart" hisoblanadi. "do-while" ko'rsatmalar sikli uchun esa shartni tekshirish qismi sikl bajarilgandan keyin bajariladi, shuning uchun "do { } while (shart)" qismidagi "shart" ikkinchi qadam hisoblanadi.
 
 82. Quyidagi berilganlardan qaysi biri kompyuterning asosiy vazifasi hisoblanmaydi? 
-+ Quyidagi berilganlardan "Ko‘p qatlamli o‘yinlarni o‘ynash" kompyuterning asosiy vazifasi emas. Kompyuter asosiy vazifalari orasida ma'lumotlarni saqlash, ma'lumotlarni qayta ishlash, ma'lumotlarni ko‘rsatish, tarmoqda ma'lumot almashish, fayllarni boshqarish, tizimni boshqarish, tizimni himoya qilish, tizimni ta'minlash, tizimni tahlil qilish, tizimni monitoring qilish, tizimni tuzish va boshqalar kabi vazifalar kiritiladi.
++ Quyidagi berilganlardan "Ko'p qatlamli o'yinlarni o'ynash" kompyuterning asosiy vazifasi emas. Kompyuter asosiy vazifalari orasida ma'lumotlarni saqlash, ma'lumotlarni qayta ishlash, ma'lumotlarni ko'rsatish, tarmoqda ma'lumot almashish, fayllarni boshqarish, tizimni boshqarish, tizimni himoya qilish, tizimni ta'minlash, tizimni tahlil qilish, tizimni monitoring qilish, tizimni tuzish va boshqalar kabi vazifalar kiritiladi.
 
 83. Quyidagi berilganlardan qaysi biri kompyuterning asosiy vazifasi hisoblanmaydi? 
 +Quyidagi berilganlardan "Internetda video ko'rish" kompyuterning asosiy vazifasi emas. Kompyuter asosiy vazifalari orasida ma'lumotlarni saqlash, ma'lumotlarni qayta ishlash, ma'lumotlarni ko'rsatish, tarmoqda ma'lumot almashish, fayllarni boshqarish, tizimni boshqarish, tizimni himoya qilish, tizimni ta'minlash, tizimni tahlil qilish, tizimni monitoring qilish, tizimni tuzish va boshqalar kabi vazifalar kiritiladi.
@@ -287,20 +287,20 @@ a) RAM (Random Access Memory)
 89. Kompyuter Qurilma ta’minotidagi uzilishlarning turlarini belgilang.
 - dasturiy uskunaviy
 
-90. Protsessor katta hajmli dastur bilan ishlayotgan bo‘lsa va uzilishni vaqtincha e’tiborga olmasa bu qanday uzilish deb nomlanadi?
+90. Protsessor katta hajmli dastur bilan ishlayotgan bo'lsa va uzilishni vaqtincha e’tiborga olmasa bu qanday uzilish deb nomlanadi?
 
 +   Maskalangan uzilish
 
 91. Maskasiz uzilish qoidasiga ko'ra uzilish sodir bo'lgandan keyin xizmat ko'rsatish qancha vaqtdan keyin to'xtatiladi? 
 + Maskasiz uzilish qoidasiga ko'ra, uzilish sodir bo'lgandan keyin xizmat ko'rsatish to'xtatilish vaqti uzilish turi va xususiyatlariga qarab o'zgaradi. Agar uzilish kichikroq va osonroq bo'lsa, xizmat ko'rsatish to'xtatilish vaqti kam bo'ladi.
 
-92. Protsessorda uzilishlarni boshqarish registri (Interrupt Enable)ning o‘chik yoki yoniq ekanligi qanday ifodalanadi? 
+92. Protsessorda uzilishlarni boshqarish registri (Interrupt Enable)ning o'chik yoki yoniq ekanligi qanday ifodalanadi? 
 + Protsessorda uzilishlarni boshqarish registri (Interrupt Enable)ning o'chik yoki yoniq ekanligi, uzilishlarni boshqarishning qanday amalga oshirilishi kerakligiga bog'liq. Agar Interrupt Enable registri yoniq bo'lsa, uzilishlar yo'qoladi va kompyuter normal holatda ishlaydi. Boshqa so'zlar bilan, uzilishlar ishga tushirilmaydi va kompyuter o'z ishini davom ettiradi. 
 
 + 0 (o“chik)va 1(yoniq) orqali
 
 + Bundan tashqari, Interrupt Enable registri yoniq yoki ochiq bo'lishi, kompyuter tizimining xususiyatlariga va ishlatiladigan dasturlarga qarab o'zgarishi mumkin.
-93. Qaysi qatorda dasturlarning turi to‘g‘ri ko‘rsatilgan? 
+93. Qaysi qatorda dasturlarning turi to'g'ri ko'rsatilgan? 
 + Agar dasturlar tuzish vaqti ko'rsatilgan bo'lsa, bu qator "Compile Time" yoki "Build Time" deb ataladi. Bu, dastur tuzilishida, dastur kodi kompyuterda bajarilgandan oldin, kodni tekshirish, tuzish va boshqa kerakli amallarni bajarish uchun kerakli vositalar va kutubxonalarni yuklash va boshqa tuzish jarayonlarini o'z ichiga oladi. 
 
 + Qurilmadagi va dasturiy ta“minotdagi dasturlar
@@ -338,7 +338,7 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 
 101. ... bu bir baytli tartiblangan yacheyka massiviga ega bo'lgan va har bir yacheykaning o'z adresi bo'lgan xotira turidir. Nuqtalar o'rniga mos keladigan javobni belgilang.
 
-102. Bu xotira turi chiziqli birlik manzili va shu manzillarni ketma-ket joylashtirishdan hosil bo‘lgan baytlardan iborat. Xotira turini toping. 
+102. Bu xotira turi chiziqli birlik manzili va shu manzillarni ketma-ket joylashtirishdan hosil bo'lgan baytlardan iborat. Xotira turini toping. 
 + Sizning baytlaringiz chiziqli birlik manzilini saqlaydigan va shu manzillarni ketma-ket joylashtirishdan hosil bo'lgan baytlardan iborat. Bu xotira turiga "massiv" yoki "array" deyiladi.
 
 103. Quyidagilardan qaysi biri to'g'ridan-to'g'ri markaziy protsessor va kiritish/chiqarish modullari orqali tashqi xotiraga bog'lanadi? 
@@ -348,10 +348,10 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 104. Kompyuterda turli amallarni judayam tez bajaralishini ta’minlaydigan xotira turi qanday nomlanadi? 
 + Bu xotira turiga "RAM" (Random Access Memory) yoki "aniq kirishli xotira" deyiladi. RAM, kompyuterda joriy ishlayotgan dasturlar va fayllar uchun foydali bo'lgan va ularga tez kirish va chiqish imkoniyatini ta'minlaydigan xotira turi hisoblanadi. RAM, kompyuterda amalga oshirilayotgan har qanday amalni tez bajarish uchun kerak bo'lgan ma'lumotlarni saqlaydi.
 
-105. Xotirada saqlanishi mumkin bo‘lgan ma’lumotlarning umumiy hajmi nima deb nomlanadi? 
+105. Xotirada saqlanishi mumkin bo'lgan ma’lumotlarning umumiy hajmi nima deb nomlanadi? 
 + Xotirada saqlanishi mumkin bo'lgan ma'lumotlarning umumiy hajmi "disk yoki hard disk hajmi" deb nomlanadi. Bu hajm, kompyuterda saqlanishi mumkin bo'lgan barcha ma'lumotlarni saqlash uchun foydali bo'lgan xotira turi hisoblanadi. Hard disk hajmi, kompyuterda saqlanishi mumkin bo'lgan ma'lumotlar soni va hajmi bo'yicha cheklangan bo'ladi. Bu hajm gigabayt (GB) yoki terabayt (TB) ko'rinishida ifodalangan bo'ladi.
 
-106. Xotira ierarxiyasida joylashgan xotira turlarida xotira sig‘imi qay tarzda oshib boradi? 
+106. Xotira ierarxiyasida joylashgan xotira turlarida xotira sig'imi qay tarzda oshib boradi? 
 +Xotira ierarxiyasida joylashgan xotira turlarida xotira sigimi "hajmi kichikdan katta bo'lgan tartibli sigim" deb nomlanadi. Bu sigim, xotiraning kichik bo'limlaridan boshlab katta bo'limlarga qarab oshib boradi. Bunday tartibda, xotira sigimi quyidagi turdagi bo'limlardan tashkil topadi:
 
 + 1. Sektorlar: Xotiraning eng kichik bo'limlari, har biri 512 baytlik ma'lumotlarni saqlaydi.
@@ -360,7 +360,7 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 + 4. Fizikaviy bloklar: Kechiktirish bloklari guruhidan tashkil topadi va har biri 2-8 kechiktirish blokidan iborat bo'ladi.
 + 5. Bo'sh xotira bloklari: Fizikaviy bloklar guruhidan tashkil topadi va bo'sh xotira bloklarini saqlaydi.
 
-107. Xotira ierarxiyasida ma’lumotni o‘qish/yozish so‘rovi va uning amalga oshishi o‘rtasidagi vaqt oralig‘i nima deb nomlanadi?
+107. Xotira ierarxiyasida ma’lumotni o'qish/yozish so'rovi va uning amalga oshishi o'rtasidagi vaqt oralig'i nima deb nomlanadi?
 +Xotira ierarxiyasida ma'lumotni o'qish/yozish so'rovi va uning amalga oshishi o'rtasidagi vaqt oraligi "kirish vaqti" yoki "latensiya" deb nomlanadi
 
 108. Xotira ierarxiyasida joylashgan xotira turlarida kirish vaqti qay tarzda oshib boradi? 
@@ -400,7 +400,7 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 + Dinamik tezkor xotira
 
 
-119. Statik tezkor xotira(SRAM) dinamik tezkor xotira(DRAM)ga qaraganda … va … . Nuqtalar o‘rniga mos keladigan to‘g‘ri javobni belgilang. 
+119. Statik tezkor xotira(SRAM) dinamik tezkor xotira(DRAM)ga qaraganda … va … . Nuqtalar o'rniga mos keladigan to'g'ri javobni belgilang. 
 + Statik tezkor xotira (SRAM) dinamik tezkor xotira (DRAM)ga qaraganda tezroq va kamroq, ammo katta hajmda va qimmatroq bo'ladi.
 
 120. Dinamik tezkor xotira(DRAM) Statik tezkor xotira(SRAM)ga qaraganda … va … . Nuqtalar o'rniga mos keladigan to'g'ri javobni belgilang.
@@ -412,7 +412,7 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 122. Doimiy xotira turlaridan qaysi birida ishlab chiqarilgan vaqtda allaqachon lozim bo'lgan dastur yozilgan bo'ladi? . 
 + Maskanlangan ROM  (Mask ROM) turi ishlab chiqarilgan vaqtda allaqachon lozim bo'lgan dastur yozilgan bo'ladi.
 
-123. Doimiy xotira turlaridan qaysi birida dasturchi xotiraga o‘z dasturlarini yozish imkoniga ega bo‘ladi? 
+123. Doimiy xotira turlaridan qaysi birida dasturchi xotiraga o'z dasturlarini yozish imkoniga ega bo'ladi? 
 -  qayta yozish mumkin bo'lgan doimiy xotira
 
 124. PROM dasturchisining asosiy vazifasi nima? 
@@ -421,13 +421,13 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 125. Doimiy xotira turlaridan EEPROM turi asosan kompyuterning qaysi qismida ishlatiladi?
 + BIOSda
 
-126. Kompyuterning turli komponentlari o‘rtasida bog‘lanishni ta’minlab berish vazifasini bajaradigan qismi nima deb nomlanadi? 
+126. Kompyuterning turli komponentlari o'rtasida bog'lanishni ta’minlab berish vazifasini bajaradigan qismi nima deb nomlanadi? 
 - tarmoq
 
 127. Bir vaqtda bitta liniyadan ma'lumot uzatish jarayoni qanday nomlanadi? 
 + Bu jarayon "liniya uzatish" yoki "liniya sifatida ma'lumot qo'shish" deb nomlanadi.
 
-128. Bir paytning o‘zida bir nechta yo‘laklardan ma’lumot uzatish qanday nomlanadi? 
+128. Bir paytning o'zida bir nechta yo'laklardan ma’lumot uzatish qanday nomlanadi? 
 + Bu jarayon "yo'lovchi ma'lumotlarni birlashtirish" yoki "yo'lovchi ma'lumotlarni birlashtirish" deb nomlanadi.
 
 129. Aloqa yo'laklari nechta funksional guruhlarga bo'linadi? 
@@ -437,7 +437,7 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 130. Kompyuter ma'lumot aloqa yo'lagining asosiy vazifasi to'liq berilgan qatorni toping. 
 +Kompyuter ma'lumot aloqa yo'lagining asosiy vazifasi yo'lovchi ma'lumotlarini birlashtirishdir.
 
-131. Kompyuter manzil yo‘lagining asosiy vazifasi to‘liq berilgan qatorni toping. 
+131. Kompyuter manzil yo'lagining asosiy vazifasi to'liq berilgan qatorni toping. 
 +1. Ma'lumotlarni birlashtirish 2. Yo'lovchi ma'lumotlarni o'tkazish:3. Yuklash 4. O'zgartirish: 5. O'qish:6. Ishlash
 
 132. Kompyuter nazorat yo'lagining asosiy vazifasi to'g'ri berilgan qatorni toping. 
@@ -446,29 +446,29 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 133. Ma'lumot yo'lagi kengligi qanday o'lchanadi? 
 + Ma'lumot yo'lagi kengligi o'lchash uchun bit va bayt (byte) tizimidan foydalaniladi.
 
-134. Ma’lumotlar yo‘laklari soniga to‘g‘ri ta’rif berilgan qatorni toping. 
+134. Ma’lumotlar yo'laklari soniga to'g'ri ta’rif berilgan qatorni toping. 
 + Ma'lumot yo'laglari, ma'lumotlarni uzatish va almashish uchun xizmat qiladigan tarmoq va tizimlar to'plami.
 
-135. Har bir ma’lumot yo‘lagi qatori bir vaqtning o‘zida qancha ma’lumot tashiy oladi? 
+135. Har bir ma’lumot yo'lagi qatori bir vaqtning o'zida qancha ma’lumot tashiy oladi? 
 + Har bir ma'lumot yo'lagi qatori bir vaqtning o'zida foydalanuvchining talabiga va tarmoqning xizmat qilish kuchiga qarab o'zgaradi. Ma'lumotlar uzatilish va almashish tezligi ham qatorning kuchiga bog'liq bo'ladi. Bunday sabablarga ko'ra, har bir ma'lumot yo'lagi o'zini belgilangan tezlikda ishga tushiradi.
 
-136. Agar ma’lumotlar yo‘lagi 32 bit kenglikda bo‘lsa va har bir instruksiya 64 bit uzunlikda bo‘lsa, har bir instruksiya xotiraga necha marta murojaat qilishni talab etadi? 
+136. Agar ma’lumotlar yo'lagi 32 bit kenglikda bo'lsa va har bir instruksiya 64 bit uzunlikda bo'lsa, har bir instruksiya xotiraga necha marta murojaat qilishni talab etadi? 
 + Har bir instruksiya 2 marta xotiraga murojaat qilishni talab etadi.
 
-137. 32 bit kenglikdagi ma’lumotlar yo‘lagidan ma’lumot jo‘natish 3 marta xotiraga murojaat qilishni talab etsa ma’lumotning uzunligini toping. 
+137. 32 bit kenglikdagi ma’lumotlar yo'lagidan ma’lumot jo'natish 3 marta xotiraga murojaat qilishni talab etsa ma’lumotning uzunligini toping. 
 + Ma'lumotning uzunligi 12 bayt (96 bit) bo'ladi. (32 bit = 4 bayt, 3ta 4 baytlik ma'lumot jo'natish uchun 12 bayt kerak)
 
-138. 128 bit uzunlikdagi instruksiyani 2 marta xotiraga murojaat qilish orqali jo‘natish uchun qancha kenglikdagi ma’lumotlar yo‘lagi talab etiladi? 
-+ 128 bit uzunlikdagi instruksiyani 2 marta xotiraga murojaat qilish orqali jo‘natish uchun 32 bayt (256 bit) kenglikdagi ma’lumotlar yo‘lagi talab etiladi.
+138. 128 bit uzunlikdagi instruksiyani 2 marta xotiraga murojaat qilish orqali jo'natish uchun qancha kenglikdagi ma’lumotlar yo'lagi talab etiladi? 
+-   256 bit
 
 139. 64 bit uzunlikdagi instruksiya 8 bit kenglikdagi ma'lumotlar yo'lagidan necha marta xotiraga murojaat qilish orqali jo'natiladi? 
 +   8 marta
 
-140. 8 bit kenglikdagi ma’lumotlar yo‘lagidan ma’lumot 3 marta xotiraga murojaat qilish orqali jo‘natildi. Ma’lumot hajmini toping. Ma'lumot hajmi: 64 bit / 8 bit = 8 bayt
+140. 8 bit kenglikdagi ma’lumotlar yo'lagidan ma’lumot 3 marta xotiraga murojaat qilish orqali jo'natildi. Ma’lumot hajmini toping. Ma'lumot hajmi: 64 bit / 8 bit = 8 bayt
 Murojaatlar soni: 8 + 3 = 11 marta
 Jo'natilgan ma'lumot hajmi: 8 bayt x 11 marta = 88 bayt
 
-141. 32 bit kenglikdagi ma’lumotlar yo‘lagidan ma’lumot 4 marta xotiraga murojaat qilish orqali jo‘natildi. Ma’lumot hajmini toping. 
+141. 32 bit kenglikdagi ma’lumotlar yo'lagidan ma’lumot 4 marta xotiraga murojaat qilish orqali jo'natildi. Ma’lumot hajmini toping. 
 Ma'lumot hajmi: 32 bit / 8 bit = 4 bayt
 Murojaatlar soni: 4 marta
 Jo'natilgan ma'lumot hajmi: 4 bayt x 4 marta = 16 bayt
@@ -483,14 +483,14 @@ Demak, ma'lumotlar yo'lagi kengligi 40 baytga teng.
 143. Quyida berilganlardan qaysi biri nazorat yo'lagining vazifasi emas?
 Quyida berilganlardan "Ma'lumotning hajmi 320 bit" so'zlarining keyingi qismi nazorat yo'lagining vazifasi emas.
 
-144. Quyida berilganlardan qaysi biri nazarot yo‘lagining vazifasi emas?
-"Ma'lumotning hajmi 320 bit" so'zlarining keyingi qismi nazorat yo‘lagining vazifasi emas.
+144. Quyida berilganlardan qaysi biri nazarot yo'lagining vazifasi emas?
+"Ma'lumotning hajmi 320 bit" so'zlarining keyingi qismi nazorat yo'lagining vazifasi emas.
 
-145. Yo‘lak so‘rovlarini qabul qilish va yo‘lak so‘rovlarini qabul qilish kompyuter aloqa yo‘laklaridan qaysi birining asosiy vazifasi? 
-Yo‘lak so‘rovlarini qabul qilish va yo‘lak so‘rovlarini qabul qilish kompyuter aloqa yo‘laklaridan tarmoq protokollari (masalan, HTTP) asosiy vazifalari hisoblanadi
+145. Yo'lak so'rovlarini qabul qilish va yo'lak so'rovlarini qabul qilish kompyuter aloqa yo'laklaridan qaysi birining asosiy vazifasi? 
+Yo'lak so'rovlarini qabul qilish va yo'lak so'rovlarini qabul qilish kompyuter aloqa yo'laklaridan tarmoq protokollari (masalan, HTTP) asosiy vazifalari hisoblanadi
 
-146. Markaziy protsessor tomonidan eng ko‘p foydalanilgan instruksiyalarni va ma’lumotlarni o‘zida vaqtincha saqlab turadigan xotira turi qanday nomlanadi?
-Markaziy protsessor tomonidan eng ko‘p foydalanilgan instruksiyalarni va ma’lumotlarni o‘zida vaqtincha saqlab turadigan xotira turi "Kesh" (ingliz tilida "Cache") deb nomlanadi
+146. Markaziy protsessor tomonidan eng ko'p foydalanilgan instruksiyalarni va ma’lumotlarni o'zida vaqtincha saqlab turadigan xotira turi qanday nomlanadi?
+Markaziy protsessor tomonidan eng ko'p foydalanilgan instruksiyalarni va ma’lumotlarni o'zida vaqtincha saqlab turadigan xotira turi "Kesh" (ingliz tilida "Cache") deb nomlanadi
 
 147. Asosiy xotira imkoniyatlarini kuchaytirib kengaytirib beradigan xotira turi qanday nomlanadi?
 Asosiy xotira imkoniyatlarini kuchaytirib kengaytirib beradigan xotira turi "Virtual xotira" (ingliz tilida "Virtual Memory") deb nomlanadi.
@@ -524,19 +524,19 @@ Markaziy protsessor biror-bir dastur yoki ma'lumotga murojaat qilganidan so'ng a
 156. 3510 o'nlik sanoq sistemasida berilgan sonni ikkilik sanoq sistemasida tasvirlang.
 3510 o'nlik sanoq sistemasidagi son ikkilik sanoq sistemasida 110110001110 tasvirlanadi.
 
-157. 4110 o‘nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang. 
+157. 4110 o'nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang. 
 4110 o'nlik sanoq sistemasidagi son ikkilik sanoq sistemasida 100000011010 tasvirlanadi.
 
-158. 4910 o‘nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang.
+158. 4910 o'nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang.
 . 4910 o'nlik sanoq sistemasidagi son ikkilik sanoq sistemasida 100110010010 tasvirlanadi.
 
-159. 5110 o‘nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang. 
+159. 5110 o'nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang. 
 5110 o'nlik sanoq sistemasidagi son ikkilik sanoq sistemasida 1100101112 tasvirlanadi.
 
 160. 6010 o'nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang.
 6010 o'nlik sanoq sistemasidagi son ikkilik sanoq sistemasida 11110012 tasvirlanadi.
 
-161. 61.510 o‘nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang. 
+161. 61.510 o'nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang. 
 61.510 o'nlik sanoq sistemasidagi son ikkilik sanoq sistemasida 111101.10012 tasvirlanadi.
 
 162. 61.25₁₀ o'nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang. 
@@ -552,7 +552,7 @@ Markaziy protsessor biror-bir dastur yoki ma'lumotga murojaat qilganidan so'ng a
 165. 0.62510 o'nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida ifodalang.
 0.62510 o'nlik sanoq sistemasidagi son ikkilik sanoq sistemasida 0.1012 tasvirlanadi.
 
-166. Ikkilik sanoq sistemasidagi 11012 + 101112 sonlarining yig‘indisini toping. 
+166. Ikkilik sanoq sistemasidagi 11012 + 101112 sonlarining yig'indisini toping. 
 11012 + 101112 = 1000012
 
 167. Ikkilik sanoq sistemasidagi 11012 + 1012 sonlarining yig'inidisini toping. 
@@ -578,7 +578,7 @@ Markaziy protsessor biror-bir dastur yoki ma'lumotga murojaat qilganidan so'ng a
 173. Ikkiliq sanoq sistemasidagi 110112 – 100102 sonlarining ayirmasini toping. 
 110112 - 100102 = 1012
 
-174. Ikkilik sanoq sistemasidagi 101112 × 112 sonlarining ko‘paytmasini toping. 
+174. Ikkilik sanoq sistemasidagi 101112 × 112 sonlarining ko'paytmasini toping. 
 
 +   101112 × 112 = 10001012	
 
@@ -595,11 +595,11 @@ Kiritish/chiqarish moduli (Input/Output module) kompyuterga tashqi muhitdan ma�
 178. Kompyuterdan tashqi muhitga va foydalanuvchilarga ma'lumotni chop qilib berish vazifasini bajaruvchi kompyuter moduli qanday nomlanadi?
 Kiritish/chiqarish moduli (Input/Output module) kompyuterdan tashqi muhitga va foydalanuvchilarga ma'lumotni chop qilib berish vazifasini bajaruvchi kompyuter moduli nomlanadi. 
 
-179. Kompyuterning tashqi qurilmalari va markaziy protsessor o‘rtasidagi ma’lumot almashinuvini ta’minlab beruvchi portlar qanday nomlanadi?
-Portlar tashqi qurilmalari va markaziy protsessor o‘rtasidagi ma’lumot almashinuvini ta’minlab beruvchi qurilmalardir.
+179. Kompyuterning tashqi qurilmalari va markaziy protsessor o'rtasidagi ma’lumot almashinuvini ta’minlab beruvchi portlar qanday nomlanadi?
+Portlar tashqi qurilmalari va markaziy protsessor o'rtasidagi ma’lumot almashinuvini ta’minlab beruvchi qurilmalardir.
 
-180. Markaziy protsessor va kiritish/chiqarish qurilmalari o‘rtasidagi ma’lumot almashish turlari soni to‘g‘ri ko‘rsatilgan qatorni toping. 
-Kiritish/chiqarish qurilmalari va markaziy protsessor o‘rtasidagi ma’lumot almashish turlari soni to‘g‘ri ko‘rsatilgan qator: 
+180. Markaziy protsessor va kiritish/chiqarish qurilmalari o'rtasidagi ma’lumot almashish turlari soni to'g'ri ko'rsatilgan qatorni toping. 
+Kiritish/chiqarish qurilmalari va markaziy protsessor o'rtasidagi ma’lumot almashish turlari soni to'g'ri ko'rsatilgan qator: 
 - Parallel (Parallel)
 - Serial (Serial)
 - USB (Universal Serial Bus)
@@ -617,8 +617,8 @@ DMA (Direct Memory Access) jarayoni kiritish/chiqarish qurilmalaridan ma'lumot u
 184. Kiritish/chiqarish modulining kiritish qurilmalaridan kelayotgan ma’lumotlardagi kamchiliklarni nazorat qilish vazifasini bajaruvchi funkiysa qanday nomlanadi? 
 Kontroller (Controller) kiritish/chiqarish modulining kiritish qurilmalaridan kelayotgan ma’lumotlardagi kamchiliklarni nazorat qilish vazifasini bajaruvchi funksiya nomlanadi.
 
-185. Har xil turdagi tashqi qurilmalar va ulardan kelayotgan ma’lumot turlarining har xil ekanligini nazorat qilib markaziy protsessorga ma’lumotni to‘g‘ri shaklda uzatib beradigan modul qanday nomlanadi? 
-Interfeys (Interface) har xil turdagi tashqi qurilmalar va ulardan kelayotgan ma’lumot turlarining har xil ekanligini nazorat qilib markaziy protsessorga ma’lumotni to‘g‘ri shaklda uzatib beradigan modul nomlanadi.
+185. Har xil turdagi tashqi qurilmalar va ulardan kelayotgan ma’lumot turlarining har xil ekanligini nazorat qilib markaziy protsessorga ma’lumotni to'g'ri shaklda uzatib beradigan modul qanday nomlanadi? 
+Interfeys (Interface) har xil turdagi tashqi qurilmalar va ulardan kelayotgan ma’lumot turlarining har xil ekanligini nazorat qilib markaziy protsessorga ma’lumotni to'g'ri shaklda uzatib beradigan modul nomlanadi.
 
 186. Kompyuterda kiruvchi va chiquvchi axborotlar o'rtasidagi bog'lanishni tashkil etuvchi mantiqiy yoki fizik qurilmalar qanday nomlanadi? 
 . Bus (Bus) kompyuterda kiruvchi va chiquvchi axborotlar o'rtasidagi bog'lanishni tashkil etuvchi mantiqiy yoki fizik qurilmalar nomlanadi.
@@ -630,8 +630,8 @@ Interfeys (Interface) har xil turdagi tashqi qurilmalar va ulardan kelayotgan ma
 
 +   1 yoki 0 
 
-189. 1 kilobayt (KB) qiymatdagi ma’lumot necha baytdan iborat bo‘ladi? 
-1 kilobayt (KB) qiymatdagi ma’lumot 1024 baytdan iborat bo‘ladi.
+189. 1 kilobayt (KB) qiymatdagi ma’lumot necha baytdan iborat bo'ladi? 
+1 kilobayt (KB) qiymatdagi ma’lumot 1024 baytdan iborat bo'ladi.
 
 190. 3 megabayt (MB) necha kilobayt(KB) ga teng? 	
 3 megabayt (MB) 3072 kilobayt (KB) ga teng.
@@ -645,13 +645,13 @@ Interfeys (Interface) har xil turdagi tashqi qurilmalar va ulardan kelayotgan ma
 193. Kiritish/chiqarish modulidagi har xil tashqi qurilmalar ma'lumot tashishi haqida berilgan fikrlardan qaysi biri to'g'ri? 
 Har xil tashqi qurilmalar ma'lumot tashishi haqida berilgan fikrlardan to'g'ri bo'lmagan hech qaysi.
 
-194. Kiritish/chiqarish modulidagi har xil tashqi qurilmalar ma’lumot tashish tezligi haqida berilgan fikrlardan qaysi biri to‘g‘ri? 
-Har xil tashqi qurilmalar ma’lumot tashish tezligi haqida berilgan fikrlardan hech qaysi to‘g‘ri emas, chunki har bir tashqi qurilma o‘zining o‘ziga xos tezlikka ega.
+194. Kiritish/chiqarish modulidagi har xil tashqi qurilmalar ma’lumot tashish tezligi haqida berilgan fikrlardan qaysi biri to'g'ri? 
+Har xil tashqi qurilmalar ma’lumot tashish tezligi haqida berilgan fikrlardan hech qaysi to'g'ri emas, chunki har bir tashqi qurilma o'zining o'ziga xos tezlikka ega.
 
 195. Kiritish/chiqarish modulidagi har xil tashqi qurilmalar ma'lumot tashish formati haqida berilgan fikrlardan qaysi biri to'g'ri?
 Har xil tashqi qurilmalar ma'lumot tashish formati haqida berilgan fikrlardan to'g'ri bo'lmagan hech qaysi.
 
-196. Barcha tashqi qurilmalar CPU va RAMdan …… ishlaydi. Nuqtalar o‘rniga mos javobni belgilang. 
+196. Barcha tashqi qurilmalar CPU va RAMdan …… ishlaydi. Nuqtalar o'rniga mos javobni belgilang. 
 Barcha tashqi qurilmalar CPU va RAMdan ma’lumot olish va uni ishlash uchun kerakli ma’lumotlarni saqlash uchun ishlatiladi.
 
 +   sekin
@@ -672,7 +672,7 @@ Ma’lumotlarni chop qilish (Output).
 
 202. Quyidagi berilganlardan qaysi biri kiritish/chiqarish jarayoni qadamlaridan 5-si hisoblanadi? 
 
-203. Kiritish/chiqarish moduli ma’lumot uzatuvchi qismlari nechta turga bo‘linadi?
+203. Kiritish/chiqarish moduli ma’lumot uzatuvchi qismlari nechta turga bo'linadi?
 
 +   3 ta
 
@@ -681,13 +681,13 @@ Ma’lumotlarni chop qilish (Output).
 
 205. Quyidagi berilgan kiritish/chiqarish moduli ma'lumot uzatuvchi qismlaridan qaysi biri CPU vaqtini behudaga sarflaydi?
 
-206. Quyidagi berilgan kiritish/chiqarish moduli ma’lumot uzatuvchi qismlaridan qaysi biri CPUning tayyor bo‘lish vaqtini kutmasdan CPUni band qilish signali jo‘natadi?
+206. Quyidagi berilgan kiritish/chiqarish moduli ma’lumot uzatuvchi qismlaridan qaysi biri CPUning tayyor bo'lish vaqtini kutmasdan CPUni band qilish signali jo'natadi?
 
 207. Quyidagi berilgan kiritish/chiqarish moduli ma'lumot uzatuvchi qismlaridan qaysi biri CPUdan doim aktiv holatda bo'lishini talab qilmaydi? 
 
 208. Quyidagi berilgan kiritish/chiqarish moduli ma'lumot uzatuvchi qismlaridan qaysi birida CPU o'qish/yozish, qurilma addresi, ma'lumot uchun xotiradan ajratiladigan joy addresi kabi buyruqlarni beradi? 
 
-209. Kompyuterning dasturiy va qurilma ta’minoti o‘rtasidagi bog‘lanishini ta’minlab beruvchi komponent nima deb ataladi?
+209. Kompyuterning dasturiy va qurilma ta’minoti o'rtasidagi bog'lanishini ta’minlab beruvchi komponent nima deb ataladi?
 
 +   ko“rsatmalar to“plami arxitekturasi
 
@@ -701,9 +701,9 @@ Ma’lumotlarni chop qilish (Output).
 
 214. Berilgan amal: Push A, Pop C; kompyuter ko'rsatmalar to'plami arxitekturasining qaysi biriga mos keladi? 
 
-215. Berilgan amal: Load A, Add B, Store F; kompyuter ko‘rsatmalar to‘plami arxitekturasining qaysi biriga mos keladi? 
+215. Berilgan amal: Load A, Add B, Store F; kompyuter ko'rsatmalar to'plami arxitekturasining qaysi biriga mos keladi? 
 
-216. Berilgan amal: Load R1, A; Add R1, B; Store C, R1; kompyuter ko‘rsatmalar to‘plami arxitekturasining qaysi biriga mos keladi? 
+216. Berilgan amal: Load R1, A; Add R1, B; Store C, R1; kompyuter ko'rsatmalar to'plami arxitekturasining qaysi biriga mos keladi? 
 
 217. Berilgan amal: Load R1, A; Load R2, B; Add R3,R1,R2; Store C,R3; kompyuter ko'rsatmalar to'plami arxitekturasining qaysi biriga mos keladi? 
 
@@ -713,13 +713,13 @@ Ma’lumotlarni chop qilish (Output).
 
 220. Quyidagi berilganlardan qaysi biri o'zgaruvchilarni e'lon qilish va ularni saqlash uchun juda qulay? 
 
-221. Berilgan ifodani Stackda to‘g‘ri ketma-ketlikda ifodalang: D * E. 
+221. Berilgan ifodani Stackda to'g'ri ketma-ketlikda ifodalang: D * E. 
 
-222. Berilgan ifodani Stackda to‘g‘ri ketma-ketlikda ifodalang: G + E * F. 
+222. Berilgan ifodani Stackda to'g'ri ketma-ketlikda ifodalang: G + E * F. 
 
 223. Berilgan ifodani accumulator arxitekturasida to'g'ri ketma-ketlikda ifodalang: G + E * F. 
 
-224. Berilgan ifodani accumulator arxitekturasida to‘g‘ri ketma-ketlikda ifodalang: E/H – G. 225. load A, mult B, add G, store F shaklida berilgan accumulator amalining vazifasi to‘g‘ri ko‘rsatilgan qatorni toping. 
+224. Berilgan ifodani accumulator arxitekturasida to'g'ri ketma-ketlikda ifodalang: E/H – G. 225. load A, mult B, add G, store F shaklida berilgan accumulator amalining vazifasi to'g'ri ko'rsatilgan qatorni toping. 
 
 226. Berilgan ifodani 3 operandali xotira-xotira arxitekturasida tasvirlang: A*B – (A+C*B). 
 
@@ -749,21 +749,21 @@ Ma’lumotlarni chop qilish (Output).
 
 236. Berilgan ifodani Load-Store arxitekturasida tasvirlang: G+F*H. 
 
-237. Kompyuterning buyruqlar(qo‘llanmalar) turlari soni to‘g‘ri ko‘rsatilgan qatorni toping. 
+237. Kompyuterning buyruqlar(qo'llanmalar) turlari soni to'g'ri ko'rsatilgan qatorni toping. 
 
-238. Quyidagilardan qaysi biri kompyuter buyruqlar (qo‘llanmalar) turi hisoblanmaydi? 
+238. Quyidagilardan qaysi biri kompyuter buyruqlar (qo'llanmalar) turi hisoblanmaydi? 
 
 239. Quyida berilganlardan qaysi biri ma'lumot uzatish buyruqlariga misol bo'la oladi? 
 
 240. Quyida berilgan instruksiyalardan qaysi birining vazifasi xotiradan ma'lumotni olib uni nusxasini registrlarga jo'natadi? 
 
-241. Quyida berilgan instruksiyalardan qaysi birining vazifasi registrlardan ma’lumotni olib xotiraga jo‘natish? 
+241. Quyida berilgan instruksiyalardan qaysi birining vazifasi registrlardan ma’lumotni olib xotiraga jo'natish? 
 
-242. Quyida berilgan instruksiyalardan qaysi birining vazifasi ma’lumotni bir registr yacheykasidan ikkinchisiga ko‘chirishga ishlatiladi? 
+242. Quyida berilgan instruksiyalardan qaysi birining vazifasi ma’lumotni bir registr yacheykasidan ikkinchisiga ko'chirishga ishlatiladi? 
 
 243. Quyida berilgan instruksiyalardan qaysi biri klaviatura, sichqoncha, mikrofon qurilmalaridan kelayotgan ma'lumotlar bilan ishlaydi? 
 
-244. Quyida berilgan instruksiyalardan qaysi biri qo‘shish, ko‘paytirish, bo‘lish va ayirish amallarini bajarish uchun ishlatiladi? 
+244. Quyida berilgan instruksiyalardan qaysi biri qo'shish, ko'paytirish, bo'lish va ayirish amallarini bajarish uchun ishlatiladi? 
 
 245. FADD, FSUB, FMUL, FDIV singari amallar qaysi tipdagi sonlar uchun ishlatiladi? 
 
@@ -773,7 +773,7 @@ Ma’lumotlarni chop qilish (Output).
 
 248. Quyidagi berilgan instruksiyalardan qaysi biri ma'lumotlarni bir joydan ikkinchi joyga ko'chirish uchun ishlatiladi? 
 
-249. Quyida berilgan instruksiyalardan qaysi biri shartli yoki shartsiz o‘tish va bo‘lim operatsiyalarni amalga oshirish uchun ishlatiladi? 
+249. Quyida berilgan instruksiyalardan qaysi biri shartli yoki shartsiz o'tish va bo'lim operatsiyalarni amalga oshirish uchun ishlatiladi? 
 
 -ma'lumot uzatish instruksiyalari
 
@@ -785,7 +785,7 @@ Ma’lumotlarni chop qilish (Output).
 
 252. Ko'rsatmalarni amalga oshirishda qiymatni qayerga joylashtirishni hal qilish uchun ishlatiladigan qism nima deb nomlanadi? 
 
-253. Necha addressli qo‘llanmalarda ikkitadan qiymat bo‘ladi? 
+253. Necha addressli qo'llanmalarda ikkitadan qiymat bo'ladi? 
 -   xotira rejimi
 
 254. Necha addressli qo'llanmada amal kodi, belgilangan joy, qiymat 1, qiymat 2, va keyingi instruksiya manzili mavjud bo'ladi? 
@@ -809,7 +809,8 @@ Ma’lumotlarni chop qilish (Output).
 -  manzilni o'zgartirish rejimi
 
 262. Quyida berilgan manzillash rejimlarining qaysi birida amal va qiymat birgalikda ketma-ket tashqi qurilmadan CPUga, CPUdan xotiraga va xotiradan CPUga qaytariladi? 
-- manzilni o'zgartirish rejimi
+-   manzilni o'zgartirish rejimi
+-   bilvosita manzillash rejimi
 
 263. Accumulator arxitekturasi qaysi manzillash rejimiga misol bo'ladi? 
 
@@ -825,13 +826,13 @@ Ma’lumotlarni chop qilish (Output).
 
 268. Qaysi manzillash rejimida qiymatning kerakli manzili ko'rsatmaning o'zida mavjud bo'ladi? 
 
-269. Qaysi manzillash rejimida qiymatning samarali manzilini topish uchun qo‘shimcha hisob-kitoblar shart emas? 
+269. Qaysi manzillash rejimida qiymatning samarali manzilini topish uchun qo'shimcha hisob-kitoblar shart emas? 
 
 270. Quyida berilgan manzillash rejimlaridan qaysi birida qiymat joylashgan xotiraga alohida ko'rsatgichlar bo'ladi va qiymatlar shu ko'rsatgichlar orqali ko'rsatma amalga oshiriladi? 
 
-271. Berilgan ADD R1, R2, R2 ifoda necha addresli qo‘llanmalarga misol bo‘la oladi? 
+271. Berilgan ADD R1, R2, R2 ifoda necha addresli qo'llanmalarga misol bo'la oladi? 
 
-272. Berilgan STORE R1, R2 ifoda necha addressli qo‘llanmalarga misol bo‘la oladi? 
+272. Berilgan STORE R1, R2 ifoda necha addressli qo'llanmalarga misol bo'la oladi? 
 
 273. Qo'llanma addresslarida “Amal kodi” qancha joy egallaydi? 
 
@@ -846,7 +847,7 @@ Ma’lumotlarni chop qilish (Output).
 
 278. Berilgan ADD A, SUB A, MULT A kabi ifodalar necha addresli qo'llanmalarga misol bo'la oladi? 
 
-279. Berilgan LOAD B, MUL C, STORE D kabi ifodalar necha addresli qo‘llanmalarga misol bo‘la oladi?
+279. Berilgan LOAD B, MUL C, STORE D kabi ifodalar necha addresli qo'llanmalarga misol bo'la oladi?
 - 3 addressli qo'llanma
 
 280. Necha addressli qo'llanmalar Stack ishlash prinsipiga asoslangan?
@@ -861,12 +862,12 @@ Ma’lumotlarni chop qilish (Output).
 
 284. CPUda ichki xotira sifatida foydalaniladigan qismlar qanday nomlanadi? 
 
-285. Ma’lumot va ko‘rsatmalarni protsessorga, protsessordan tashqi qurilmalarga tashishni boshqaruvchi CPU qismi qanday nomlanadi? 
+285. Ma’lumot va ko'rsatmalarni protsessorga, protsessordan tashqi qurilmalarga tashishni boshqaruvchi CPU qismi qanday nomlanadi? 
 -   registrlar
 
 286. Quyidagilardan qaysi biri protsessor, xotira va K/Ch modullari o'rtasida ma'lumot va ko'rsatma tashuvchi qism sifatida foydalaniladi? 
 
-287. CPU qismlaridan biri bo‘lgan status flags(holat bayroqlari)ning vazifasi to‘g‘ri ko‘rsatilgan javobni toping. 
+287. CPU qismlaridan biri bo'lgan status flags(holat bayroqlari)ning vazifasi to'g'ri ko'rsatilgan javobni toping. 
 
 288. CPU qismlaridan biri bo'lgan Shifterlarning vazifasi to'g'ri ko'rsatilgan javobni toping. 
 
@@ -878,12 +879,12 @@ Ma’lumotlarni chop qilish (Output).
 
 291. Qaysi amalni birinchi, qaysi birini ikkinchi, qaysi birini uchinchi bajarilishini nazorat qiladigan yo'laklar qanday nomlanadi? 
 
-292. Protsessor registrlarinng nechta asosiy turga bo‘linadi? 
+292. Protsessor registrlarinng nechta asosiy turga bo'linadi? 
 
 293. Assembler dasturchisi tomonidan dastur yozish va uni saqlash uchun xotira vazifasini bajaradigan registrlar qanday nomalanadi? 
 - nazorat registrlari
 
-294. Protsessordagi operatsiyalarni nazorat qilish uchun ishlatiladigan buyruqlarni o‘zida saqlagan registrlar qanday nomlanadi? 
+294. Protsessordagi operatsiyalarni nazorat qilish uchun ishlatiladigan buyruqlarni o'zida saqlagan registrlar qanday nomlanadi? 
 
 +   Nazorat va holat registrlari
 
@@ -942,11 +943,11 @@ Ma’lumotlarni chop qilish (Output).
 
 314. Oxirgi buyruqlarni o'zida saqlovchi registrlar qanday nomlanadi? 
 
-315. Xotira joylashuvini o‘z ichiga oluvchi registrlar qanday nomlanadi? 
+315. Xotira joylashuvini o'z ichiga oluvchi registrlar qanday nomlanadi? 
 
-316. Xotiraga yoziladigan ma’lumotlarni o‘zida saqlovchi registrlar qanday nomlanadi? 
+316. Xotiraga yoziladigan ma’lumotlarni o'zida saqlovchi registrlar qanday nomlanadi? 
 
-317. Xotiradan o‘qiladigan ma’lumotlarni o‘zida saqlovchi registrlar qanday nomlanadi? 318. Kiritish/chiqarish qurilmalarining manzillarini o‘zida saqlab turuvchi registrlar qanday nomlanadi? 
+317. Xotiradan o'qiladigan ma’lumotlarni o'zida saqlovchi registrlar qanday nomlanadi? 318. Kiritish/chiqarish qurilmalarining manzillarini o'zida saqlab turuvchi registrlar qanday nomlanadi? 
 
 319. Kiritish/chiqarish moduli va CPU o'rtasida ma'lumot almashish uchun ishlatiladigan registrlar qanday nomlanadi? 
 
@@ -1002,7 +1003,7 @@ Ma’lumotlarni chop qilish (Output).
 
 336. Agar bir qancha funksiyalar bir vaqtni o'zida amalga oshiriladigan bo'lsa bu konveyerlash qanday nomlanadi? 
 
-337. Quyida berilgan konveyerlash turlaridan qaysi biri faqat oldindan belgilab qo‘yilgan vazifani bajaradi? 
+337. Quyida berilgan konveyerlash turlaridan qaysi biri faqat oldindan belgilab qo'yilgan vazifani bajaradi? 
 
 +   statik vazifani 
 
@@ -1010,7 +1011,7 @@ Ma’lumotlarni chop qilish (Output).
 
 339. Quyida berilgan konveyerlash turlaridan qaysi birida bir qancha funksiyalar parallel ravishda amalga oshiriladi? 
 
-340. Butun bir berilgan ko‘rsatmani bajarishga ketadigan vaqtni har bir sekund(minut, soat) uchun bo‘lib joylashtirish nima deb nomlanadi?
+340. Butun bir berilgan ko'rsatmani bajarishga ketadigan vaqtni har bir sekund(minut, soat) uchun bo'lib joylashtirish nima deb nomlanadi?
 
 +   Konveyerlash vaqt diagrammalari
 
@@ -1025,7 +1026,7 @@ Ma’lumotlarni chop qilish (Output).
 
 345. Konveyerlash muammolarining qaysi turida bir instruksiya boshqa instruksiyadan chiqadigan natija orqali ishlaydi, lekin boshqa instruksiya hali ham pipelineda ishlab turgan bo'ladi? 
 
-346. Konveyerlash muammolarining qaysi turida instruksiyani amalga oshirish pipelinedagi boshqa instruksiya natijasiga bog‘liq bo‘ladi? 
+346. Konveyerlash muammolarining qaysi turida instruksiyani amalga oshirish pipelinedagi boshqa instruksiya natijasiga bog'liq bo'ladi? 
 
 347. Quyida berilganlardan qaysi biri struktura yoki resurs muammosi yechimi hisoblanadi ? 
 
@@ -1033,17 +1034,17 @@ Ma’lumotlarni chop qilish (Output).
 
 349. Struktura yoki resurs konflikt muammosini hal qilishda resourseni bir biridan mustaqil bo'lgan instruksiyalarga bo'lish qanday nomlanadi? 
 
-350. Konveyerlashni ma’lumotlar muammolari nechta turga bo‘linadi? 
+350. Konveyerlashni ma’lumotlar muammolari nechta turga bo'linadi? 
 
-351. Quyida berilgan konveyerlash muammolarining qaysi birida 1-instruksiya ma’lumotni 2- instruksiya yozishidan oldin o‘qishga harakat qiladi? 
+351. Quyida berilgan konveyerlash muammolarining qaysi birida 1-instruksiya ma’lumotni 2- instruksiya yozishidan oldin o'qishga harakat qiladi? 
 
-352. Quyida berilgan konveyerlash muammolarining qaysi birida 1-instruksiya o‘qilishidan oldin 2- instruksiya ma’lumotni yozishga harakat qiladi? 
+352. Quyida berilgan konveyerlash muammolarining qaysi birida 1-instruksiya o'qilishidan oldin 2- instruksiya ma’lumotni yozishga harakat qiladi? 
 
 353. Quyida berilgan konveyerlash muammolarining qaysi birida 1-instruksiya natijani yozishidan oldin, 2-instruksiya natijani yozishga harakat qiladi? 
 
 354. Magnit disklar nega magnit disk deb nomlanadi? 
 
-355. Quyida berilganlardan qaysi biri magnit disklarga misol bo‘la olmaydi ? 
+355. Quyida berilganlardan qaysi biri magnit disklarga misol bo'la olmaydi ? 
 
 356. Quyida berilganlardan qaysi biri magnit disklarga misol bo'la olmaydi? 
 
@@ -1051,16 +1052,16 @@ Ma’lumotlarni chop qilish (Output).
 
 358. Disk aylanadigan o'qdan bir xil nominal masofaga ega bo'lgan treklar to'plami qanday qanday nomlanadi? 
 
-359. Magnit diskdagi har bir plitaning bo‘limi qanday nomlanadi? 
+359. Magnit diskdagi har bir plitaning bo'limi qanday nomlanadi? 
 
-360. Magnit disklarning har bir sektori necha baytdan iborat bo‘ladi? 
+360. Magnit disklarning har bir sektori necha baytdan iborat bo'ladi? 
 
 361. Diskdagi ma'lumotlarni saqlash maydoni nima deb nomlanadi? 
 - controller
 
 362. Disk drayverini boshqaradigan chip va unga tegishli sxema qaysi? 
 
-363. Diskning geometriyasi va bo‘limlari haqida ma’lumotni o‘z ichiga olgan diskning birinchi sektori qaysi? 364. Uskuna yoki virtual qurilmani boshqaruvchi yadro moduli qanday nomlanadi? 
+363. Diskning geometriyasi va bo'limlari haqida ma’lumotni o'z ichiga olgan diskning birinchi sektori qaysi? 364. Uskuna yoki virtual qurilmani boshqaruvchi yadro moduli qanday nomlanadi? 
 
 +   disk yorlig'i
 
@@ -1083,9 +1084,9 @@ Ma’lumotlarni chop qilish (Output).
 
 372. Quyida berilganlardan qaysi biri PAN uchun to'g'ri ta'rif? 
 
-373. Quyida berilganlardan qaysi biri MAN uchun to‘g‘ri ta’rif? 
+373. Quyida berilganlardan qaysi biri MAN uchun to'g'ri ta’rif? 
 
-374. Kompyuter tarmoqlari hajmiga ko‘ra nechta turga bo‘linadi? 
+374. Kompyuter tarmoqlari hajmiga ko'ra nechta turga bo'linadi? 
 
 375. Bir kichik binoda, officeda yoki xonada joylashgan kompyuterlarning o'zaro bog'langan tarmog'i qanday nomlanadi? 
 
@@ -1093,11 +1094,11 @@ Ma’lumotlarni chop qilish (Output).
 
 377. Quyida berilgan kompyuter tarmoqlaridan qaysi birida ma'lumot uzatish xavfsizligi yuqori bo'ladi? 
 
-378. Inson o‘zi uchun qurilmalarini ulash uchun yaratgan, simli va simsiz bog‘langan tarmoq qanday nomlanadi? 
+378. Inson o'zi uchun qurilmalarini ulash uchun yaratgan, simli va simsiz bog'langan tarmoq qanday nomlanadi? 
 
 379. Wi-Fi va Bluetoothga asoslangan kompyuter bog'lanish tarmog'i qanday nomlanadi? 
 
-380. O‘zida har xil mahalliy tarmoqlarni jamlagan kattaroq shahar tarmog‘i qanday nomlanadi? 
+380. O'zida har xil mahalliy tarmoqlarni jamlagan kattaroq shahar tarmog'i qanday nomlanadi? 
 
 381. Mamlakatlar, aholi va tashkilotlarni bitta tarmoqda bog'lanishni ta'minlash uchun yaratilgan tarmoq qanday nomlanadi? 
 
@@ -1105,22 +1106,22 @@ Ma’lumotlarni chop qilish (Output).
 
 383. Kompyuter tarmoqlarida Nodelar va Linklarning qay tartibda joylashtirilishiga ko'ra tarmoq qanday nomlanadi? 
 
-384. Quyida berilgan tarmoq topologiyalaridan qaysi birida har bir kompyuter va tarmoq qurilmasi bitta kabelga bog‘langan bo‘ladi? 
+384. Quyida berilgan tarmoq topologiyalaridan qaysi birida har bir kompyuter va tarmoq qurilmasi bitta kabelga bog'langan bo'ladi? 
 
 385. Quyida berilgan tarmoq topologiyalaridan qaysi biri faqat kichik tarmoqlarda ishlashi mumkin va kompyuterlar soni oshishi bilan tarmoqda ma’lumot uzatishda chigalliklar yuzaga keladi? 
 
 386. Quyida berilgan tarmoq topologiyalaridan qaysi birida bir qurilma boshqa ikkita qurilma bilan qo'shni shaklida bog'langan bo'ladi ? 
 
-387. Uzuk topologiyasida ma’lumot qaysi yo‘nalishda uzatiladi? 
+387. Uzuk topologiyasida ma’lumot qaysi yo'nalishda uzatiladi? 
 
 388. Quyida berilgan tarmoq topologiyalaridan qaysi birida barcha qurilmalar hub qurilma yordamida bitta tarmoqqa bog'langan bo'ladi? 
 
 389. Quyida berilgan tarmoq topologiyalaridan qaysi birida har bitta qurilma bitta portga ulangan bo'ladi va hub markaziy node hisoblanadi? 
 
-390. Quyida berilgan tarmoq topologiyalaridan qaysi birida tarmoq ishlash tezligi faqat bitta qurilmaga bog‘liq bo‘ladi va agar hubda xatolik bo‘lsa butun tarmoq darz ketadi? 
+390. Quyida berilgan tarmoq topologiyalaridan qaysi birida tarmoq ishlash tezligi faqat bitta qurilmaga bog'liq bo'ladi va agar hubda xatolik bo'lsa butun tarmoq darz ketadi? 
 
 391. Quyida berilgan tarmoq topologiyalaridan qaysi birida har bir qurilma boshqa bir qurilma bilan alohida kabel orqali bog'langan bo'ladi? 
 
-392. Quyida berilgan tarmoq topologiyalaridan qaysi birida har bir qurilma istalgan boshqa qurilmaga to‘g‘ridan-to‘g‘ri ma’lumot junata oladi va uzilishlarni topish juda ham oson? 
+392. Quyida berilgan tarmoq topologiyalaridan qaysi birida har bir qurilma istalgan boshqa qurilmaga to'g'ridan-to'g'ri ma’lumot junata oladi va uzilishlarni topish juda ham oson? 
 
-393. Mesh(to‘r) topologiyasining minus tomoni to‘g‘ri ko‘rsatilgan qatorni toping.
+393. Mesh(to'r) topologiyasining minus tomoni to'g'ri ko'rsatilgan qatorni toping.
