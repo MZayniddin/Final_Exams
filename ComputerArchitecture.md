@@ -62,7 +62,7 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 +   Klaviatura.
 
 18. Quyidagilardan qaysi biri kompyuterdan ma’lumot chiqaruvchi qurilmaga misol bo‘la oladi? 
-+   Klaviatura.
+-   Klaviatura.
 
 19. Kiritish chiqarish portlarining asosiy vazifasi nima? 
 +   Malumotlarni uzatish
@@ -93,7 +93,8 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 +   Bu asar Leonardo da Vinci qalamiga mansub edi.
 
 29. Mexanik hisoblash mashinalari davrida yaratilgan bo‘yi 30-40 sm, balandligi 10 sm bo‘lgan jez qutichadan iborat hisoblash mashinasi kim tomonidan yasalgan edi? 
-+   Bu hisoblash mashinasi Leonardo da Vinci tomonidan yaratilgan edi.
+
+-   Leonardo da Vinchi
 
 30. Quyidagilardan qaysi biri mexanik mashinalardan elektromexanik mashinalariga o‘tish uchun asos bo‘lib xizmat qildi? 
 +   Elektromexanik mashinalariga o‘tish uchun asos bo‘lib xizmat qilgan quyidagi hisoblash mashinalari: Pascaline, Leibniz's Stepped Reckoner, Charles Babbage's Difference Engine va Analytical Engine.
@@ -137,7 +138,7 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 +   Bu tilda yaratilgan dasturlar "programming language" deb nomlanadi.
 
 44. Ma’lum bir dasturni kompyuterda ishga tushurish uchun yozilgan va o‘zini-o‘zi nazorat qilish imkoniga ega bo‘lgan dastur tili qanday nomlanadi? 
-+ Bu til "dastur tili" yoki "programming language" deb nomlanadi.
+- dasturlash tili
 
 45. Biror-bir tizimning prototipini tasvirlash uchun ishlatiladigan kompyuter tili qanday nomlanadi? 
 + Bu til "dastur tili" yoki "programming language" deb nomlanadi.
@@ -166,7 +167,7 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 + 1 bayt 8 bitdan iborat.
 
 53. Raqamli sxemaning ikkita mantiqiy qiymatdan birini qabul qilishi mumkin ekanligi haqidagi isbotlar kimning nomi bilan bog‘liq ? 
-+ Bu isbotlar George Boole tomonidan ishlab chiqilgan boolean algebra asosida amalga oshirilgan.
++  George Boole (bull)
 
 54. 6510 sonini ikkilik sanoq tizimida ifodalang. 
 + 1 1000 1110 0010
@@ -246,7 +247,7 @@ a) RAM (Random Access Memory)
 +Markaziy protsessorda joylashgan kiritish/chiqarish buffer registrining asosiy vazifasi, kiritish va chiqarish amallarini bajarish orqali, kiritilgan ma'lumotlarni saqlash va ularga kirish va chiqishni boshqarishdir. Bu registr kiritish va chiqarish amallarini bajarish uchun xotirani o‘tkazib beradi va bu jarayonni boshqarish uchun kerakli signalni yuboradi. Asosiy vazifasi, kiritilgan ma'lumotlarni saqlash va ularga kirish va chiqishni boshqarishdir.
 
 78. Bitta dasturni amalga oshirish uchun kerak bo‘ladigan jarayon qanday nomlanadi?
-+ Bitta dasturni amalga oshirish uchun kerak bo‘ladigan jarayon "dastur ishga tushirish" (program execution) deb nomlanadi. Bu jarayon dasturning kodini yuklash, uni tahlil qilish, ma'lumotlarni kiritish, hisoblash va natijani chiqarishni o‘z ichiga oladi.
+- amallar yig'indisi
 
 79. Ko‘rsatmalar sikli o‘z ichiga nechta asosiy qadamni oladi? 
 + Ko‘rsatmalar sikli o‘z ichiga nechta asosiy qadamni oladi? Bu savolning javobi ko‘rsatmalar sikli turlari bo‘yicha o‘zgaradi. Agar bu savol "for" ko‘rsatmalar sikli uchun bo‘lsa, unda ko‘rsatmalar sikli o‘z ichiga 3 ta asosiy qadamni oladi: boshlang‘ich qiymatni aniqlash, shartni tekshirish va har bir siklda bajariladigan amallar. Agar savol "while" yoki "do-while" ko‘rsatmalar sikli uchun bo‘lsa, unda ko‘rsatmalar sikli o‘z ichiga 2 ta asosiy qadamni oladi: shartni tekshirish va har bir siklda bajariladigan amallar.
@@ -264,7 +265,7 @@ a) RAM (Random Access Memory)
 +Quyidagi berilganlardan "Internetda video ko'rish" kompyuterning asosiy vazifasi emas. Kompyuter asosiy vazifalari orasida ma'lumotlarni saqlash, ma'lumotlarni qayta ishlash, ma'lumotlarni ko‘rsatish, tarmoqda ma'lumot almashish, fayllarni boshqarish, tizimni boshqarish, tizimni himoya qilish, tizimni ta'minlash, tizimni tahlil qilish, tizimni monitoring qilish, tizimni tuzish va boshqalar kabi vazifalar kiritiladi.
 
 84. Quyidagi berilgan vazifalardan qaysi bir faqat markaziy protsessor module tomonidan amalga oshiriladi? 
-+ Quyidagi berilgan vazifalardan "Akseleratsiya qilish" faqat markaziy protsessor module tomonidan amalga oshiriladi. Akseleratsiya, kompyuterda bajarilayotgan ishlarni tezlashtirish uchun markaziy protsessor modulining yordamiga qilinadigan harakatdir. Bunda markaziy protsessor moduli, bajarilayotgan ishni boshqarish uchun kerakli ma'lumotlarni saqlab turadi va ularni tezlashtirish uchun kerakli hisoblash operatsiyalarini bajaradi.
+- tezkor xotira va kiritish/chiqarish qurilmalari o'rtasida ma'lumot almashinuv
 
 85. Bajarilayotgan amalni to‘xtatishni yoki xizmat ko‘rsatishni to‘xtatishni amalga oshiradigan signal qanday nomlanadi?
 + Bajarilayotgan amalni to'xtatishni yoki xizmat ko'rsatishni to'xtatishni amalga oshiradigan signal "interrupt" deb nomlanadi. Interrupt, kompyuterda bajarilayotgan dasturlarning ishlash jarayonini to'xtatish uchun yuboriladigan signaldir. Bunda, kompyuter markaziy protsessor modulining bajarilayotgan ishni to'xtatib, boshqa bir ishni bajarishga o'tishini ta'minlaydi. Interruptlar, kompyuterda bajarilayotgan ishlar orasida birinchi darajada ehtiyoj qilinadigan harakatlardan biridir.
@@ -280,12 +281,7 @@ a) RAM (Random Access Memory)
 + Agar protsessor monitor, klaviaturadan uzilish signalini qabul qilsa, bu uzilish turi "input/output (I/O) interrupt" deb atalad
 
 89. Kompyuter Qurilma ta’minotidagi uzilishlarning turlarini belgilang.
-+ 1. Kiritish/chiqish (Input/Output) uzilishlari:
-+ 2. Xotira uzilishlari:
-+ 3. Ishlovchi uzilishlar:
-+ 4. Grafik uzilishlari:
-+ 5. Tarmoq uzilishlari:
-+ 6. Kuch uzilishlari:
+- dasturiy uskunaviy
 
  90. Protsessor katta hajmli dastur bilan ishlayotgan bo‘lsa va uzilishni vaqtincha e’tiborga olmasa bu qanday uzilish deb nomlanadi?
 + Agar protsessor katta hajmli dastur bilan ishlayotgan bo'lsa va uzilishni vaqtincha e'tiborga olmasa, bu uzilish "hang" deb nomlanadi.
@@ -317,7 +313,7 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 +Bu qurilmalar har biri, o'zlarining xususiyatlari va funksiyalari bo'yicha o'z-o'zidan ishlaydigan qurilmalardir. Markaziy protsessor esa, barcha qurilmalardan kelgan ma'lumotlarni qabul qiladi, ularni boshqaradi va kerakli amallarni bajaradi.
 
 95. Quyidagi berilganlardan qaysi biri markaziy protsessorda joylashmagan?
-+ Quyidagi berilganlardan "Monitor" markaziy protsessorda joylashmaydi. Monitor, kompyuter tizimida ma'lumotlarni ko'rsatish uchun ishlatiladigan chiziqli ekran qurilmadir. Markaziy protsessor esa, barcha qurilmalardan kelgan ma'lumotlarni qabul qiladi, ularni boshqaradi va kerakli amallarni bajaradi.
+- kiritish/chiqarish buffer registrlari
 
 96. Operatsion tizimning jarayonlar, hisob-kitoblar va operatsion tizim komponentlari o‘rtasida xotirani taqsimlash va to‘g‘ri yo‘nalishtirishi nima deb nomlanadi?
 +Operatsion tizimning jarayonlar, hisob-kitoblar va operatsion tizim komponentlari o‘rtasida xotirani taqsimlash va to‘g‘ri yo‘nalishtirish "Xotira boshqaruvchi" (Memory Management) deb nomlanadi.
@@ -343,7 +339,8 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 + Sizning baytlaringiz chiziqli birlik manzilini saqlaydigan va shu manzillarni ketma-ket joylashtirishdan hosil bo'lgan baytlardan iborat. Bu xotira turiga "massiv" yoki "array" deyiladi.
 
 103. Quyidagilardan qaysi biri to‘g‘ridan-to‘g‘ri markaziy protsessor va kiritish/chiqarish modullari orqali tashqi xotiraga bog‘lanadi? 
-+ To'g'ri javob "Markaziy protsessor"dir. Markaziy protsessor (CPU) kompyuterda barcha amallarni bajaradi va xotira bilan ishlashni boshqaradi. Kiritish/chiqarish modullari esa xotiraga ma'lumotlarni yozish va o'qish uchun ishlatiladi
+
+- markaziy bog'lanish
 
 104. Kompyuterda turli amallarni judayam tez bajaralishini ta’minlaydigan xotira turi qanday nomlanadi? 
 + Bu xotira turiga "RAM" (Random Access Memory) yoki "aniq kirishli xotira" deyiladi. RAM, kompyuterda joriy ishlayotgan dasturlar va fayllar uchun foydali bo'lgan va ularga tez kirish va chiqish imkoniyatini ta'minlaydigan xotira turi hisoblanadi. RAM, kompyuterda amalga oshirilayotgan har qanday amalni tez bajarish uchun kerak bo'lgan ma'lumotlarni saqlaydi.
@@ -409,7 +406,7 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 + Maskanlangan ROM  (Mask ROM) turi ishlab chiqarilgan vaqtda allaqachon lozim bo'lgan dastur yozilgan bo'ladi.
 
 123. Doimiy xotira turlaridan qaysi birida dasturchi xotiraga o‘z dasturlarini yozish imkoniga ega bo‘ladi? 
-+ Erasable Programmable ROM (EPROM) turi dasturchi xotiraga o'z dasturlarini yozish imkoniga ega bo'ladi
+-  qayta yozish mumkin bo'lgan doimiy xotira
 
 124. PROM dasturchisining asosiy vazifasi nima? 
 + Programmable Read-Only Memory (PROM) dasturchisining asosiy vazifasi, ma'lumotlarni doimiy ravishda saqlashdir.
@@ -427,7 +424,8 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 + Bu jarayon "yo'lovchi ma'lumotlarni birlashtirish" yoki "yo'lovchi ma'lumotlarni birlashtirish" deb nomlanadi.
 
 129. Aloqa yo‘laklari nechta funksional guruhlarga bo‘linadi? 
-+ Aloqa yo‘laklari quyidagi funksional guruhlarga bo‘linadi: 1. Ma'lumotlar ko'chirish: 2. Ma'lumotlar yuklash: 3. Ma'lumotlarni o'zgartirish: 4. Ma'lumotlarni o'qish 5. Ma'lumotlar bilan ishlash
+
+-   5 ta 
 
 130. Kompyuter ma’lumot aloqa yo‘lagining asosiy vazifasi to‘liq berilgan qatorni toping. 
 +Kompyuter ma'lumot aloqa yo'lagining asosiy vazifasi yo'lovchi ma'lumotlarini birlashtirishdir.
@@ -509,7 +507,8 @@ Kesh xotira turlaridan L3 Kesh sig‘imi eng katta va qolgan turlariga qaraganda
 Markaziy protsessor biror-bir dastur yoki ma'lumotga murojaat qilganda birinchi bo'lib "Kesh" (Cache) xotiradan ma'lumotni qidiradi.
 
 154. Markaziy protsessor biror-bir dastur yoki ma’lumotga murojaat qilganda agar dastur yoki ma’lumot 1-darajali kesh xotiradan topilmasa, keyin uni qayerdan qidiradi? 
-Markaziy protsessor biror-bir dastur yoki ma'lumotga murojaat qilganda agar dastur yoki ma'lumot 1-darajali kesh xotiradan topilmasa, keyin "Asosiy xotira" (Main Memory) dan uni qidiradi.
+
+- Markaziy protsessor biror-bir dastur yoki ma'lumotga murojaat qilganda agar dastur yoki ma'lumot 1-darajali kesh xotiradan topilmasa, keyin "Asosiy xotira" (Main Memory) dan uni qidiradi.
 
 155. Markaziy protsessor biror-bir dastur yoki ma’lumotga murojaat qilganidan so’ng agar dastur yoki ma’lumot kesh xotiradan topilmasa quyidagi berilganlardan qaysi bir jarayon sodir bo‘ladi?
 Markaziy protsessor biror-bir dastur yoki ma'lumotga murojaat qilganidan so'ng agar dastur yoki ma'lumot "Kesh" (Cache) xotiradan topilmasa, "Asosiy xotira" (Main Memory) dan uni o'qib olib "Kesh" xotirasiga yuklaydi.
@@ -536,9 +535,10 @@ Markaziy protsessor biror-bir dastur yoki ma'lumotga murojaat qilganidan so'ng a
 61.2510 o'nlik sanoq sistemasidagi son ikkilik sanoq sistemasida 111101.01012 tasvirlanadi.
 
 163. 61.12510 o‘nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang. 
-61.12510 o'nlik sanoq sistemasidagi son ikkilik sanoq sistemasida 111101.0012 tasvirlanadi.
++ 111101.001
 
 164. 62.62510 o‘nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida tasvirlang. 
+
 62.62510 o'nlik sanoq sistemasidagi son ikkilik sanoq sistemasida 100110.1012 tasvirlanadi.
 
 165. 0.62510 o‘nlik sanoq sistemasidagi sonni ikkilik sanoq sistemasida ifodalang.
@@ -572,7 +572,7 @@ Markaziy protsessor biror-bir dastur yoki ma'lumotga murojaat qilganidan so'ng a
 101112 × 112 = 10000002	
 
 175. Ikkilik sanoq sistemasidagi 110012 × 1012 sonlarining ko‘paytmasini hisoblang. 
-110012 × 1012 = 111100012
++ 11111012
 
 
 176. Quyidagi keltirilgan kompyuter komponentlaridan qaysi biri markaziy protsessorni tashqi olam qurilmalari va ma’lumotlari bilan bog‘lash uchun xizmat qiladi? 
@@ -593,7 +593,7 @@ Kiritish/chiqarish qurilmalari va markaziy protsessor o‘rtasidagi ma’lumot a
 - Serial (Serial)
 - USB (Universal Serial Bus)
 - Ethernet (Ethernet)
-
+- 4
 181. Kompyuterga oldindan yozilgan va kiritish/chiqarish jarayonlarini ko‘rsatmalarini tashkil etuvchi, kiritish/chiqarish qurilmalari va markaziy protsessor o‘rtasida ma’lumot almashishni ta’minlovchi qism qanday nomlanadi?
 Buss (Bus) kiritish/chiqarish jarayonlarini ko‘rsatmalarini tashkil etuvchi, kiritish/chiqarish qurilmalari va markaziy protsessor o‘rtasida ma’lumot almashishni ta’minlovchi qism nomlanadi.
 
@@ -660,7 +660,10 @@ Ma’lumotlarni chop qilish (Output).
 
 203. Kiritish/chiqarish moduli ma’lumot uzatuvchi qismlari nechta turga bo‘linadi?
 
++3 ta
+
 204. Quyidagilardan qaysi biri kiritish/chiqarish moduli ma’lumotlar uzatuvchi qismlari hisoblanmaydi?
+-uzilishlarga asoslangan K/Ch
 
 205. Quyidagi berilgan kiritish/chiqarish moduli ma’lumot uzatuvchi qismlaridan qaysi biri CPU vaqtini behudaga sarflaydi?
 
@@ -750,6 +753,8 @@ Ma’lumotlarni chop qilish (Output).
 
 249. Quyida berilgan instruksiyalardan qaysi biri shartli yoki shartsiz o‘tish va bo‘lim operatsiyalarni amalga oshirish uchun ishlatiladi? 
 
+-ma'lumot uzatish instruksiyalari
+
 250. Quyida berilgan instruksiyalardan qaysi biri instruksiyalarni solishtirish uchun ishlatiladi? 
 
 251. Quyida berilgan instruksiyalardan qaysi birida CALL, RET, IRET, IRETW singari buyruqlar ishlatiladi? 
@@ -773,6 +778,7 @@ Ma’lumotlarni chop qilish (Output).
 260. Quyidagilardan qaysi biri manzillash rejimlari turi hisoblanmaydi? 261. Quyidagilardan qaysi biri manzillash rejimlari turi hisoblanmaydi? 
 
 262. Quyida berilgan manzillash rejimlarining qaysi birida amal va qiymat birgalikda ketma-ket tashqi qurilmadan CPUga, CPUdan xotiraga va xotiradan CPUga qaytariladi? 
+- manzilni o'zgartirish rejimi
 
 263. Accumulator arxitekturasi qaysi manzillash rejimiga misol bo‘ladi? 
 
@@ -815,6 +821,8 @@ Ma’lumotlarni chop qilish (Output).
 
 282. CPUning nechta asosiy qismlari mavjud? 
 
+- 3
+
 283. Hisob kitoblarni va logik bog‘lanishlarni amalga oshirish uchun ishlatiladigan CPU qismi qanday nomlanadi? 
 
 284. CPUda ichki xotira sifatida foydalaniladigan qismlar qanday nomlanadi? 
@@ -828,6 +836,8 @@ Ma’lumotlarni chop qilish (Output).
 288. CPU qismlaridan biri bo‘lgan Shifterlarning vazifasi to‘g‘ri ko‘rsatilgan javobni toping. 
 
 289. CPU qismlaridan biri bo‘lgan Complementerning vazifasi to‘g‘ri ko‘rsatilgan javobni toping. 
+ 
+- bajarilgan hisob kitoblarning bajarilgan yoki bajarilmaganini ko'rsatadi 
 
 290. CPUdagi registrlar va arifmetik logik unit o‘rtasida ma’lumotlarni tashish uchun ishlatiladigan qismlar qanday nomlanadi? 
 
@@ -844,6 +854,7 @@ Ma’lumotlarni chop qilish (Output).
 296. Foydalanuvchi registrlarining nechta turi mavjud? 
 
 297. Dasturchi tomonidan turli funksiyalar yozish uchun ishlatiladigan registelar nima deb nomlanadi? 
++ umumiy maqsadda foydalaniladigan registerlar
 
 298. Xotirani boshqarish va backup (zahira) funksiyalarini yozish uchun ishlatiladigan registrlar nima deb nomlanadi? 
 
@@ -864,6 +875,8 @@ Ma’lumotlarni chop qilish (Output).
 306. Quyidagilardan qaysi biri address registrlarining vazifasi emas? 
 
 307. Amalga oshirilgan operatsiyalarning bajarilgan yoki bajarilmaganligi statusini ko‘rsatuvchi registrlar qanday nomlanadi? 
+
++ shart-holat kodlari registerlari
 
 308. Shart-holat registrlarida bajarilgan operatsiyalarni statusini ko‘rsatib beruvchi bitlar qanday nomlanadi? 
 
@@ -889,13 +902,20 @@ Ma’lumotlarni chop qilish (Output).
 
 320. Quyidagilardan qaysi biri CPUning tezligini oshirish uchun ishlatiladi? 
 
+-registerlar sonini oshirish
+
 321. Quyidagi berilganlardan qaysi biri CPUning tezligini oshirish uchun ishlatiladi? 
+
+- videokartani o'rnatish
 
 322. Bir qancha instruksiyalarni bir paytda amalga oshishini ta’minlab beruvchi funksiya javobi to‘g‘ri ko‘rsatilgan qatorni toping. 
 
 323. CPUning umumiy ish jarayonini tezligini oshirish uchun xizmat qiladigan funsional tizim qanday nomlanadi? 
 
-324. Konveyerlash(Konveyerlash) nechta qism funksiyalarga bo‘linadi? 325. Quyidagi berilgan terminlardan qaysi biri instruksiyani olish uchun ishlatiladi? 
+324. Konveyerlash(Konveyerlash) nechta qism funksiyalarga bo‘linadi? 
+-   2 ta 
+
+325. Quyidagi berilgan terminlardan qaysi biri instruksiyani olish uchun ishlatiladi? 
 
 326. Quyida berilgan terminlardan qaysi biri instruksiyani dekodlash uchun ishlatiladi? 
 
@@ -969,6 +989,7 @@ Ma’lumotlarni chop qilish (Output).
 360. Magnit disklarning har bir sektori necha baytdan iborat bo‘ladi? 
 
 361. Diskdagi ma’lumotlarni saqlash maydoni nima deb nomlanadi? 
+- controller
 
 362. Disk drayverini boshqaradigan chip va unga tegishli sxema qaysi? 
 
