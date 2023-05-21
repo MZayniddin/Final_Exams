@@ -984,7 +984,8 @@ Ma’lumotlarni chop qilish (Output).
 
 369. Ma’lumot uzatish aloqa qurilmalari: modemlar, hublar va switchlar qanday nomlanadi? 
 
-370. Qurilmalarni bir biriga bog‘lovchi kabellar qanday nomlanadi? 
+370. Qurilmalarni bir biriga bog‘lovchi kabellar qanday nomlanadi?
+-   nodelar
 
 371. Quyida berilganlardan qaysi biri LAN uchun to‘g‘ri ta’rif? 
 
