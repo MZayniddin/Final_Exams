@@ -1,4 +1,4 @@
-“Computer Architecture” “Information Systems Engineering” “ISE-51U/ISE-52U/ISE-53U” 
+# Computer Architecture - Information Systems Engineering ISE-51U/ISE-52U/ISE-53U 
 
 ```diff
 
@@ -6,12 +6,12 @@
 +   2 turga
 
 2. Smartphonelar, tablet kompyuterlar, va laptoplar kompyuterlarning qaysi turiga kiradi? 
-+   shaxsiy kompyuterlardir, mobil kompyuterlar,
++   shaxsiy kompyuterlardir, mobil kompyuterlar
 
 3. Ma’lum bir vazifa yoki vazifalar jamlanmasini amalga oshirish uchun mo‘ljallangan va o‘zida qisman kompyuter funksiyalarini jamlagan kompyuter turi qanday nomlanadi?
 +   maxsus kompyuter.
 
- 4.	O‘rnatilgan(embedded) kompyuterlar qaysi sohada eng ko‘p qo‘llanadi va qaysi sohaning asosi hisoblanadi?
+4. O‘rnatilgan(embedded) kompyuterlar qaysi sohada eng ko‘p qo‘llanadi va qaysi sohaning asosi hisoblanadi?
 
 + O'rnatilgan kompyuterlar turli sohalarda qo'llaniladi, lekin eng keng tarqalganlari avtomobil sanoati, tibbiy texnologiya, sanoat boshqaruvi va boshqaruvi, maishiy elektronika, telekommunikatsiya va aviatsiya sanoatidir. O'rnatilgan kompyuterlarning asosiy qo'llanilishi jarayonlarni avtomatlashtirish va real vaqt rejimida tizimlarni boshqarishdir.
 
@@ -24,7 +24,7 @@
 Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi? 
 +   Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar "superkompyuterlar" yoki "klastersiz kompyuterlar" deb nomlanadi
 
-7.	Kompyuterni tashkil etadigan asosiy ta’minot turlari to‘g‘ri ko‘rsatilgan javobni belgilang.
+7. Kompyuterni tashkil etadigan asosiy ta’minot turlari to‘g‘ri ko‘rsatilgan javobni belgilang.
 +  Asosiy ta'minot turlari quyidagilardir:
 + 1. Protsessor (CPU)
 + 2. Operativ xotira (RAM)
@@ -34,14 +34,14 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 + 6. Tizim bloki (Power supply unit)
 + 7. Kutilmagan qurilmalar (Peripherals)
 
- 9. Monitor, klaviatura, sichqoncha, tizimli blok va boshqa kompyuter jihozlari kompyuterning qaysi ta’minotini tashkil etadi? 
+9. Monitor, klaviatura, sichqoncha, tizimli blok va boshqa kompyuter jihozlari kompyuterning qaysi ta’minotini tashkil etadi? 
 +   kompyuterning ta'minotini tashkil etadi.
 
 10. Kompyuterlarning ishlab turishi uchun yoziladigan dasturlarning yig‘indisidan iborat dasturlar jamlanmasi nima deb nomalanadi? 
 +   Operatsion tizim (Operating system)
 
 11. Foydalanuvchi va kompyuter uskuna ta’minoti o‘rtasida do‘stona muloqotni ta’minlovchi vosita nima deb nomlanadi?
-+   Operatsion tizim (Operating system).
++   operatsion tizim
 
 12. Ma’lum bir vazifani amalga oshirish uchun lozim bo‘lgan buyruqlar ketma-ketligi qanday nomlanadi? 
 +   Bu buyruqlar ketma-ketligi "kompyuter dasturi" (computer program) yoki "kompyuter operatsion tizimi" (computer operating system) deyiladi
@@ -74,9 +74,11 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 +   Kompyuterning  komponenti protsessor (CPU) hisoblanadi.
 
 22. Kompyuterdagi video, grafika, foto va o‘yinlarni monitorga chiqarish vazifasini bajaradigan, shu o‘yinlarni osonroq boshqarishga yordam beradigan uskuna nomi nima deb ataladi? 
+
 +   Bu uskuna "video karta" yoki "grafika karta" deb ataladi.
 23. Hisoblash texnikasining rivojlanish tarixi nechta davrni o‘z ichiga oladi? 
 +   4ta davr
+
 24. Quyidagi hisoblash usullaridan qaysi biri mexanik hisoblash mashinalarigacha bo‘lgan davrda ishlatilgan?
 +   Chipta va mikroprotsessorlar yordamida ishlashga qodir elektron hisoblash mashinalari
 
@@ -191,40 +193,39 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 + 1100.0100
 
 61. 9.12510 sonini ikkilik sanoq tizimida ifodalang.
-+ 1001.001
++   1001.001
 
 62. 18.62510 sonini ikkilik sanoq tizimida ifodalang. 
-+ 10010.101
++   10010.101
 
 63. 19.37510 sonini ikkilik sanoq tizimida ifodalang.
-+ 10011.011
++   10011.011
 
 64. 7.7510 ni ikkilik sanoq tizimida ifodalang.
-+ 111.110011
++   111.110011
 
 65. A8C16 ni o‘nlik sanoq tizimida ifodalang. 
-+ A8C16 soni o‘nlik sanoq tizimida 2684 ga teng bo'ladi.
++   A8C16 soni o‘nlik sanoq tizimida 2684 ga teng bo'ladi.
 
 66. 41E16 ni o‘nlik sanoq tizimida tasvirlang.
-+ 41E16 soni o‘nlik sanoq tizimida 1054 ga teng bo'ladi.
++   41E16 soni o‘nlik sanoq tizimida 1054 ga teng bo'ladi.
 
 67. BA16 sonni ikkilik sanoq tizimidagi sonda tasvirlang.
-+ BA16 soni ikkilik sanoq tizimida 10111010 ga teng bo'ladi.
++   BA16 soni ikkilik sanoq tizimida 10111010 ga teng bo'ladi.
 
 68. 4E16 sonni ikkilik sanoq tizimidagi sonda ifodalang. 
-+ 4E16 soni ikkilik sanoq tizimida 100111000₂ ga teng bo'ladi.
++   4E16 soni ikkilik sanoq tizimida 100111000₂ ga teng bo'ladi.
 
 69. 218910 sanoq tizimidagi sonni 8 lik sanoq tizimida ifodalang. 
-+ 218910 soni 8 lik sanoq tizimida A8C0C sifatida ifodalang.
++   218910 soni 8 lik sanoq tizimida A8C0C sifatida ifodalang.
 
-70. 1112 + 1012 yig‘indini hisoblang. 
-+A8C0C soni 8 lik sanoq tizimida 8*16^5 + 12*16^4 + 12*16^3 + 0*16^2 + 12*16^1 + 12*16^0 = 696332 sifatida ifodalangan.
-+1112 + 1012 = 12 + 10 = 22
+70. 111₂ + 101₂ yig‘indini hisoblang. 
++   1100
 
 71. 3110 o‘nlik sanoq sistemasida berilgan sonni ikkilik sanoq sistemasida ifodalang.
 + Bu sonni ikkilik sanoq sistemasiga o‘tkazish uchun, uning har bir raqamini to‘rtliklarga ajratish va har bir to‘rtlikni ikki xonali son sifatida ifodalash kerak. Bunda, 3 raqami uchun 0011, 1 raqami uchun 0001 va 0 raqami uchun 0000 yoziladi. Shunday qilib, 3110 soni ikkilik sanoq sistemasida 1100011112 sifatida ifodalangan.
 
- 72. Quyidagilardan qaysi biri markaziy protsessorning asosiy komponenti emas?
+72. Quyidagilardan qaysi biri markaziy protsessorning asosiy komponenti emas?
 a) RAM
 b) Hard disk
 c) CPU
@@ -361,7 +362,7 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 +Xotira ierarxiyasida ma'lumotni o'qish/yozish so'rovi va uning amalga oshishi o'rtasidagi vaqt oraligi "kirish vaqti" yoki "latensiya" deb nomlanadi
 
 108. Xotira ierarxiyasida joylashgan xotira turlarida kirish vaqti qay tarzda oshib boradi? 
-+ Xotira ierarxiyasida joylashgan xotira turlarida kirish vaqti, xotira turiga va xotiradagi ma'lumotni topish uchun kerak bo'lgan qurilmalar va ularga qo'shilgan interfeyslariga qarab o'zgaradi.
+-   pastdan yuqoriga
 
 109. Quyidagilardan qaysi biri xotira ierarxiyasida ishlash samaradorligini oshishiga yordam berdi?
 + SSD (Solid State Drive) xotirasi, xotira ierarxiyasida ishlash samaradorligini oshirishga yordam beradi.
@@ -415,7 +416,7 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 + BIOSda
 
 126. Kompyuterning turli komponentlari o‘rtasida bog‘lanishni ta’minlab berish vazifasini bajaradigan qismi nima deb nomlanadi? 
-+Motherboard (Boshqa nomi: System board, mainboard, baseboard) - bu kompyuterning turli komponentlari o‘rtasida bog‘lanishni ta’minlab berish vazifasini bajaradigan qismi
+- tarmoq
 
 127. Bir vaqtda bitta liniyadan ma’lumot uzatish jarayoni qanday nomlanadi? 
 + Bu jarayon "liniya uzatish" yoki "liniya sifatida ma'lumot qo'shish" deb nomlanadi.
@@ -628,7 +629,7 @@ Interfeys (Interface) har xil turdagi tashqi qurilmalar va ulardan kelayotgan ma
 2 gigabayt (GB) 2048 megabayt (MB) ga teng.
 
 192. 2 terabayt(TB) necha gigabaytga(GB)ga teng? 
-2 terabayt (TB) 2048 gigabayt (GB) ga teng.
++   2048 gigabayt(GB)
 
 193. Kiritish/chiqarish modulidagi har xil tashqi qurilmalar ma’lumot tashishi haqida berilgan fikrlardan qaysi biri to‘g‘ri? 
 Har xil tashqi qurilmalar ma’lumot tashishi haqida berilgan fikrlardan to‘g‘ri bo‘lmagan hech qaysi.
@@ -828,6 +829,7 @@ Ma’lumotlarni chop qilish (Output).
 284. CPUda ichki xotira sifatida foydalaniladigan qismlar qanday nomlanadi? 
 
 285. Ma’lumot va ko‘rsatmalarni protsessorga, protsessordan tashqi qurilmalarga tashishni boshqaruvchi CPU qismi qanday nomlanadi? 
+-   registrlar
 
 286. Quyidagilardan qaysi biri protsessor, xotira va K/Ch modullari o‘rtasida ma’lumot va ko‘rsatma tashuvchi qism sifatida foydalaniladi? 
 
