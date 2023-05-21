@@ -41,7 +41,7 @@ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi
 +   Operatsion tizim (Operating system)
 
 11. Foydalanuvchi va kompyuter uskuna ta’minoti o‘rtasida do‘stona muloqotni ta’minlovchi vosita nima deb nomlanadi?
-+   Operatsion tizim (Operating system).
++   operatsion tizim
 
 12. Ma’lum bir vazifani amalga oshirish uchun lozim bo‘lgan buyruqlar ketma-ketligi qanday nomlanadi? 
 +   Bu buyruqlar ketma-ketligi "kompyuter dasturi" (computer program) yoki "kompyuter operatsion tizimi" (computer operating system) deyiladi
@@ -419,7 +419,7 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 + BIOSda
 
 126. Kompyuterning turli komponentlari o‘rtasida bog‘lanishni ta’minlab berish vazifasini bajaradigan qismi nima deb nomlanadi? 
-+Motherboard (Boshqa nomi: System board, mainboard, baseboard) - bu kompyuterning turli komponentlari o‘rtasida bog‘lanishni ta’minlab berish vazifasini bajaradigan qismi
+- tarmoq
 
 127. Bir vaqtda bitta liniyadan ma’lumot uzatish jarayoni qanday nomlanadi? 
 + Bu jarayon "liniya uzatish" yoki "liniya sifatida ma'lumot qo'shish" deb nomlanadi.
