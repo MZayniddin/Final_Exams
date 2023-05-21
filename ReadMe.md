@@ -27,7 +27,7 @@ Asosiy ta'minot turlari quyidagilardir:
 4. Tizim plati (Motherboard)
 5. Grafik karta (Video card)
 6. Tizim bloki (Power supply unit)
-7. Kutilmagan qurilmalar (Peripherals)
+- 7. Kutilmagan qurilmalar (Peripherals)
 + 9. Monitor, klaviatura, sichqoncha, tizimli blok va boshqa kompyuter jihozlari kompyuterning qaysi ta’minotini tashkil etadi? 
 kompyuterning ta'minotini tashkil etadi.
 10. Kompyuterlarning ishlab turishi uchun yoziladigan dasturlarning yig‘indisidan iborat dasturlar jamlanmasi nima deb nomalanadi? 
