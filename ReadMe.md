@@ -62,177 +62,245 @@
 18. Quyidagilardan qaysi biri kompyuterdan ma’lumot chiqaruvchi qurilmaga misol bo‘la oladi? 
 + Klaviatura.
 19. Kiritish chiqarish portlarining asosiy vazifasi nima? 
-Malumotlarni uzatish
-20. Kompyuterning markaziy protsessori quyidagi berilgan funksiyalardan qaysi birini o‘z ichiga olmaydi? 
-Disk yoki kuzatuvchi bilan ishlash.
-21. Kompyuterning qaysi komponenti arifmetik, mantiqiy amallarini bajarish bilan birga, kompyuterda bo‘layotgan barcha jarayonlarni nazorat qiladi? 
-Kompyuterning  komponenti protsessor (CPU) hisoblanadi.
-22. Kompyuterdagi video, grafika, foto va o‘yinlarni monitorga chiqarish vazifasini bajaradigan, shu o‘yinlarni osonroq boshqarishga yordam beradigan uskuna nomi nima deb ataladi? 
-Bu uskuna "video karta" yoki "grafika karta" deb ataladi.
-23. Hisoblash texnikasining rivojlanish tarixi nechta davrni o‘z ichiga oladi? 
-4ta davr
-24. Quyidagi hisoblash usullaridan qaysi biri mexanik hisoblash mashinalarigacha bo‘lgan davrda ishlatilgan?
-Chipta va mikroprotsessorlar yordamida ishlashga qodir elektron hisoblash mashinalari
- 25. Neper tayoqchalari yordamida qo‘shish, ayirish, va ko‘paytirish amallari bajarilgan hisoblash usuli hisoblash texnikasi davrlaridan qaysi birida foydalanilgan? 
-Mexanik mashinalargacha bo’lgan davr.
-26. Quyidagi olimlardan qaysi biri hisoblash texnikasida mexanik moslamalar davrini boshlab bergan olimdir? 
-Charles Babbage.
-27. 1645-yilda mexanik hisoblash mashinalaridan birinchi namunalaridan bo‘lgan arifmometr hisoblash texnikasi kim tomonidan yaratilgan edi? 
-Arifmometr hisoblash texnikasi 1645-yilda Blaise Pascal tomonidan yaratilgan edi
-28. 1967-yilda Madrid milliy kutubxonasidan topilgan ammo nashr etilmagan mexanik hisoblash mashinalar haqidagi asar kimning qalamiga mansub edi?
-Bu asar Leonardo da Vinci qalamiga mansub edi.
- 29. Mexanik hisoblash mashinalari davrida yaratilgan bo‘yi 30-40 sm, balandligi 10 sm bo‘lgan jez qutichadan iborat hisoblash mashinasi kim tomonidan yasalgan edi? 
-Bu hisoblash mashinasi Leonardo da Vinci tomonidan yaratilgan edi.
-30. Quyidagilardan qaysi biri mexanik mashinalardan elektromexanik mashinalariga o‘tish uchun asos bo‘lib xizmat qildi? 
-Elektromexanik mashinalariga o‘tish uchun asos bo‘lib xizmat qilgan quyidagi hisoblash mashinalari: Pascaline, Leibniz's Stepped Reckoner, Charles Babbage's Difference Engine va Analytical Engine.
-31. 1942-1945 yillarda birinchi bo‘lib AQSHdagi Pensilvaniya universitetida yaratilgan hisoblash mashinalari ulardan oldin yaratilgan hisoblash mashinalaridan qaysi xususiyati bilan farq qilardi?
-Bu hisoblash mashinalari elektronik bo‘lmagan, balki mexanik bo‘lgan mashinalar edi. Ularning ishlash prinsiplari va qurilishi bir-biridan farqli edi. Bu mashinalar elektronik hisoblash mashinalari bilan o‘zaro qarshi kurashmaydi.
-32. 1942-1945 yillarda birinchi bo‘lib AQSHdagi Pensilvaniya universitetida yaratilgan hisoblash mashinalari hisoblash texnikasining qaysi davrida yaratilgan?
-Bu dönemde yaratılan hesaplama makineleri, elektronik bilgisayarların ortaya çıkmasından önce mekanik hesaplama makineleriydi. Bu makineler arasında IBM'in Mark I ve Harvard Mark II makineleri bulunmaktadır.
-33. Elektron hisoblash mashinalar davrida yaratilgan “ENIAK” elektron hisoblash mashinasining og‘irligi qancha edi?
-ENIAC, 30 ton ağırlığındaydı.
- 34. “ENIAK” elektron hisoblash mashinasi ishlab turishida nechta lampadan foydalanilgan edi?
-18.000
- 35. 1946-yilda elektron hisoblash mashinalarini qurishni matematik jihatdan asoslab bergan olim kim edi? 
++ Malumotlarni uzatish
 
-Jon Mauchly va J. Presper Eckert ENIACni yaratishda muhim rol o'ynagan va elektron hisoblash mashinalarini yaratishda kashshof bo'lgan.
+20. Kompyuterning markaziy protsessori quyidagi berilgan funksiyalardan qaysi birini o‘z ichiga olmaydi? 
++ Disk yoki kuzatuvchi bilan ishlash.
+
+21. Kompyuterning qaysi komponenti arifmetik, mantiqiy amallarini bajarish bilan birga, kompyuterda bo‘layotgan barcha jarayonlarni nazorat qiladi? 
++    Kompyuterning  komponenti protsessor (CPU) hisoblanadi.
+
+22. Kompyuterdagi video, grafika, foto va o‘yinlarni monitorga chiqarish vazifasini bajaradigan, shu o‘yinlarni osonroq boshqarishga yordam beradigan uskuna nomi nima deb ataladi? 
++  Bu uskuna "video karta" yoki "grafika karta" deb ataladi.
+23. Hisoblash texnikasining rivojlanish tarixi nechta davrni o‘z ichiga oladi? 
++ 4ta davr
+24. Quyidagi hisoblash usullaridan qaysi biri mexanik hisoblash mashinalarigacha bo‘lgan davrda ishlatilgan?
++ Chipta va mikroprotsessorlar yordamida ishlashga qodir elektron hisoblash mashinalari
+
+ 25. Neper tayoqchalari yordamida qo‘shish, ayirish, va ko‘paytirish amallari bajarilgan hisoblash usuli hisoblash texnikasi davrlaridan qaysi birida foydalanilgan? 
++ Mexanik mashinalargacha bo’lgan davr.
+
+26. Quyidagi olimlardan qaysi biri hisoblash texnikasida mexanik moslamalar davrini boshlab bergan olimdir? 
++ Charles Babbage.
+
+27. 1645-yilda mexanik hisoblash mashinalaridan birinchi namunalaridan bo‘lgan arifmometr hisoblash texnikasi kim tomonidan yaratilgan edi? 
++ Arifmometr hisoblash texnikasi 1645-yilda Blaise Pascal tomonidan yaratilgan edi
+
+28. 1967-yilda Madrid milliy kutubxonasidan topilgan ammo nashr etilmagan mexanik hisoblash mashinalar haqidagi asar kimning qalamiga mansub edi?
++ Bu asar Leonardo da Vinci qalamiga mansub edi.
+
+ 29. Mexanik hisoblash mashinalari davrida yaratilgan bo‘yi 30-40 sm, balandligi 10 sm bo‘lgan jez qutichadan iborat hisoblash mashinasi kim tomonidan yasalgan edi? 
++ Bu hisoblash mashinasi Leonardo da Vinci tomonidan yaratilgan edi.
+
+30. Quyidagilardan qaysi biri mexanik mashinalardan elektromexanik mashinalariga o‘tish uchun asos bo‘lib xizmat qildi? 
++ Elektromexanik mashinalariga o‘tish uchun asos bo‘lib xizmat qilgan quyidagi hisoblash mashinalari: Pascaline, Leibniz's Stepped Reckoner, Charles Babbage's Difference Engine va Analytical Engine.
+
+31. 1942-1945 yillarda birinchi bo‘lib AQSHdagi Pensilvaniya universitetida yaratilgan hisoblash mashinalari ulardan oldin yaratilgan hisoblash mashinalaridan qaysi xususiyati bilan farq qilardi?
++ Bu hisoblash mashinalari elektronik bo‘lmagan, balki mexanik bo‘lgan mashinalar edi. Ularning ishlash prinsiplari va qurilishi bir-biridan farqli edi. Bu mashinalar elektronik hisoblash mashinalari bilan o‘zaro qarshi kurashmaydi.
+
+32. 1942-1945 yillarda birinchi bo‘lib AQSHdagi Pensilvaniya universitetida yaratilgan hisoblash mashinalari hisoblash texnikasining qaysi davrida yaratilgan?
++ Bu dönemde yaratılan hesaplama makineleri, elektronik bilgisayarların ortaya çıkmasından önce mekanik hesaplama makineleriydi. Bu makineler arasında IBM'in Mark I ve Harvard Mark II makineleri bulunmaktadır.
+
+33. Elektron hisoblash mashinalar davrida yaratilgan “ENIAK” elektron hisoblash mashinasining og‘irligi qancha edi?
++ ENIAC, 30 ton ağırlığındaydı.
+34. “ENIAK” elektron hisoblash mashinasi ishlab turishida nechta lampadan foydalanilgan edi?
++ 18.000
+
+35. 1946-yilda elektron hisoblash mashinalarini qurishni matematik jihatdan asoslab bergan olim kim edi? 
+
++Jon Mauchly va J. Presper Eckert ENIACni yaratishda muhim rol o'ynagan va elektron hisoblash mashinalarini yaratishda kashshof bo'lgan.
+
 36. Ikkinchi jahon urishida artilleriya raketalarini uchish trayektoriyasini hisoblash uchun ilmiy laboratoriya sifatida foydalanilgan kompyuter nomi nima deb nomlanadi? 
+
 37. 1952-yilda New Jersiyda yaratilgan birinchi elektronik kompyuterning nomi nima edi? 
 
-1952 yilda Nyu-Jersida yaratilgan birinchi elektron kompyuter "UNIVAC I" deb nomlangan.
++1952 yilda Nyu-Jersida yaratilgan birinchi elektron kompyuter "UNIVAC I" deb nomlangan.
+
 38. Birinchi elektronik kompyuterning asoschisi kim edi? 
-UNIVAC I ning yaratuvchisi va birinchi elektron kompyuterning kashshofi Jon Presper Ekkert va Jon Uilyam Mauchlidir.
++ UNIVAC I ning yaratuvchisi va birinchi elektron kompyuterning kashshofi Jon Presper Ekkert va Jon Uilyam Mauchlidir.
+
 39. Minsk-2, Minsk-22, Razdan-3, M-220 markali elektron hisoblash mashinalari elektron hisoblash mashinalarining nechinchi avlodi hisoblanadi? 
-2-avlod elektron hisoblash mashinalaridir
++ 2-avlod elektron hisoblash mashinalaridir
+
 40. Elektron hisoblash mashinalari qaysi avlodining o‘rtacha tezligi sekundiga 100 ming amal va xotirasi 10 ming ta so‘z saqlash imkoni mavjud edi?
-EHMning ikkinchi avlodiga quyidagi mashinalar kiradi: Minsk-2, Minsk-22, Razdan-3, M-220, BESm-6,'MIR, Nairi, Minsk-32, Ural-14 va boshqalar. Bu mashinalarda qo'yilgan masalani tez yechish imkoniyatini yaratadigan dasturdan, masalani yechishda EHM bajarishi lozim bo'lgan amallar ketma-ketligidan foydalanish mumkin. 41. Elektron hisoblash mashinalarining uchunchi avlodida xotira sig‘imi qancha edi?
-Elektron hisoblash mashinalarining uchunchi avlodida xotira sig‘imi 8-16 kilobayt (KB) bo‘lgan disketka yoki kasseta orqali saqlanardi. Bu, bugungi kundagi qurilmalardagi xotira sig‘imidan juda katta farq qiladi.
- 42. Elektron hisoblash mashinalarining qaysi avlodi sekundiga 2 milliontagacha turli arifmetik amal bajarash imkoniyatiga ega edi? 
-Elektron hisoblash mashinalarining uchunchi avlodida, bir sekundda 2 milliontagacha turli arifmetik amal bajarish imkoniyati mavjud emas edi. Bunday imkoniyat faqat katta hisoblash mashinalarining keyingi avlodlarida paydo bo‘lgan.
++ EHMning ikkinchi avlodiga quyidagi mashinalar kiradi: Minsk-2, Minsk-22, Razdan-3, M-220, BESm-6,'MIR, Nairi, Minsk-32, Ural-14 va boshqalar. Bu mashinalarda qo'yilgan masalani tez yechish imkoniyatini yaratadigan dasturdan, masalani yechishda EHM bajarishi lozim bo'lgan amallar ketma-ketligidan foydalanish mumkin. 41. Elektron hisoblash mashinalarining uchunchi avlodida xotira sig‘imi qancha edi?
+41 Elektron hisoblash mashinalarining uchunchi avlodida xotira sig‘imi 8-16 kilobayt (KB) bo‘lgan disketka yoki kasseta orqali saqlanardi. Bu, bugungi kundagi qurilmalardagi xotira sig‘imidan juda katta farq qiladi.
+42. Elektron hisoblash mashinalarining qaysi avlodi sekundiga 2 milliontagacha turli arifmetik amal bajarash imkoniyatiga ega edi? 
++ Elektron hisoblash mashinalarining uchunchi avlodida, bir sekundda 2 milliontagacha turli arifmetik amal bajarish imkoniyati mavjud emas edi. Bunday imkoniyat faqat katta hisoblash mashinalarining keyingi avlodlarida paydo bo‘lgan.
+
 43. Kompyuterga buyruq berish orqali ma’lum bir dasturni tuzish uchun yaratilgan kompyuter tili nima deb nomlanadi?
-Bu tilda yaratilgan dasturlar "programming language" deb nomlanadi.
- 44. Ma’lum bir dasturni kompyuterda ishga tushurish uchun yozilgan va o‘zini-o‘zi nazorat qilish imkoniga ega bo‘lgan dastur tili qanday nomlanadi? 
-Bu til "dastur tili" yoki "programming language" deb nomlanadi.
++  Bu tilda yaratilgan dasturlar "programming language" deb nomlanadi.
+
+44. Ma’lum bir dasturni kompyuterda ishga tushurish uchun yozilgan va o‘zini-o‘zi nazorat qilish imkoniga ega bo‘lgan dastur tili qanday nomlanadi? 
++ Bu til "dastur tili" yoki "programming language" deb nomlanadi.
+
 45. Biror-bir tizimning prototipini tasvirlash uchun ishlatiladigan kompyuter tili qanday nomlanadi? 
-Bu til "dastur tili" yoki "programming language" deb nomlanadi.
++ Bu til "dastur tili" yoki "programming language" deb nomlanadi.
+
 46. Quyidagi kompyuter buyruqlaridan qaysi biri ma’lumotlarni ko‘chirib yozish buyrug‘ini ifodalamaydi? 
-print("Hello, world!") 
++  print("Hello, world!") 
+
 47. Quyidagi kompyuter buyruqlaridan qaysi biri ikkita operandalar ustida amallar bajarish uchun ishlatilmaydi? 
-goto
++ goto
+
 48. Quyidagi buyruqlardan qaysi biri bitta operanda ustida amallar bajarish buyrug‘i hisoblanadi?	
-goto buyrug'i bir operanda ustida amallar bajarish buyrug'i hisoblanadi.
- 49. Quyidagilardan qaysi biri kompyuterning taqqoslash va shartli o‘tish buyrug‘i hisoblanadi? 
-if (shart) {
-   // amallar
-}
++ goto buyrug'i bir operanda ustida amallar bajarish buyrug'i hisoblanadi.
+
+49. Quyidagilardan qaysi biri kompyuterning taqqoslash va shartli o‘tish buyrug‘i hisoblanadi? 
++ if (shart) {
++// amallar
++ }
+
 50. Tally sanoq tizimida 8 ta tranzistorlar maksimum nechta belgini ifodalaydi?
-Tally sanoq tizimida 8 ta tranzistorlar maksimum 256 belgini ifodalayadi.
- 51. Binary sanoq tizimida 8 ta yoniq tranzistorlar nechta belgini ifodalaydi? 
-Binary sanoq tizimida 8 ta yoniq tranzistorlar 3 belgini ifodalayadi.
++  Tally sanoq tizimida 8 ta tranzistorlar maksimum 256 belgini ifodalayadi.
+
+51. Binary sanoq tizimida 8 ta yoniq tranzistorlar nechta belgini ifodalaydi? 
++ Binary sanoq tizimida 8 ta yoniq tranzistorlar 3 belgini ifodalayadi.
+
 52. 1 Bayt necha bitdan iborat? 
-1 bayt 8 bitdan iborat.
++ 1 bayt 8 bitdan iborat.
+
 53. Raqamli sxemaning ikkita mantiqiy qiymatdan birini qabul qilishi mumkin ekanligi haqidagi isbotlar kimning nomi bilan bog‘liq ? 
-Bu isbotlar George Boole tomonidan ishlab chiqilgan boolean algebra asosida amalga oshirilgan.
++ Bu isbotlar George Boole tomonidan ishlab chiqilgan boolean algebra asosida amalga oshirilgan.
+
 54. 6510 sonini ikkilik sanoq tizimida ifodalang. 
-1 1000 1110 0010
++ 1 1000 1110 0010
+
 55. 12710 sonini ikkilik sanoq tizimida ifodalang. 
-12710 soni 0111 1111 ikkilik sanoq tizimida ifodalangan.
++ 12710 soni 0111 1111 ikkilik sanoq tizimida ifodalangan.
+
 56. 2510 sonni ikkilik sanoq tizimida ifodalang. 
-2510 soni ikkilik sanoq tizimida 11001
++ 2510 soni ikkilik sanoq tizimida 11001
+
 57. 1010112 ni o‘nlik sanoq tizimidagi sonda ifodalang.
-1010112 = 4310
- 58. 1101112 ni o‘nlik sanoq tizimidagi sonda ifodalang. 
-1101112 soni o‘nlik sanoq tizimida 5510 ga teng.
++ 1010112 = 4310
+
+58. 1101112 ni o‘nlik sanoq tizimidagi sonda ifodalang. 
++ 1101112 soni o‘nlik sanoq tizimida 5510 ga teng.
+
 59. 2910 sonini ikkilik sanoq tizimida ifodalang. 
-101101001110
++ 101101001110
+
 60. 12.2510 sonini ikkilik sanoq tizimida ifodalang.
-1100.0100
- 61. 9.12510 sonini ikkilik sanoq tizimida ifodalang.
-1001.001
- 62. 18.62510 sonini ikkilik sanoq tizimida ifodalang. 
-10010.101
++ 1100.0100
+
+61. 9.12510 sonini ikkilik sanoq tizimida ifodalang.
++ 1001.001
+
+62. 18.62510 sonini ikkilik sanoq tizimida ifodalang. 
++ 10010.101
+
 63. 19.37510 sonini ikkilik sanoq tizimida ifodalang.
-10011.011
- 64. 7.7510 ni ikkilik sanoq tizimida ifodalang.
-111.110011
- 65. A8C16 ni o‘nlik sanoq tizimida ifodalang. 
-A8C16 soni o‘nlik sanoq tizimida 2684 ga teng bo'ladi.
++ 10011.011
+
+64. 7.7510 ni ikkilik sanoq tizimida ifodalang.
++ 111.110011
+
+65. A8C16 ni o‘nlik sanoq tizimida ifodalang. 
++ A8C16 soni o‘nlik sanoq tizimida 2684 ga teng bo'ladi.
+
 66. 41E16 ni o‘nlik sanoq tizimida tasvirlang.
-41E16 soni o‘nlik sanoq tizimida 1054 ga teng bo'ladi.
- 67. BA16 sonni ikkilik sanoq tizimidagi sonda tasvirlang.
-BA16 soni ikkilik sanoq tizimida 10111010 ga teng bo'ladi.
- 68. 4E16 sonni ikkilik sanoq tizimidagi sonda ifodalang. 
-4E16 soni ikkilik sanoq tizimida 100111000₂ ga teng bo'ladi.
++ 41E16 soni o‘nlik sanoq tizimida 1054 ga teng bo'ladi.
+
+67. BA16 sonni ikkilik sanoq tizimidagi sonda tasvirlang.
++ BA16 soni ikkilik sanoq tizimida 10111010 ga teng bo'ladi.
+
+68. 4E16 sonni ikkilik sanoq tizimidagi sonda ifodalang. 
++ 4E16 soni ikkilik sanoq tizimida 100111000₂ ga teng bo'ladi.
+
 69. 218910 sanoq tizimidagi sonni 8 lik sanoq tizimida ifodalang. 
-218910 soni 8 lik sanoq tizimida A8C0C sifatida ifodalang.
++ 218910 soni 8 lik sanoq tizimida A8C0C sifatida ifodalang.
+
 70. 1112 + 1012 yig‘indini hisoblang. 
-A8C0C soni 8 lik sanoq tizimida 8*16^5 + 12*16^4 + 12*16^3 + 0*16^2 + 12*16^1 + 12*16^0 = 696332 sifatida ifodalangan.
-1112 + 1012 = 12 + 10 = 22
++A8C0C soni 8 lik sanoq tizimida 8*16^5 + 12*16^4 + 12*16^3 + 0*16^2 + 12*16^1 + 12*16^0 = 696332 sifatida ifodalangan.
++1112 + 1012 = 12 + 10 = 22
+
 71. 3110 o‘nlik sanoq sistemasida berilgan sonni ikkilik sanoq sistemasida ifodalang.
-Bu sonni ikkilik sanoq sistemasiga o‘tkazish uchun, uning har bir raqamini to‘rtliklarga ajratish va har bir to‘rtlikni ikki xonali son sifatida ifodalash kerak. Bunda, 3 raqami uchun 0011, 1 raqami uchun 0001 va 0 raqami uchun 0000 yoziladi. Shunday qilib, 3110 soni ikkilik sanoq sistemasida 1100011112 sifatida ifodalangan.
++ Bu sonni ikkilik sanoq sistemasiga o‘tkazish uchun, uning har bir raqamini to‘rtliklarga ajratish va har bir to‘rtlikni ikki xonali son sifatida ifodalash kerak. Bunda, 3 raqami uchun 0011, 1 raqami uchun 0001 va 0 raqami uchun 0000 yoziladi. Shunday qilib, 3110 soni ikkilik sanoq sistemasida 1100011112 sifatida ifodalangan.
+
  72. Quyidagilardan qaysi biri markaziy protsessorning asosiy komponenti emas?
 a) RAM
 b) Hard disk
 c) CPU
 d) Power supply
 
-Javob: d) Power supply
++ Javob: d) Power supply
 73. Markaziy protsessorning keyingi amalga oshiriladigan buyruq uchun xotiradan joy ajratadigan qismi qanday ataladi? 
 a) RAM (Random Access Memory)
+
 74. Markaziy protsessorning hozirda bajarilayotgan yoki dekodlangan ko‘rsatmani o‘zida saqlaydigan qismi qanday ataladi? 
-RAM (Random Access Memory) ataladi.
++ RAM (Random Access Memory) ataladi.
+
 75. Markaziy protsessorning o‘qish va yozish uchun xotira manzilini belgilaydigan qismi qanday nomlanadi? 
-Markaziy protsessorning o‘qish va yozish uchun xotira manzilini belgilaydigan qismi RAM (Random Access Memory) deb nomlanadi.
++ Markaziy protsessorning o‘qish va yozish uchun xotira manzilini belgilaydigan qismi RAM (Random Access Memory) deb nomlanadi.
+
 76. Markaziy protsessorning xotiraga yoziladigan va xotiradan o‘qiladigan ma’lumotlarni o‘zida saqlab turadigan qismi qanday nomlanadi? 
-Bu qismi Hard Disk (Disk haqida ma'lumot) deb nomlaydilar.
++ Bu qismi Hard Disk (Disk haqida ma'lumot) deb nomlaydilar.
+
 77. Markaziy protsessorda joylashgan kiritish/chiqarish buffer registrining asosiy vazifasi to‘g‘ri berilgan qatorni toping. 
-Markaziy protsessorda joylashgan kiritish/chiqarish buffer registrining asosiy vazifasi, kiritish va chiqarish amallarini bajarish orqali, kiritilgan ma'lumotlarni saqlash va ularga kirish va chiqishni boshqarishdir. Bu registr kiritish va chiqarish amallarini bajarish uchun xotirani o‘tkazib beradi va bu jarayonni boshqarish uchun kerakli signalni yuboradi. Asosiy vazifasi, kiritilgan ma'lumotlarni saqlash va ularga kirish va chiqishni boshqarishdir.
++Markaziy protsessorda joylashgan kiritish/chiqarish buffer registrining asosiy vazifasi, kiritish va chiqarish amallarini bajarish orqali, kiritilgan ma'lumotlarni saqlash va ularga kirish va chiqishni boshqarishdir. Bu registr kiritish va chiqarish amallarini bajarish uchun xotirani o‘tkazib beradi va bu jarayonni boshqarish uchun kerakli signalni yuboradi. Asosiy vazifasi, kiritilgan ma'lumotlarni saqlash va ularga kirish va chiqishni boshqarishdir.
+
 78. Bitta dasturni amalga oshirish uchun kerak bo‘ladigan jarayon qanday nomlanadi?
-Bitta dasturni amalga oshirish uchun kerak bo‘ladigan jarayon "dastur ishga tushirish" (program execution) deb nomlanadi. Bu jarayon dasturning kodini yuklash, uni tahlil qilish, ma'lumotlarni kiritish, hisoblash va natijani chiqarishni o‘z ichiga oladi.
- 79. Ko‘rsatmalar sikli o‘z ichiga nechta asosiy qadamni oladi? 
-Ko‘rsatmalar sikli o‘z ichiga nechta asosiy qadamni oladi? Bu savolning javobi ko‘rsatmalar sikli turlari bo‘yicha o‘zgaradi. Agar bu savol "for" ko‘rsatmalar sikli uchun bo‘lsa, unda ko‘rsatmalar sikli o‘z ichiga 3 ta asosiy qadamni oladi: boshlang‘ich qiymatni aniqlash, shartni tekshirish va har bir siklda bajariladigan amallar. Agar savol "while" yoki "do-while" ko‘rsatmalar sikli uchun bo‘lsa, unda ko‘rsatmalar sikli o‘z ichiga 2 ta asosiy qadamni oladi: shartni tekshirish va har bir siklda bajariladigan amallar.
++ Bitta dasturni amalga oshirish uchun kerak bo‘ladigan jarayon "dastur ishga tushirish" (program execution) deb nomlanadi. Bu jarayon dasturning kodini yuklash, uni tahlil qilish, ma'lumotlarni kiritish, hisoblash va natijani chiqarishni o‘z ichiga oladi.
+
+79. Ko‘rsatmalar sikli o‘z ichiga nechta asosiy qadamni oladi? 
++ Ko‘rsatmalar sikli o‘z ichiga nechta asosiy qadamni oladi? Bu savolning javobi ko‘rsatmalar sikli turlari bo‘yicha o‘zgaradi. Agar bu savol "for" ko‘rsatmalar sikli uchun bo‘lsa, unda ko‘rsatmalar sikli o‘z ichiga 3 ta asosiy qadamni oladi: boshlang‘ich qiymatni aniqlash, shartni tekshirish va har bir siklda bajariladigan amallar. Agar savol "while" yoki "do-while" ko‘rsatmalar sikli uchun bo‘lsa, unda ko‘rsatmalar sikli o‘z ichiga 2 ta asosiy qadamni oladi: shartni tekshirish va har bir siklda bajariladigan amallar.
+
 80. Quyidagi berilganlardan qaysi bir ko‘rsatmalar siklining birinchi qadami hisoblanadi?
-Lekin umuman olganda, ko‘rsatmalar siklilari boshlash uchun birinchi qadam odatda boshlang‘ich qiymatni aniqlashdir. Bunda "for" ko‘rsatmalar sikli uchun boshlang‘ich qiymatni aniqlash qismi, ya'ni "for (int i = 0; i < n; i++)" qismi, "while" ko‘rsatmalar sikli uchun esa "while (shart)" qismi, "do-while" ko‘rsatmalar sikli uchun esa "do { } while (shart)" qismi hisoblanadi.
- 81. Quyidagi berilganlardan qaysi bir ko‘rsatmalar siklining ikkinchi qadami hisoblanadi? 
-o‘rsatmalar siklilari ikkinchi qadami shartni tekshirishdir. Bunda "for" ko‘rsatmalar sikli uchun shartni tekshirish qismi, ya'ni "for (int i = 0; i < n; i++)" qismidagi "i < n" sharti, "while" ko‘rsatmalar sikli uchun esa "while (shart)" qismidagi "shart" hisoblanadi. "do-while" ko‘rsatmalar sikli uchun esa shartni tekshirish qismi sikl bajarilgandan keyin bajariladi, shuning uchun "do { } while (shart)" qismidagi "shart" ikkinchi qadam hisoblanadi.
++ Lekin umuman olganda, ko‘rsatmalar siklilari boshlash uchun birinchi qadam odatda boshlang‘ich qiymatni aniqlashdir. Bunda "for" ko‘rsatmalar sikli uchun boshlang‘ich qiymatni aniqlash qismi, ya'ni "for (int i = 0; i < n; i++)" qismi, "while" ko‘rsatmalar sikli uchun esa "while (shart)" qismi, "do-while" ko‘rsatmalar sikli uchun esa "do { } while (shart)" qismi hisoblanadi.
+
+81. Quyidagi berilganlardan qaysi bir ko‘rsatmalar siklining ikkinchi qadami hisoblanadi? 
++ o‘rsatmalar siklilari ikkinchi qadami shartni tekshirishdir. Bunda "for" ko‘rsatmalar sikli uchun shartni tekshirish qismi, ya'ni "for (int i = 0; i < n; i++)" qismidagi "i < n" sharti, "while" ko‘rsatmalar sikli uchun esa "while (shart)" qismidagi "shart" hisoblanadi. "do-while" ko‘rsatmalar sikli uchun esa shartni tekshirish qismi sikl bajarilgandan keyin bajariladi, shuning uchun "do { } while (shart)" qismidagi "shart" ikkinchi qadam hisoblanadi.
+
 82. Quyidagi berilganlardan qaysi biri kompyuterning asosiy vazifasi hisoblanmaydi? 
-Quyidagi berilganlardan "Ko‘p qatlamli o‘yinlarni o‘ynash" kompyuterning asosiy vazifasi emas. Kompyuter asosiy vazifalari orasida ma'lumotlarni saqlash, ma'lumotlarni qayta ishlash, ma'lumotlarni ko‘rsatish, tarmoqda ma'lumot almashish, fayllarni boshqarish, tizimni boshqarish, tizimni himoya qilish, tizimni ta'minlash, tizimni tahlil qilish, tizimni monitoring qilish, tizimni tuzish va boshqalar kabi vazifalar kiritiladi.
++ Quyidagi berilganlardan "Ko‘p qatlamli o‘yinlarni o‘ynash" kompyuterning asosiy vazifasi emas. Kompyuter asosiy vazifalari orasida ma'lumotlarni saqlash, ma'lumotlarni qayta ishlash, ma'lumotlarni ko‘rsatish, tarmoqda ma'lumot almashish, fayllarni boshqarish, tizimni boshqarish, tizimni himoya qilish, tizimni ta'minlash, tizimni tahlil qilish, tizimni monitoring qilish, tizimni tuzish va boshqalar kabi vazifalar kiritiladi.
+
 83. Quyidagi berilganlardan qaysi biri kompyuterning asosiy vazifasi hisoblanmaydi? 
-Quyidagi berilganlardan "Internetda video ko'rish" kompyuterning asosiy vazifasi emas. Kompyuter asosiy vazifalari orasida ma'lumotlarni saqlash, ma'lumotlarni qayta ishlash, ma'lumotlarni ko‘rsatish, tarmoqda ma'lumot almashish, fayllarni boshqarish, tizimni boshqarish, tizimni himoya qilish, tizimni ta'minlash, tizimni tahlil qilish, tizimni monitoring qilish, tizimni tuzish va boshqalar kabi vazifalar kiritiladi.
++Quyidagi berilganlardan "Internetda video ko'rish" kompyuterning asosiy vazifasi emas. Kompyuter asosiy vazifalari orasida ma'lumotlarni saqlash, ma'lumotlarni qayta ishlash, ma'lumotlarni ko‘rsatish, tarmoqda ma'lumot almashish, fayllarni boshqarish, tizimni boshqarish, tizimni himoya qilish, tizimni ta'minlash, tizimni tahlil qilish, tizimni monitoring qilish, tizimni tuzish va boshqalar kabi vazifalar kiritiladi.
+
 84. Quyidagi berilgan vazifalardan qaysi bir faqat markaziy protsessor module tomonidan amalga oshiriladi? 
-Quyidagi berilgan vazifalardan "Akseleratsiya qilish" faqat markaziy protsessor module tomonidan amalga oshiriladi. Akseleratsiya, kompyuterda bajarilayotgan ishlarni tezlashtirish uchun markaziy protsessor modulining yordamiga qilinadigan harakatdir. Bunda markaziy protsessor moduli, bajarilayotgan ishni boshqarish uchun kerakli ma'lumotlarni saqlab turadi va ularni tezlashtirish uchun kerakli hisoblash operatsiyalarini bajaradi.
++ Quyidagi berilgan vazifalardan "Akseleratsiya qilish" faqat markaziy protsessor module tomonidan amalga oshiriladi. Akseleratsiya, kompyuterda bajarilayotgan ishlarni tezlashtirish uchun markaziy protsessor modulining yordamiga qilinadigan harakatdir. Bunda markaziy protsessor moduli, bajarilayotgan ishni boshqarish uchun kerakli ma'lumotlarni saqlab turadi va ularni tezlashtirish uchun kerakli hisoblash operatsiyalarini bajaradi.
+
 85. Bajarilayotgan amalni to‘xtatishni yoki xizmat ko‘rsatishni to‘xtatishni amalga oshiradigan signal qanday nomlanadi?
-Bajarilayotgan amalni to'xtatishni yoki xizmat ko'rsatishni to'xtatishni amalga oshiradigan signal "interrupt" deb nomlanadi. Interrupt, kompyuterda bajarilayotgan dasturlarning ishlash jarayonini to'xtatish uchun yuboriladigan signaldir. Bunda, kompyuter markaziy protsessor modulining bajarilayotgan ishni to'xtatib, boshqa bir ishni bajarishga o'tishini ta'minlaydi. Interruptlar, kompyuterda bajarilayotgan ishlar orasida birinchi darajada ehtiyoj qilinadigan harakatlardan biridir.
- 86. Kompyuterning “Interrupt Service Routine” funksiyasining asosiy vazifasi nima? 
-Kompyuterning "Interrupt Service Routine" (ISR) funksiyasining asosiy vazifasi, interrupt signalini qabul qilish va uni bajarish uchun kerakli ishlarini bajarishdir
++ Bajarilayotgan amalni to'xtatishni yoki xizmat ko'rsatishni to'xtatishni amalga oshiradigan signal "interrupt" deb nomlanadi. Interrupt, kompyuterda bajarilayotgan dasturlarning ishlash jarayonini to'xtatish uchun yuboriladigan signaldir. Bunda, kompyuter markaziy protsessor modulining bajarilayotgan ishni to'xtatib, boshqa bir ishni bajarishga o'tishini ta'minlaydi. Interruptlar, kompyuterda bajarilayotgan ishlar orasida birinchi darajada ehtiyoj qilinadigan harakatlardan biridir.
+86. Kompyuterning “Interrupt Service Routine” funksiyasining asosiy vazifasi nima? 
+
++ Kompyuterning "Interrupt Service Routine" (ISR) funksiyasining asosiy vazifasi, interrupt signalini qabul qilish va uni bajarish uchun kerakli ishlarini bajarishdir
+
 87. Kompyuter arxitekturasidagi uzilishlar nechta turga bo‘linadi?
-1. Von Neumann arxitekturasi
-2. Harvard arxitekturasi:
- 88. Agar protsessor monitor, klaviaturadan uzilish signalini qabul qilib olsa bu qanday uzilish turi hisoblanadi? 
-Agar protsessor monitor, klaviaturadan uzilish signalini qabul qilsa, bu uzilish turi "input/output (I/O) interrupt" deb atalad
++1. Von Neumann arxitekturasi
++2. Harvard arxitekturasi:
+
+88. Agar protsessor monitor, klaviaturadan uzilish signalini qabul qilib olsa bu qanday uzilish turi hisoblanadi? 
++ Agar protsessor monitor, klaviaturadan uzilish signalini qabul qilsa, bu uzilish turi "input/output (I/O) interrupt" deb atalad
+
 89. Kompyuter Qurilma ta’minotidagi uzilishlarning turlarini belgilang.
-1. Kiritish/chiqish (Input/Output) uzilishlari:
-2. Xotira uzilishlari:
-3. Ishlovchi uzilishlar:
-4. Grafik uzilishlari:
-5. Tarmoq uzilishlari:
-6. Kuch uzilishlari:
++ 1. Kiritish/chiqish (Input/Output) uzilishlari:
++ 2. Xotira uzilishlari:
++ 3. Ishlovchi uzilishlar:
++ 4. Grafik uzilishlari:
++ 5. Tarmoq uzilishlari:
++ 6. Kuch uzilishlari:
+
  90. Protsessor katta hajmli dastur bilan ishlayotgan bo‘lsa va uzilishni vaqtincha e’tiborga olmasa bu qanday uzilish deb nomlanadi?
-Agar protsessor katta hajmli dastur bilan ishlayotgan bo'lsa va uzilishni vaqtincha e'tiborga olmasa, bu uzilish "hang" deb nomlanadi.
- 91. Maskasiz uzilish qoidasiga ko‘ra uzilish sodir bo‘lgandan keyin xizmat ko‘rsatish qancha vaqtdan keyin to‘xtatiladi? 
-Maskasiz uzilish qoidasiga ko'ra, uzilish sodir bo'lgandan keyin xizmat ko'rsatish to'xtatilish vaqti uzilish turi va xususiyatlariga qarab o'zgaradi. Agar uzilish kichikroq va osonroq bo'lsa, xizmat ko'rsatish to'xtatilish vaqti kam bo'ladi.
++ Agar protsessor katta hajmli dastur bilan ishlayotgan bo'lsa va uzilishni vaqtincha e'tiborga olmasa, bu uzilish "hang" deb nomlanadi.
+
+91. Maskasiz uzilish qoidasiga ko‘ra uzilish sodir bo‘lgandan keyin xizmat ko‘rsatish qancha vaqtdan keyin to‘xtatiladi? 
++ Maskasiz uzilish qoidasiga ko'ra, uzilish sodir bo'lgandan keyin xizmat ko'rsatish to'xtatilish vaqti uzilish turi va xususiyatlariga qarab o'zgaradi. Agar uzilish kichikroq va osonroq bo'lsa, xizmat ko'rsatish to'xtatilish vaqti kam bo'ladi.
+
 92. Protsessorda uzilishlarni boshqarish registri (Interrupt Enable)ning o‘chik yoki yoniq ekanligi qanday ifodalanadi? 
-Protsessorda uzilishlarni boshqarish registri (Interrupt Enable)ning o'chik yoki yoniq ekanligi, uzilishlarni boshqarishning qanday amalga oshirilishi kerakligiga bog'liq. Agar Interrupt Enable registri yoniq bo'lsa, uzilishlar yo'qoladi va kompyuter normal holatda ishlaydi. Boshqa so'zlar bilan, uzilishlar ishga tushirilmaydi va kompyuter o'z ishini davom ettiradi. 
++ Protsessorda uzilishlarni boshqarish registri (Interrupt Enable)ning o'chik yoki yoniq ekanligi, uzilishlarni boshqarishning qanday amalga oshirilishi kerakligiga bog'liq. Agar Interrupt Enable registri yoniq bo'lsa, uzilishlar yo'qoladi va kompyuter normal holatda ishlaydi. Boshqa so'zlar bilan, uzilishlar ishga tushirilmaydi va kompyuter o'z ishini davom ettiradi. 
 
-Biroq, agar Interrupt Enable registri ochiq bo'lsa, uzilishlar ishga tushiriladi va kompyuter uzilishni boshqarish uchun kerakli kodni bajaradi. Uzilishlar, kompyuterda sodir bo'lgan muhim hodisalarga (masalan, klaviaturani bosish, disk yoki internetga kirish, va boshqalar) javob berish uchun ishlatiladi. 
++ Biroq, agar Interrupt Enable registri ochiq bo'lsa, uzilishlar ishga tushiriladi va kompyuter uzilishni boshqarish uchun kerakli kodni bajaradi. Uzilishlar, kompyuterda sodir bo'lgan muhim hodisalarga (masalan, klaviaturani bosish, disk yoki internetga kirish, va boshqalar) javob berish uchun ishlatiladi. 
 
-Bundan tashqari, Interrupt Enable registri yoniq yoki ochiq bo'lishi, kompyuter tizimining xususiyatlariga va ishlatiladigan dasturlarga qarab o'zgarishi mumkin.
++ Bundan tashqari, Interrupt Enable registri yoniq yoki ochiq bo'lishi, kompyuter tizimining xususiyatlariga va ishlatiladigan dasturlarga qarab o'zgarishi mumkin.
 93. Qaysi qatorda dasturlarning turi to‘g‘ri ko‘rsatilgan? 
-Agar dasturlar tuzish vaqti ko'rsatilgan bo'lsa, bu qator "Compile Time" yoki "Build Time" deb ataladi. Bu, dastur tuzilishida, dastur kodi kompyuterda bajarilgandan oldin, kodni tekshirish, tuzish va boshqa kerakli amallarni bajarish uchun kerakli vositalar va kutubxonalarni yuklash va boshqa tuzish jarayonlarini o'z ichiga oladi. 
++ Agar dasturlar tuzish vaqti ko'rsatilgan bo'lsa, bu qator "Compile Time" yoki "Build Time" deb ataladi. Bu, dastur tuzilishida, dastur kodi kompyuterda bajarilgandan oldin, kodni tekshirish, tuzish va boshqa kerakli amallarni bajarish uchun kerakli vositalar va kutubxonalarni yuklash va boshqa tuzish jarayonlarini o'z ichiga oladi. 
 
-Agar dasturlar haqida ma'lumot berilgan bo'lsa, bu qator "Runtime" yoki "Execution Time" deb ataladi. Bu, dastur ishga tushirilgandan keyin, dastur kodining kompyuterda bajarilishi va dastur tomonidan bajariladigan amallarni o'z ichiga oladi. 
++ Agar dasturlar haqida ma'lumot berilgan bo'lsa, bu qator "Runtime" yoki "Execution Time" deb ataladi. Bu, dastur ishga tushirilgandan keyin, dastur kodining kompyuterda bajarilishi va dastur tomonidan bajariladigan amallarni o'z ichiga oladi. 
 
-Bundan tashqari, dasturlarning turi, dastur tuzish vaqti va dastur ishga tushirilish vaqti orasidagi farqni tushuntirish uchun ham foydali bo'ladi.
++ Bundan tashqari, dasturlarning turi, dastur tuzish vaqti va dastur ishga tushirilish vaqti orasidagi farqni tushuntirish uchun ham foydali bo'ladi.
+
 94. Quyidagi berilganlardan qaysi bir markaziy protsessorda joylashmagan? 
 Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 
@@ -241,105 +309,151 @@ Quyidagi berilganlardan hech qaysi bir markaziy protsessorda joylashmagan:
 - Printer
 - Skaner
 
-Bu qurilmalar har biri, o'zlarining xususiyatlari va funksiyalari bo'yicha o'z-o'zidan ishlaydigan qurilmalardir. Markaziy protsessor esa, barcha qurilmalardan kelgan ma'lumotlarni qabul qiladi, ularni boshqaradi va kerakli amallarni bajaradi.
-95. Quyidagi berilganlardan qaysi biri markaziy protsessorda joylashmagan?
-Quyidagi berilganlardan "Monitor" markaziy protsessorda joylashmaydi. Monitor, kompyuter tizimida ma'lumotlarni ko'rsatish uchun ishlatiladigan chiziqli ekran qurilmadir. Markaziy protsessor esa, barcha qurilmalardan kelgan ma'lumotlarni qabul qiladi, ularni boshqaradi va kerakli amallarni bajaradi.
- 96. Operatsion tizimning jarayonlar, hisob-kitoblar va operatsion tizim komponentlari o‘rtasida xotirani taqsimlash va to‘g‘ri yo‘nalishtirishi nima deb nomlanadi?
-Operatsion tizimning jarayonlar, hisob-kitoblar va operatsion tizim komponentlari o‘rtasida xotirani taqsimlash va to‘g‘ri yo‘nalishtirish "Xotira boshqaruvchi" (Memory Management) deb nomlanadi.
- 97. Kompyuter xotirasi nechta asosiy turga bo‘linadi?
-Kompyuter xotirasi uchta asosiy turga bo'linadi:
-1.	Kengaytirilgan xotira (RAM):
-2.	2. Kichik xotira (ROM)
- 
-3.	3. Tarmoq xotirasi:
- 98. Quyidagi berilganlardan qaysi biri ikkinchi darajali xotira hisoblanmaydi?
-Disklar ikkinchi darajali xotira hisoblanmaydi. Disklar, uzun muddatli xotira hisoblanadi va kompyuterda saqlangan ma'lumotlarni saqlash uchun ishlatiladi. Disklar, operatsion tizim va dasturlar uchun foydalaniladigan kengaytirilgan xotiradan farqli ravishda ishlaydi.
- 99. Quyidagi berilganlardan qaysi biri asosiy xotira hisoblanmaydi? 
-Monitorlar asosiy xotira hisoblanmaydi. Monitorlar, kompyuterda ko'rsatiladigan tasvir va matn ma'lumotlarini ko'rsatish uchun ishlatiladigan chiziqlikli ekranlardir. Asosiy xotira, RAM, ROM va tarmoq xotirasi kabi kompyuter tizimining ishlashida kerakli xotira turlarini ifodalaydi.
-100. Xotira menejeri deb nimaga aytiladi? 
-Xotira menejeri, kompyuterda saqlangan ma'lumotlarni boshqarish uchun ishlatiladigan dasturdir.
-101. ... bu bir baytli tartiblangan yacheyka massiviga ega bo‘lgan va har bir yacheykaning o‘z adresi bo‘lgan xotira turidir. Nuqtalar o‘rniga mos keladigan javobni belgilang. 
-102. Bu xotira turi chiziqli birlik manzili va shu manzillarni ketma-ket joylashtirishdan hosil bo‘lgan baytlardan iborat. Xotira turini toping. 
-Sizning baytlaringiz chiziqli birlik manzilini saqlaydigan va shu manzillarni ketma-ket joylashtirishdan hosil bo'lgan baytlardan iborat. Bu xotira turiga "massiv" yoki "array" deyiladi.
-103. Quyidagilardan qaysi biri to‘g‘ridan-to‘g‘ri markaziy protsessor va kiritish/chiqarish modullari orqali tashqi xotiraga bog‘lanadi? 
-To'g'ri javob "Markaziy protsessor"dir. Markaziy protsessor (CPU) kompyuterda barcha amallarni bajaradi va xotira bilan ishlashni boshqaradi. Kiritish/chiqarish modullari esa xotiraga ma'lumotlarni yozish va o'qish uchun ishlatiladi
-104. Kompyuterda turli amallarni judayam tez bajaralishini ta’minlaydigan xotira turi qanday nomlanadi? 
-Bu xotira turiga "RAM" (Random Access Memory) yoki "aniq kirishli xotira" deyiladi. RAM, kompyuterda joriy ishlayotgan dasturlar va fayllar uchun foydali bo'lgan va ularga tez kirish va chiqish imkoniyatini ta'minlaydigan xotira turi hisoblanadi. RAM, kompyuterda amalga oshirilayotgan har qanday amalni tez bajarish uchun kerak bo'lgan ma'lumotlarni saqlaydi.
-105. Xotirada saqlanishi mumkin bo‘lgan ma’lumotlarning umumiy hajmi nima deb nomlanadi? 
-Xotirada saqlanishi mumkin bo'lgan ma'lumotlarning umumiy hajmi "disk yoki hard disk hajmi" deb nomlanadi. Bu hajm, kompyuterda saqlanishi mumkin bo'lgan barcha ma'lumotlarni saqlash uchun foydali bo'lgan xotira turi hisoblanadi. Hard disk hajmi, kompyuterda saqlanishi mumkin bo'lgan ma'lumotlar soni va hajmi bo'yicha cheklangan bo'ladi. Bu hajm gigabayt (GB) yoki terabayt (TB) ko'rinishida ifodalangan bo'ladi.
-106. Xotira ierarxiyasida joylashgan xotira turlarida xotira sig‘imi qay tarzda oshib boradi? 
-Xotira ierarxiyasida joylashgan xotira turlarida xotira sigimi "hajmi kichikdan katta bo'lgan tartibli sigim" deb nomlanadi. Bu sigim, xotiraning kichik bo'limlaridan boshlab katta bo'limlarga qarab oshib boradi. Bunday tartibda, xotira sigimi quyidagi turdagi bo'limlardan tashkil topadi:
++Bu qurilmalar har biri, o'zlarining xususiyatlari va funksiyalari bo'yicha o'z-o'zidan ishlaydigan qurilmalardir. Markaziy protsessor esa, barcha qurilmalardan kelgan ma'lumotlarni qabul qiladi, ularni boshqaradi va kerakli amallarni bajaradi.
 
-1. Sektorlar: Xotiraning eng kichik bo'limlari, har biri 512 baytlik ma'lumotlarni saqlaydi.
-2. Bloklar: Sektorlar guruhidan tashkil topadi va har biri 8-16 sektordan iborat bo'ladi.
-3. Kechiktirish bloklari: Bloklar guruhidan tashkil topadi va har biri 2-64 blokdan iborat bo'ladi.
-4. Fizikaviy bloklar: Kechiktirish bloklari guruhidan tashkil topadi va har biri 2-8 kechiktirish blokidan iborat bo'ladi.
-5. Bo'sh xotira bloklari: Fizikaviy bloklar guruhidan tashkil topadi va bo'sh xotira bloklarini saqlaydi.
+95. Quyidagi berilganlardan qaysi biri markaziy protsessorda joylashmagan?
++ Quyidagi berilganlardan "Monitor" markaziy protsessorda joylashmaydi. Monitor, kompyuter tizimida ma'lumotlarni ko'rsatish uchun ishlatiladigan chiziqli ekran qurilmadir. Markaziy protsessor esa, barcha qurilmalardan kelgan ma'lumotlarni qabul qiladi, ularni boshqaradi va kerakli amallarni bajaradi.
+
+96. Operatsion tizimning jarayonlar, hisob-kitoblar va operatsion tizim komponentlari o‘rtasida xotirani taqsimlash va to‘g‘ri yo‘nalishtirishi nima deb nomlanadi?
++Operatsion tizimning jarayonlar, hisob-kitoblar va operatsion tizim komponentlari o‘rtasida xotirani taqsimlash va to‘g‘ri yo‘nalishtirish "Xotira boshqaruvchi" (Memory Management) deb nomlanadi.
+
+97. Kompyuter xotirasi nechta asosiy turga bo‘linadi?
++Kompyuter xotirasi uchta asosiy turga bo'linadi:
++ 1.	Kengaytirilgan xotira (RAM):
++ 2.	2. Kichik xotira (ROM)
++ 3.	3. Tarmoq xotirasi:
+
+98. Quyidagi berilganlardan qaysi biri ikkinchi darajali xotira hisoblanmaydi?
++ Disklar ikkinchi darajali xotira hisoblanmaydi. Disklar, uzun muddatli xotira hisoblanadi va kompyuterda saqlangan ma'lumotlarni saqlash uchun ishlatiladi. Disklar, operatsion tizim va dasturlar uchun foydalaniladigan kengaytirilgan xotiradan farqli ravishda ishlaydi.
+
+99. Quyidagi berilganlardan qaysi biri asosiy xotira hisoblanmaydi? 
++ Monitorlar asosiy xotira hisoblanmaydi. Monitorlar, kompyuterda ko'rsatiladigan tasvir va matn ma'lumotlarini ko'rsatish uchun ishlatiladigan chiziqlikli ekranlardir. Asosiy xotira, RAM, ROM va tarmoq xotirasi kabi kompyuter tizimining ishlashida kerakli xotira turlarini ifodalaydi.
+
+100. Xotira menejeri deb nimaga aytiladi? 
++ Xotira menejeri, kompyuterda saqlangan ma'lumotlarni boshqarish uchun ishlatiladigan dasturdir.
+
+101. ... bu bir baytli tartiblangan yacheyka massiviga ega bo‘lgan va har bir yacheykaning o‘z adresi bo‘lgan xotira turidir. Nuqtalar o‘rniga mos keladigan javobni belgilang.
+
+102. Bu xotira turi chiziqli birlik manzili va shu manzillarni ketma-ket joylashtirishdan hosil bo‘lgan baytlardan iborat. Xotira turini toping. 
++ Sizning baytlaringiz chiziqli birlik manzilini saqlaydigan va shu manzillarni ketma-ket joylashtirishdan hosil bo'lgan baytlardan iborat. Bu xotira turiga "massiv" yoki "array" deyiladi.
+
+103. Quyidagilardan qaysi biri to‘g‘ridan-to‘g‘ri markaziy protsessor va kiritish/chiqarish modullari orqali tashqi xotiraga bog‘lanadi? 
++ To'g'ri javob "Markaziy protsessor"dir. Markaziy protsessor (CPU) kompyuterda barcha amallarni bajaradi va xotira bilan ishlashni boshqaradi. Kiritish/chiqarish modullari esa xotiraga ma'lumotlarni yozish va o'qish uchun ishlatiladi
+
+104. Kompyuterda turli amallarni judayam tez bajaralishini ta’minlaydigan xotira turi qanday nomlanadi? 
++ Bu xotira turiga "RAM" (Random Access Memory) yoki "aniq kirishli xotira" deyiladi. RAM, kompyuterda joriy ishlayotgan dasturlar va fayllar uchun foydali bo'lgan va ularga tez kirish va chiqish imkoniyatini ta'minlaydigan xotira turi hisoblanadi. RAM, kompyuterda amalga oshirilayotgan har qanday amalni tez bajarish uchun kerak bo'lgan ma'lumotlarni saqlaydi.
+
+105. Xotirada saqlanishi mumkin bo‘lgan ma’lumotlarning umumiy hajmi nima deb nomlanadi? 
++ Xotirada saqlanishi mumkin bo'lgan ma'lumotlarning umumiy hajmi "disk yoki hard disk hajmi" deb nomlanadi. Bu hajm, kompyuterda saqlanishi mumkin bo'lgan barcha ma'lumotlarni saqlash uchun foydali bo'lgan xotira turi hisoblanadi. Hard disk hajmi, kompyuterda saqlanishi mumkin bo'lgan ma'lumotlar soni va hajmi bo'yicha cheklangan bo'ladi. Bu hajm gigabayt (GB) yoki terabayt (TB) ko'rinishida ifodalangan bo'ladi.
+
+106. Xotira ierarxiyasida joylashgan xotira turlarida xotira sig‘imi qay tarzda oshib boradi? 
++Xotira ierarxiyasida joylashgan xotira turlarida xotira sigimi "hajmi kichikdan katta bo'lgan tartibli sigim" deb nomlanadi. Bu sigim, xotiraning kichik bo'limlaridan boshlab katta bo'limlarga qarab oshib boradi. Bunday tartibda, xotira sigimi quyidagi turdagi bo'limlardan tashkil topadi:
+
++ 1. Sektorlar: Xotiraning eng kichik bo'limlari, har biri 512 baytlik ma'lumotlarni saqlaydi.
++ 2. Bloklar: Sektorlar guruhidan tashkil topadi va har biri 8-16 sektordan iborat bo'ladi.
++ 3. Kechiktirish bloklari: Bloklar guruhidan tashkil topadi va har biri 2-64 blokdan iborat bo'ladi.
++ 4. Fizikaviy bloklar: Kechiktirish bloklari guruhidan tashkil topadi va har biri 2-8 kechiktirish blokidan iborat bo'ladi.
++ 5. Bo'sh xotira bloklari: Fizikaviy bloklar guruhidan tashkil topadi va bo'sh xotira bloklarini saqlaydi.
+
 107. Xotira ierarxiyasida ma’lumotni o‘qish/yozish so‘rovi va uning amalga oshishi o‘rtasidagi vaqt oralig‘i nima deb nomlanadi?
-Xotira ierarxiyasida ma'lumotni o'qish/yozish so'rovi va uning amalga oshishi o'rtasidagi vaqt oraligi "kirish vaqti" yoki "latensiya" deb nomlanadi
- 108. Xotira ierarxiyasida joylashgan xotira turlarida kirish vaqti qay tarzda oshib boradi? 
-Xotira ierarxiyasida joylashgan xotira turlarida kirish vaqti, xotira turiga va xotiradagi ma'lumotni topish uchun kerak bo'lgan qurilmalar va ularga qo'shilgan interfeyslariga qarab o'zgaradi.
++Xotira ierarxiyasida ma'lumotni o'qish/yozish so'rovi va uning amalga oshishi o'rtasidagi vaqt oraligi "kirish vaqti" yoki "latensiya" deb nomlanadi
+
+108. Xotira ierarxiyasida joylashgan xotira turlarida kirish vaqti qay tarzda oshib boradi? 
++ Xotira ierarxiyasida joylashgan xotira turlarida kirish vaqti, xotira turiga va xotiradagi ma'lumotni topish uchun kerak bo'lgan qurilmalar va ularga qo'shilgan interfeyslariga qarab o'zgaradi.
+
 109. Quyidagilardan qaysi biri xotira ierarxiyasida ishlash samaradorligini oshishiga yordam berdi?
-SSD (Solid State Drive) xotirasi, xotira ierarxiyasida ishlash samaradorligini oshirishga yordam beradi.
- 110. Xotira ierarxiyasi dizaynida joylashgan xotira turlarida bit uchun sarf qay tarzda oshib boradi?
-Bit uchun sarf qilinadigan xotira turlari ko'p xil bo'lishi mumkin, ammo umumiy ravishda, bit uchun sarf qilinadigan xotiralar ko'p yoki kam ma'lumotni saqlash uchun ishlatiladi.
- 111. Asosiy xotira asosini quyidagi qurilmalarning qaysi biri tashkil etadi? 
-Asosiy xotira asosi, hard disk drive (HDD) tashkil etadi. HDD, ma'lumotni mekanik diskda saqlaydi va ma'lumotni o'qish/yozish uchun diskda aylanuvchi bir qo'llanma ishlatadi. HDD, yuqori ma'lumot saqlash qobiliyatiga ega bo'lib, ko'p xil hajmdagi xotiralar mavjud bo'lishi mumkin.
++ SSD (Solid State Drive) xotirasi, xotira ierarxiyasida ishlash samaradorligini oshirishga yordam beradi.
+
+110. Xotira ierarxiyasi dizaynida joylashgan xotira turlarida bit uchun sarf qay tarzda oshib boradi?
++ Bit uchun sarf qilinadigan xotira turlari ko'p xil bo'lishi mumkin, ammo umumiy ravishda, bit uchun sarf qilinadigan xotiralar ko'p yoki kam ma'lumotni saqlash uchun ishlatiladi.
+
+111. Asosiy xotira asosini quyidagi qurilmalarning qaysi biri tashkil etadi? 
++ Asosiy xotira asosi, hard disk drive (HDD) tashkil etadi. HDD, ma'lumotni mekanik diskda saqlaydi va ma'lumotni o'qish/yozish uchun diskda aylanuvchi bir qo'llanma ishlatadi. HDD, yuqori ma'lumot saqlash qobiliyatiga ega bo'lib, ko'p xil hajmdagi xotiralar mavjud bo'lishi mumkin.
+
 112. Tezkor xotira (RAM)ning nechta turi mavjud? 
-5ta
++  5ta
+
 113. Har bir yacheykasi 6 tranzistorli (diod) sirkut orqali bir bit ma’lumot saqlaydigan xotira turi qanday nomlanadi? 
-Har bir yacheykasi 6 tranzistorli (diod) sirkut orqali bir bit ma'lumot saqlaydigan xotira turi "Static Random Access Memory (SRAM)" deb nomlanadi.
++ Har bir yacheykasi 6 tranzistorli (diod) sirkut orqali bir bit ma'lumot saqlaydigan xotira turi "Static Random Access Memory (SRAM)" deb nomlanadi.
+
 114. Har bir yacheykasi ma’lumotni tranzistor va ma’lumot saqlagich orqali saqlaydigan xotira turi qanday ataladi? 
-Har bir yacheykasi ma'lumotni tranzistor va ma'lumot saqlagich orqali saqlaydigan xotira turi "Dynamic Random Access Memory (DRAM)" deb ataladi.
++ Har bir yacheykasi ma'lumotni tranzistor va ma'lumot saqlagich orqali saqlaydigan xotira turi "Dynamic Random Access Memory (DRAM)" deb ataladi.
+
 115. Quyidagi xotira turlaridan qaysi birida ma’lumot elektr toki uzilguncha saqlanib qoladi? 
-Ma'lumot elektr toki uzilguncha saqlanib qoladigan xotira turi "Magnetic Random Access Memory (MRAM)" deb ataladi
++ Ma'lumot elektr toki uzilguncha saqlanib qoladigan xotira turi "Magnetic Random Access Memory (MRAM)" deb ataladi
+
 116. Quyidagi xotira turlaridan qaysi birida ma’lumot har 10-100ms oralig‘ida yangilanib turadi?
-Ma'lumot har 10-100ms oralig'ida yangilanib turadigan xotira turi "Hard Disk Drive (HDD)" deb ataladi.
- 117. Quyidagi xotira turlaridan qaysi biri uzilishlar va har xil ishdan chiqishlarga nisbatan sezuvchan emas?
-Uzilishlar va har xil ishdan chiqishlarga nisbatan sezuvchan olmaydigan xotira turi "Solid State Drive (SSD)" deb ataladi
- 118. Quyidagi xotira turlaridan qaysi biri uzilishlar va har xil ishdan chiqishlarga nisbatan juda sezgir? 
-Uzilishlar va har xil ishdan chiqishlarga nisbatan juda sezgir xotira turi "Random Access Memory (RAM)" deb ataladi.
++ Ma'lumot har 10-100ms oralig'ida yangilanib turadigan xotira turi "Hard Disk Drive (HDD)" deb ataladi.
+
+117. Quyidagi xotira turlaridan qaysi biri uzilishlar va har xil ishdan chiqishlarga nisbatan sezuvchan emas?
++ Uzilishlar va har xil ishdan chiqishlarga nisbatan sezuvchan olmaydigan xotira turi "Solid State Drive (SSD)" deb ataladi
+
+118. Quyidagi xotira turlaridan qaysi biri uzilishlar va har xil ishdan chiqishlarga nisbatan juda sezgir? 
++ Uzilishlar va har xil ishdan chiqishlarga nisbatan juda sezgir xotira turi "Random Access Memory (RAM)" deb ataladi.
+
 119. Statik tezkor xotira(SRAM) dinamik tezkor xotira(DRAM)ga qaraganda … va … . Nuqtalar o‘rniga mos keladigan to‘g‘ri javobni belgilang. 
-Statik tezkor xotira (SRAM) dinamik tezkor xotira (DRAM)ga qaraganda tezroq va kamroq, ammo katta hajmda va qimmatroq bo'ladi.
++ Statik tezkor xotira (SRAM) dinamik tezkor xotira (DRAM)ga qaraganda tezroq va kamroq, ammo katta hajmda va qimmatroq bo'ladi.
+
 120. Dinamik tezkor xotira(DRAM) Statik tezkor xotira(SRAM)ga qaraganda … va … . Nuqtalar o‘rniga mos keladigan to‘g‘ri javobni belgilang.
-Dinamik tezkor xotira (DRAM) Statik tezkor xotira (SRAM)ga qaraganda arzonroq va kichik hajmda, ammo tezroq va kuchli elektr energiya talab qiladi.
++ Dinamik tezkor xotira (DRAM) Statik tezkor xotira (SRAM)ga qaraganda arzonroq va kichik hajmda, ammo tezroq va kuchli elektr energiya talab qiladi.
+
  121. Doimiy xotira(ROM)ning nechta turi mavjud? 
-3 ta 
-122. Doimiy xotira turlaridan qaysi birida ishlab chiqarilgan vaqtda allaqachon lozim bo‘lgan dastur yozilgan bo‘ladi? . Maskanlangan ROM (Mask ROM) turi ishlab chiqarilgan vaqtda allaqachon lozim bo'lgan dastur yozilgan bo'ladi.
++  3 ta 
+
+122. Doimiy xotira turlaridan qaysi birida ishlab chiqarilgan vaqtda allaqachon lozim bo‘lgan dastur yozilgan bo‘ladi? . 
++ Maskanlangan ROM  (Mask ROM) turi ishlab chiqarilgan vaqtda allaqachon lozim bo'lgan dastur yozilgan bo'ladi.
+
 123. Doimiy xotira turlaridan qaysi birida dasturchi xotiraga o‘z dasturlarini yozish imkoniga ega bo‘ladi? 
-Erasable Programmable ROM (EPROM) turi dasturchi xotiraga o'z dasturlarini yozish imkoniga ega bo'ladi
++ Erasable Programmable ROM (EPROM) turi dasturchi xotiraga o'z dasturlarini yozish imkoniga ega bo'ladi
+
 124. PROM dasturchisining asosiy vazifasi nima? 
-Programmable Read-Only Memory (PROM) dasturchisining asosiy vazifasi, ma'lumotlarni doimiy ravishda saqlashdir.
++ Programmable Read-Only Memory (PROM) dasturchisining asosiy vazifasi, ma'lumotlarni doimiy ravishda saqlashdir.
+
 125. Doimiy xotira turlaridan EEPROM turi asosan kompyuterning qaysi qismida ishlatiladi?
-Electrically Erasable Programmable Read-Only Memory (EEPROM) turi, kompyuterning BIOS (Basic Input/Output System) qismida ishlatiladi. BIOS, kompyuter yuklanishida ishga tushiriladi va kompyuter tizimining asosiy qismlarini boshqaradi.
- 126. Kompyuterning turli komponentlari o‘rtasida bog‘lanishni ta’minlab berish vazifasini bajaradigan qismi nima deb nomlanadi? 
-Motherboard (Boshqa nomi: System board, mainboard, baseboard) - bu kompyuterning turli komponentlari o‘rtasida bog‘lanishni ta’minlab berish vazifasini bajaradigan qismi
++ Electrically Erasable Programmable Read-Only Memory (EEPROM) turi, kompyuterning BIOS (Basic Input/Output System) qismida ishlatiladi. BIOS, kompyuter yuklanishida ishga tushiriladi va kompyuter tizimining asosiy qismlarini boshqaradi.
+
+126. Kompyuterning turli komponentlari o‘rtasida bog‘lanishni ta’minlab berish vazifasini bajaradigan qismi nima deb nomlanadi? 
++Motherboard (Boshqa nomi: System board, mainboard, baseboard) - bu kompyuterning turli komponentlari o‘rtasida bog‘lanishni ta’minlab berish vazifasini bajaradigan qismi
+
 127. Bir vaqtda bitta liniyadan ma’lumot uzatish jarayoni qanday nomlanadi? 
-Bu jarayon "liniya uzatish" yoki "liniya sifatida ma'lumot qo'shish" deb nomlanadi.
++ Bu jarayon "liniya uzatish" yoki "liniya sifatida ma'lumot qo'shish" deb nomlanadi.
+
 128. Bir paytning o‘zida bir nechta yo‘laklardan ma’lumot uzatish qanday nomlanadi? 
-Bu jarayon "yo'lovchi ma'lumotlarni birlashtirish" yoki "yo'lovchi ma'lumotlarni birlashtirish" deb nomlanadi.
++ Bu jarayon "yo'lovchi ma'lumotlarni birlashtirish" yoki "yo'lovchi ma'lumotlarni birlashtirish" deb nomlanadi.
+
 129. Aloqa yo‘laklari nechta funksional guruhlarga bo‘linadi? 
-Aloqa yo‘laklari quyidagi funksional guruhlarga bo‘linadi: 1. Ma'lumotlar ko'chirish: 2. Ma'lumotlar yuklash: 3. Ma'lumotlarni o'zgartirish: 4. Ma'lumotlarni o'qish 5. Ma'lumotlar bilan ishlash
++ Aloqa yo‘laklari quyidagi funksional guruhlarga bo‘linadi: 1. Ma'lumotlar ko'chirish: 2. Ma'lumotlar yuklash: 3. Ma'lumotlarni o'zgartirish: 4. Ma'lumotlarni o'qish 5. Ma'lumotlar bilan ishlash
+
 130. Kompyuter ma’lumot aloqa yo‘lagining asosiy vazifasi to‘liq berilgan qatorni toping. 
-Kompyuter ma'lumot aloqa yo'lagining asosiy vazifasi yo'lovchi ma'lumotlarini birlashtirishdir.
++Kompyuter ma'lumot aloqa yo'lagining asosiy vazifasi yo'lovchi ma'lumotlarini birlashtirishdir.
+
 131. Kompyuter manzil yo‘lagining asosiy vazifasi to‘liq berilgan qatorni toping. 
-1. Ma'lumotlarni birlashtirish 2. Yo'lovchi ma'lumotlarni o'tkazish:3. Yuklash 4. O'zgartirish: 5. O'qish:6. Ishlash
++1. Ma'lumotlarni birlashtirish 2. Yo'lovchi ma'lumotlarni o'tkazish:3. Yuklash 4. O'zgartirish: 5. O'qish:6. Ishlash
+
 132. Kompyuter nazorat yo‘lagining asosiy vazifasi to‘g‘ri berilgan qatorni toping. 
-Kompyuter nazorat yo‘lagining asosiy vazifasi kompyuter tizimlarini, dasturlarini va fayllarni boshqarish, xavfsizligini ta'minlash, tarmoqlar orasida ma'lumot almashishni va o'tkazishni nazorat qilishdir.
++ Kompyuter nazorat yo‘lagining asosiy vazifasi kompyuter tizimlarini, dasturlarini va fayllarni boshqarish, xavfsizligini ta'minlash, tarmoqlar orasida ma'lumot almashishni va o'tkazishni nazorat qilishdir.
+
 133. Ma’lumot yo‘lagi kengligi qanday o‘lchanadi? 
-Ma'lumot yo'lagi kengligi o'lchash uchun bit va bayt (byte) tizimidan foydalaniladi.
++ Ma'lumot yo'lagi kengligi o'lchash uchun bit va bayt (byte) tizimidan foydalaniladi.
+
 134. Ma’lumotlar yo‘laklari soniga to‘g‘ri ta’rif berilgan qatorni toping. 
-Ma'lumot yo'laglari, ma'lumotlarni uzatish va almashish uchun xizmat qiladigan tarmoq va tizimlar to'plami.
++ Ma'lumot yo'laglari, ma'lumotlarni uzatish va almashish uchun xizmat qiladigan tarmoq va tizimlar to'plami.
+
 135. Har bir ma’lumot yo‘lagi qatori bir vaqtning o‘zida qancha ma’lumot tashiy oladi? 
-Har bir ma'lumot yo'lagi qatori bir vaqtning o'zida foydalanuvchining talabiga va tarmoqning xizmat qilish kuchiga qarab o'zgaradi. Ma'lumotlar uzatilish va almashish tezligi ham qatorning kuchiga bog'liq bo'ladi. Bunday sabablarga ko'ra, har bir ma'lumot yo'lagi o'zini belgilangan tezlikda ishga tushiradi.
++ Har bir ma'lumot yo'lagi qatori bir vaqtning o'zida foydalanuvchining talabiga va tarmoqning xizmat qilish kuchiga qarab o'zgaradi. Ma'lumotlar uzatilish va almashish tezligi ham qatorning kuchiga bog'liq bo'ladi. Bunday sabablarga ko'ra, har bir ma'lumot yo'lagi o'zini belgilangan tezlikda ishga tushiradi.
+
 136. Agar ma’lumotlar yo‘lagi 32 bit kenglikda bo‘lsa va har bir instruksiya 64 bit uzunlikda bo‘lsa, har bir instruksiya xotiraga necha marta murojaat qilishni talab etadi? 
-Har bir instruksiya 2 marta xotiraga murojaat qilishni talab etadi.
++ Har bir instruksiya 2 marta xotiraga murojaat qilishni talab etadi.
+
 137. 32 bit kenglikdagi ma’lumotlar yo‘lagidan ma’lumot jo‘natish 3 marta xotiraga murojaat qilishni talab etsa ma’lumotning uzunligini toping. 
-Ma'lumotning uzunligi 12 bayt (96 bit) bo'ladi. (32 bit = 4 bayt, 3ta 4 baytlik ma'lumot jo'natish uchun 12 bayt kerak)
++ Ma'lumotning uzunligi 12 bayt (96 bit) bo'ladi. (32 bit = 4 bayt, 3ta 4 baytlik ma'lumot jo'natish uchun 12 bayt kerak)
+
 138. 128 bit uzunlikdagi instruksiyani 2 marta xotiraga murojaat qilish orqali jo‘natish uchun qancha kenglikdagi ma’lumotlar yo‘lagi talab etiladi? 
-128 bit uzunlikdagi instruksiyani 2 marta xotiraga murojaat qilish orqali jo‘natish uchun 32 bayt (256 bit) kenglikdagi ma’lumotlar yo‘lagi talab etiladi.
++ 128 bit uzunlikdagi instruksiyani 2 marta xotiraga murojaat qilish orqali jo‘natish uchun 32 bayt (256 bit) kenglikdagi ma’lumotlar yo‘lagi talab etiladi.
+
 139. 64 bit uzunlikdagi instruksiya 8 bit kenglikdagi ma’lumotlar yo‘lagidan necha marta xotiraga murojaat qilish orqali jo‘natiladi? 
-64 bit uzunlikdagi instruksiya 8 bit kenglikdagi ma’lumotlar yo‘lagidan 8 marta xotiraga murojaat qilish orqali jo‘natiladi.
++ 64 bit uzunlikdagi instruksiya 8 bit kenglikdagi ma’lumotlar yo‘lagidan 8 marta xotiraga murojaat qilish orqali jo‘natiladi.
+
 140. 8 bit kenglikdagi ma’lumotlar yo‘lagidan ma’lumot 3 marta xotiraga murojaat qilish orqali jo‘natildi. Ma’lumot hajmini toping. Ma'lumot hajmi: 64 bit / 8 bit = 8 bayt
 Murojaatlar soni: 8 + 3 = 11 marta
 Jo'natilgan ma'lumot hajmi: 8 bayt x 11 marta = 88 bayt
