@@ -1,54 +1,66 @@
 “Computer Architecture” “Information Systems Engineering” “ISE-51U/ISE-52U/ISE-53U” 
 ```diff
-- 1.	Shaxsiy kompyuterlar hajmiga va foydalanilish imkoniyatlaridan kelib chiqib nechta turga bo‘linadi? 2 turga
+ 1.	Shaxsiy kompyuterlar hajmiga va foydalanilish imkoniyatlaridan kelib chiqib nechta turga bo‘linadi? 
+#      2 turga
 
-2. Smartphonelar, tablet kompyuterlar, va laptoplar kompyuterlarning qaysi turiga kiradi? 
-shaxsiy kompyuterlardir, mobil kompyuterlar,
+ 2. Smartphonelar, tablet kompyuterlar, va laptoplar kompyuterlarning qaysi turiga kiradi? 
+#    shaxsiy kompyuterlardir, mobil kompyuterlar,
 
 3. Ma’lum bir vazifa yoki vazifalar jamlanmasini amalga oshirish uchun mo‘ljallangan va o‘zida qisman kompyuter funksiyalarini jamlagan kompyuter turi qanday nomlanadi?
-maxsus kompyuter.
-4.	O‘rnatilgan(embedded) kompyuterlar qaysi sohada eng ko‘p qo‘llanadi va qaysi sohaning asosi hisoblanadi?
+#  maxsus kompyuter.
 
-O'rnatilgan kompyuterlar turli sohalarda qo'llaniladi, lekin eng keng tarqalganlari avtomobil sanoati, tibbiy texnologiya, sanoat boshqaruvi va boshqaruvi, maishiy elektronika, telekommunikatsiya va aviatsiya sanoatidir. O'rnatilgan kompyuterlarning asosiy qo'llanilishi jarayonlarni avtomatlashtirish va real vaqt rejimida tizimlarni boshqarishdir.
+ 4.	O‘rnatilgan(embedded) kompyuterlar qaysi sohada eng ko‘p qo‘llanadi va qaysi sohaning asosi hisoblanadi?
+
+# O'rnatilgan kompyuterlar turli sohalarda qo'llaniladi, lekin eng keng tarqalganlari avtomobil sanoati, tibbiy texnologiya, sanoat boshqaruvi va boshqaruvi, maishiy elektronika, telekommunikatsiya va aviatsiya sanoatidir. O'rnatilgan kompyuterlarning asosiy qo'llanilishi jarayonlarni avtomatlashtirish va real vaqt rejimida tizimlarni boshqarishdir.
 
 5.	Ma’lum bir tadbirkorlik yoki umumiy foydalanish uchun mo‘ljallangan kompyuterlar turi qanday nomlanadi? 
-Javob: Shaxsiy kompyuter (kompyuter).
+#     Javob: Shaxsiy kompyuter (kompyuter).
 
-6.	Ma’lumotlar bazasi va turli xil dasturlarni o‘zida jamlab xizmatlar ko‘rsatadigan zamonaviy kompyuter serverlarini boshqarish uchun ishlatiladigan bulutli hisoblash sifatida qaraladigan soha nomi nima deb nomlanadi? 
-Bulutli xizmatlar (Cloud Computing)
-Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi? 
-Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar "superkompyuterlar" yoki "klastersiz kompyuterlar" deb nomlanadi
+ 6.	Ma’lumotlar bazasi va turli xil dasturlarni o‘zida jamlab xizmatlar ko‘rsatadigan zamonaviy kompyuter serverlarini boshqarish uchun ishlatiladigan bulutli hisoblash sifatida qaraladigan soha nomi nima deb nomlanadi? 
+#      Bulutli xizmatlar (Cloud Computing)
+
+ Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar turi qanday nomlanadi? 
+#    Ilmiy va muhandislik ishlarida ishlatiladigan kompyuterlar "superkompyuterlar" yoki "klastersiz kompyuterlar" deb nomlanadi
+
 7.	Kompyuterni tashkil etadigan asosiy ta’minot turlari to‘g‘ri ko‘rsatilgan javobni belgilang.
-Asosiy ta'minot turlari quyidagilardir:
+#  Asosiy ta'minot turlari quyidagilardir:
+# 1. Protsessor (CPU)
+# 2. Operativ xotira (RAM)
+# 3. Kutilmagan xotira (Hard disk)
+# 4. Tizim plati (Motherboard)
+# 5. Grafik karta (Video card)
+# 6. Tizim bloki (Power supply unit)
+# 7. Kutilmagan qurilmalar (Peripherals)
 
-1. Protsessor (CPU)
-2. Operativ xotira (RAM)
-3. Kutilmagan xotira (Hard disk)
-4. Tizim plati (Motherboard)
-5. Grafik karta (Video card)
-6. Tizim bloki (Power supply unit)
-- 7. Kutilmagan qurilmalar (Peripherals)
-+ 9. Monitor, klaviatura, sichqoncha, tizimli blok va boshqa kompyuter jihozlari kompyuterning qaysi ta’minotini tashkil etadi? 
-kompyuterning ta'minotini tashkil etadi.
+ 9. Monitor, klaviatura, sichqoncha, tizimli blok va boshqa kompyuter jihozlari kompyuterning qaysi ta’minotini tashkil etadi? 
+#     kompyuterning ta'minotini tashkil etadi.
+
 10. Kompyuterlarning ishlab turishi uchun yoziladigan dasturlarning yig‘indisidan iborat dasturlar jamlanmasi nima deb nomalanadi? 
-Operatsion tizim (Operating system)
-11. Foydalanuvchi va kompyuter uskuna ta’minoti o‘rtasida do‘stona muloqotni ta’minlovchi vosita nima deb nomlanadi?
-Operatsion tizim (Operating system).``````
-12. Ma’lum bir vazifani amalga oshirish uchun lozim bo‘lgan buyruqlar ketma-ketligi qanday nomlanadi? 
+#     Operatsion tizim (Operating system)
 
-Bu buyruqlar ketma-ketligi "kompyuter dasturi" (computer program) yoki "kompyuter operatsion tizimi" (computer operating system) deyiladi
+11. Foydalanuvchi va kompyuter uskuna ta’minoti o‘rtasida do‘stona muloqotni ta’minlovchi vosita nima deb nomlanadi?
+#     Operatsion tizim (Operating system).``````
+
+12. Ma’lum bir vazifani amalga oshirish uchun lozim bo‘lgan buyruqlar ketma-ketligi qanday nomlanadi? 
+#   Bu buyruqlar ketma-ketligi "kompyuter dasturi" (computer program) yoki "kompyuter operatsion tizimi" (computer operating system) deyiladi
+
 13. Kompyuter o‘chirilishi bilan quyidagi xotira turlaridan qaysi birida ma’lumot o‘chib ketadi? 
-RAM xotirasi.
+#   RAM xotirasi.
+
 14. Quyidagilardan qaysi biri kompyuter funksional qismlari o‘rtasida ma’lumotlar almashishni ta’minlab beradi? 
-RAM (Random Access Memory) xotirasi.
+#  RAM (Random Access Memory) xotirasi.
+
 15. Quyidagilardan qaysi biri kompyuterga ma’lumot kirituvchi qurilmaga misol bo‘ladi?
-Klaviatura
- 16. Quyidagilardan qaysi biri kompyuterga ma’lumot kirituvchi qurilmaga misol bo‘ladi? 
-Klaviatura
+# Klaviatura
+
+16. Quyidagilardan qaysi biri kompyuterga ma’lumot kirituvchi qurilmaga misol bo‘ladi? 
+# Klaviatura
+
 17. Quyidagilardan qaysi biri kompyuterga ma’lumot kirituvchi manbalardan biri?
-Klaviatura.
- 18. Quyidagilardan qaysi biri kompyuterdan ma’lumot chiqaruvchi qurilmaga misol bo‘la oladi? 
-Klaviatura.
+# Klaviatura.
+
+18. Quyidagilardan qaysi biri kompyuterdan ma’lumot chiqaruvchi qurilmaga misol bo‘la oladi? 
+# Klaviatura.
 19. Kiritish chiqarish portlarining asosiy vazifasi nima? 
 Malumotlarni uzatish
 20. Kompyuterning markaziy protsessori quyidagi berilgan funksiyalardan qaysi birini o‘z ichiga olmaydi? 
@@ -75,9 +87,9 @@ Bu hisoblash mashinasi Leonardo da Vinci tomonidan yaratilgan edi.
 Elektromexanik mashinalariga o‘tish uchun asos bo‘lib xizmat qilgan quyidagi hisoblash mashinalari: Pascaline, Leibniz's Stepped Reckoner, Charles Babbage's Difference Engine va Analytical Engine.
 31. 1942-1945 yillarda birinchi bo‘lib AQSHdagi Pensilvaniya universitetida yaratilgan hisoblash mashinalari ulardan oldin yaratilgan hisoblash mashinalaridan qaysi xususiyati bilan farq qilardi?
 Bu hisoblash mashinalari elektronik bo‘lmagan, balki mexanik bo‘lgan mashinalar edi. Ularning ishlash prinsiplari va qurilishi bir-biridan farqli edi. Bu mashinalar elektronik hisoblash mashinalari bilan o‘zaro qarshi kurashmaydi.
- 32. 1942-1945 yillarda birinchi bo‘lib AQSHdagi Pensilvaniya universitetida yaratilgan hisoblash mashinalari hisoblash texnikasining qaysi davrida yaratilgan?
+32. 1942-1945 yillarda birinchi bo‘lib AQSHdagi Pensilvaniya universitetida yaratilgan hisoblash mashinalari hisoblash texnikasining qaysi davrida yaratilgan?
 Bu dönemde yaratılan hesaplama makineleri, elektronik bilgisayarların ortaya çıkmasından önce mekanik hesaplama makineleriydi. Bu makineler arasında IBM'in Mark I ve Harvard Mark II makineleri bulunmaktadır.
- 33. Elektron hisoblash mashinalar davrida yaratilgan “ENIAK” elektron hisoblash mashinasining og‘irligi qancha edi?
+33. Elektron hisoblash mashinalar davrida yaratilgan “ENIAK” elektron hisoblash mashinasining og‘irligi qancha edi?
 ENIAC, 30 ton ağırlığındaydı.
  34. “ENIAK” elektron hisoblash mashinasi ishlab turishida nechta lampadan foydalanilgan edi?
 18.000
